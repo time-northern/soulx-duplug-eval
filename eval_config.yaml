@@ -1,0 +1,74 @@
+version: 1
+
+paths:
+  # Relative paths in this file are resolved from project_root.
+  project_root: ..
+  output_root: SoulX-Duplug-Eval/output
+
+model:
+  checkpoint: pretrained_models/SoulX-Duplug/SoulX-Duplug-0.6B-Bilingual.pth
+  far_field_threshold: 0.02
+  languages:
+    en:
+      base_config: config/config_fisher_en.yaml
+      asr:
+        model_name: sensevoice
+        language: en
+    zh:
+      base_config: config/config.yaml
+      asr:
+        model_name: paraformer
+    neutral:
+      base_config: config/config.yaml
+      asr:
+        model_name: sensevoice
+        language: auto
+
+datasets:
+  interruption:
+    en: SoulX-Duplug-Eval/data/Full-Duplex-Bench-en/v1.5/user_interruption
+    zh: SoulX-Duplug-Eval/data/Full-Duplex-Bench-zh/user_interruption
+  backchannel:
+    en: SoulX-Duplug-Eval/data/Full-Duplex-Bench-en/v1.5/user_backchannel
+    zh: SoulX-Duplug-Eval/data/Full-Duplex-Bench-zh/user_backchannel
+  background_speech:
+    en: SoulX-Duplug-Eval/data/Full-Duplex-Bench-en/v1.5/background_speech
+    zh: SoulX-Duplug-Eval/data/HumDial-FDBench/others_talk_to_user_after
+  # Optional diagnostic only; excluded from the default formal scenario list.
+  talking_to_other:
+    zh: SoulX-Duplug-Eval/data/HumDial-FDBench/talk_to_others_cn
+  # SID-Bench is language-independent and is evaluated once rather than
+  # duplicated across English and Chinese language contexts.
+  background_noise:
+    neutral: SoulX-Duplug-Eval/data/SID-bench
+  easy_turn:
+    en: SoulX-Duplug-Eval/data/Easy-Turn-Testset-en
+    zh: SoulX-Duplug-Eval/data/Easy-Turn-Testset-zh
+
+# Scenario-specific inference implementations share the common lifecycle,
+# manifest, error handling, and inference row schema.
+scenario_runners:
+  easy_turn:
+    implementation: easy_turn
+    runner_root: SoulX-Duplug-Eval/infer/easy_turn
+    official_root: SoulX-Duplug-Training-Official
+    asr_model_dirs:
+      en: ~/.cache/modelscope/hub/models/iic/SenseVoiceSmall
+      zh: ~/.cache/modelscope/hub/models/iic/speech_paraformer-large-vad-punc_asr_nat-zh-cn-16k-common-vocab8404-pytorch
+
+evaluation:
+  # Evaluate every SID-Bench noise sample, cap the source noise at 20 seconds,
+  # then append 2 seconds of silence before checking the full state trace.
+  background_noise_max_duration_sec: 20.0
+  background_noise_trailing_silence_sec: 2.0
+  interruption_latency_threshold_sec: 1.0
+  thresholds:
+    interruption_effective_false_rejection_lt: 0.02
+    interruption_invalid_rejection_gt: 0.85
+    rejection_effective_false_rejection_lt: 0.02
+    rejection_invalid_rejection_gt: 0.90
+    vad_pause_accuracy_gt: 0.90
+    vad_normal_endpoint_accuracy_gt: 0.90
+
+not_evaluated:
+  - background_speech (optional diagnostic only)

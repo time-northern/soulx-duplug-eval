@@ -1,0 +1,15 @@
+{
+  "final_duration": 26.05,
+  "speech_segments": [
+    {
+      "xmin": 0.5,
+      "xmax": 6.549999999999999,
+      "text": "so does that mean i should expect good luck after a long period of difficulties?"
+    },
+    {
+      "xmin": 11.549999999999999,
+      "xmax": 16.049999999999997,
+      "text": ""
+    }
+  ]
+}

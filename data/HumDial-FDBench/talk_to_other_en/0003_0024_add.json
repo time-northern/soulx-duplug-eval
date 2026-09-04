@@ -1,0 +1,20 @@
+{
+  "final_duration": 39.550000000000004,
+  "speech_segments": [
+    {
+      "xmin": 1.25,
+      "xmax": 6.4,
+      "text": "what are some meaningful ways to personalize a memorial bracelet for a loved one?"
+    },
+    {
+      "xmin": 11.4,
+      "xmax": 17.800000000000004,
+      "text": "what font styles are typically recommended for engraving to ensure clarity?"
+    },
+    {
+      "xmin": 22.8,
+      "xmax": 29.55,
+      "text": "do you think the recent climate anomalies are linked to the upcoming storm season?"
+    }
+  ]
+}

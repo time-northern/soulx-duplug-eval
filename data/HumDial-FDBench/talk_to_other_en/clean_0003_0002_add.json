@@ -1,0 +1,15 @@
+{
+  "final_duration": 27.5,
+  "speech_segments": [
+    {
+      "xmin": 0.8500000000000014,
+      "xmax": 6.949999999999999,
+      "text": "what shutter speed range is typically best for freezing the paddlers' movements?"
+    },
+    {
+      "xmin": 11.95,
+      "xmax": 17.500000000000004,
+      "text": ""
+    }
+  ]
+}

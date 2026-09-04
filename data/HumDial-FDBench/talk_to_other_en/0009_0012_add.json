@@ -1,0 +1,20 @@
+{
+  "final_duration": 41.900000000000006,
+  "speech_segments": [
+    {
+      "xmin": 0.75,
+      "xmax": 8.0,
+      "text": "what are some practical tips for maintaining a balanced diet when eating out frequently?"
+    },
+    {
+      "xmin": 13.0,
+      "xmax": 18.5,
+      "text": "how can i identify lean protein options on a typical restaurant menu?"
+    },
+    {
+      "xmin": 23.5,
+      "xmax": 31.9,
+      "text": "do you think a hyaluronic acid serum is effective for reducing fine lines around the eyes?"
+    }
+  ]
+}

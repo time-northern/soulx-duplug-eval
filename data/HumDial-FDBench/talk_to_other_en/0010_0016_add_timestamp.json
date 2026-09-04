@@ -1,0 +1,341 @@
+{
+    "text": "Does the concept of lock conservation mean that if I have a straight of bad lock, good luck will eventually balance it out? So does that mean I should expect good luck after a long period of difficulties? How often should I replace the filters in my L?",
+    "chunks": [
+        {
+            "text": "Does",
+            "timestamp": [
+                0.4,
+                0.8
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                0.8,
+                1.12
+            ]
+        },
+        {
+            "text": "concept",
+            "timestamp": [
+                1.12,
+                1.76
+            ]
+        },
+        {
+            "text": "of",
+            "timestamp": [
+                1.76,
+                2.08
+            ]
+        },
+        {
+            "text": "lock",
+            "timestamp": [
+                2.08,
+                2.56
+            ]
+        },
+        {
+            "text": "conservation",
+            "timestamp": [
+                2.56,
+                3.6
+            ]
+        },
+        {
+            "text": "mean",
+            "timestamp": [
+                3.6,
+                3.84
+            ]
+        },
+        {
+            "text": "that",
+            "timestamp": [
+                3.84,
+                4.08
+            ]
+        },
+        {
+            "text": "if",
+            "timestamp": [
+                4.08,
+                4.32
+            ]
+        },
+        {
+            "text": "I",
+            "timestamp": [
+                4.32,
+                4.5600000000000005
+            ]
+        },
+        {
+            "text": "have",
+            "timestamp": [
+                4.5600000000000005,
+                4.8
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                4.8,
+                4.96
+            ]
+        },
+        {
+            "text": "straight",
+            "timestamp": [
+                4.96,
+                5.6000000000000005
+            ]
+        },
+        {
+            "text": "of",
+            "timestamp": [
+                5.6000000000000005,
+                5.76
+            ]
+        },
+        {
+            "text": "bad",
+            "timestamp": [
+                5.76,
+                6.16
+            ]
+        },
+        {
+            "text": "lock,",
+            "timestamp": [
+                6.16,
+                6.5600000000000005
+            ]
+        },
+        {
+            "text": "good",
+            "timestamp": [
+                6.88,
+                7.2
+            ]
+        },
+        {
+            "text": "luck",
+            "timestamp": [
+                7.2,
+                7.84
+            ]
+        },
+        {
+            "text": "will",
+            "timestamp": [
+                7.84,
+                8.16
+            ]
+        },
+        {
+            "text": "eventually",
+            "timestamp": [
+                8.16,
+                8.88
+            ]
+        },
+        {
+            "text": "balance",
+            "timestamp": [
+                8.88,
+                9.68
+            ]
+        },
+        {
+            "text": "it",
+            "timestamp": [
+                9.68,
+                10.0
+            ]
+        },
+        {
+            "text": "out?",
+            "timestamp": [
+                10.0,
+                10.32
+            ]
+        },
+        {
+            "text": "So",
+            "timestamp": [
+                15.200000000000001,
+                15.36
+            ]
+        },
+        {
+            "text": "does",
+            "timestamp": [
+                15.52,
+                15.84
+            ]
+        },
+        {
+            "text": "that",
+            "timestamp": [
+                15.84,
+                16.080000000000002
+            ]
+        },
+        {
+            "text": "mean",
+            "timestamp": [
+                16.080000000000002,
+                16.32
+            ]
+        },
+        {
+            "text": "I",
+            "timestamp": [
+                16.32,
+                16.56
+            ]
+        },
+        {
+            "text": "should",
+            "timestamp": [
+                16.56,
+                16.88
+            ]
+        },
+        {
+            "text": "expect",
+            "timestamp": [
+                16.88,
+                17.52
+            ]
+        },
+        {
+            "text": "good",
+            "timestamp": [
+                17.52,
+                17.76
+            ]
+        },
+        {
+            "text": "luck",
+            "timestamp": [
+                17.76,
+                18.400000000000002
+            ]
+        },
+        {
+            "text": "after",
+            "timestamp": [
+                18.400000000000002,
+                18.72
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                18.72,
+                18.96
+            ]
+        },
+        {
+            "text": "long",
+            "timestamp": [
+                18.96,
+                19.28
+            ]
+        },
+        {
+            "text": "period",
+            "timestamp": [
+                19.28,
+                20.0
+            ]
+        },
+        {
+            "text": "of",
+            "timestamp": [
+                20.0,
+                20.32
+            ]
+        },
+        {
+            "text": "difficulties?",
+            "timestamp": [
+                20.32,
+                21.52
+            ]
+        },
+        {
+            "text": "How",
+            "timestamp": [
+                26.16,
+                26.48
+            ]
+        },
+        {
+            "text": "often",
+            "timestamp": [
+                26.48,
+                27.04
+            ]
+        },
+        {
+            "text": "should",
+            "timestamp": [
+                27.04,
+                27.36
+            ]
+        },
+        {
+            "text": "I",
+            "timestamp": [
+                27.36,
+                27.6
+            ]
+        },
+        {
+            "text": "replace",
+            "timestamp": [
+                27.6,
+                28.32
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                28.32,
+                28.64
+            ]
+        },
+        {
+            "text": "filters",
+            "timestamp": [
+                28.64,
+                29.52
+            ]
+        },
+        {
+            "text": "in",
+            "timestamp": [
+                29.52,
+                29.84
+            ]
+        },
+        {
+            "text": "my",
+            "timestamp": [
+                29.84,
+                30.16
+            ]
+        },
+        {
+            "text": "L?",
+            "timestamp": [
+                30.16,
+                30.400000000000002
+            ]
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+  "final_duration": 25.85,
+  "speech_segments": [
+    {
+      "xmin": 0.5,
+      "xmax": 4.9,
+      "text": "how long does a typical virtual escape room activity last?"
+    },
+    {
+      "xmin": 9.9,
+      "xmax": 15.85,
+      "text": ""
+    }
+  ]
+}

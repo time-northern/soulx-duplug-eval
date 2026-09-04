@@ -1,0 +1,20 @@
+{
+  "final_duration": 37.75,
+  "speech_segments": [
+    {
+      "xmin": 0.65,
+      "xmax": 5.6,
+      "text": "what are the basic techniques for controlling a shuttlecock during a game?"
+    },
+    {
+      "xmin": 10.6,
+      "xmax": 15.55,
+      "text": "how do i use the inside of my foot properly for control?"
+    },
+    {
+      "xmin": 20.55,
+      "xmax": 27.75,
+      "text": "the recent climate anomalies have caused unusual temperature swings in our region."
+    }
+  ]
+}

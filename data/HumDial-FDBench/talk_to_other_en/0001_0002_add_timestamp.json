@@ -1,0 +1,236 @@
+{
+    "text": "Do people with different blood types tend to prefer specific game genres? Sorry I missed that, could you say it again? I'm thinking of going hiking this weekend if the weather stays clear.",
+    "chunks": [
+        {
+            "text": "Do",
+            "timestamp": [
+                0.16,
+                0.56
+            ]
+        },
+        {
+            "text": "people",
+            "timestamp": [
+                0.56,
+                0.88
+            ]
+        },
+        {
+            "text": "with",
+            "timestamp": [
+                0.88,
+                1.2
+            ]
+        },
+        {
+            "text": "different",
+            "timestamp": [
+                1.2,
+                1.52
+            ]
+        },
+        {
+            "text": "blood",
+            "timestamp": [
+                1.52,
+                2.08
+            ]
+        },
+        {
+            "text": "types",
+            "timestamp": [
+                2.08,
+                2.64
+            ]
+        },
+        {
+            "text": "tend",
+            "timestamp": [
+                2.64,
+                3.04
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                3.04,
+                3.2800000000000002
+            ]
+        },
+        {
+            "text": "prefer",
+            "timestamp": [
+                3.2800000000000002,
+                3.84
+            ]
+        },
+        {
+            "text": "specific",
+            "timestamp": [
+                3.84,
+                4.48
+            ]
+        },
+        {
+            "text": "game",
+            "timestamp": [
+                4.48,
+                4.96
+            ]
+        },
+        {
+            "text": "genres?",
+            "timestamp": [
+                4.96,
+                5.6000000000000005
+            ]
+        },
+        {
+            "text": "Sorry",
+            "timestamp": [
+                10.4,
+                10.8
+            ]
+        },
+        {
+            "text": "I",
+            "timestamp": [
+                10.88,
+                11.040000000000001
+            ]
+        },
+        {
+            "text": "missed",
+            "timestamp": [
+                11.040000000000001,
+                11.6
+            ]
+        },
+        {
+            "text": "that,",
+            "timestamp": [
+                11.6,
+                11.76
+            ]
+        },
+        {
+            "text": "could",
+            "timestamp": [
+                12.0,
+                12.16
+            ]
+        },
+        {
+            "text": "you",
+            "timestamp": [
+                12.32,
+                12.56
+            ]
+        },
+        {
+            "text": "say",
+            "timestamp": [
+                12.56,
+                12.88
+            ]
+        },
+        {
+            "text": "it",
+            "timestamp": [
+                12.88,
+                13.200000000000001
+            ]
+        },
+        {
+            "text": "again?",
+            "timestamp": [
+                13.200000000000001,
+                13.52
+            ]
+        },
+        {
+            "text": "I'm",
+            "timestamp": [
+                18.16,
+                18.64
+            ]
+        },
+        {
+            "text": "thinking",
+            "timestamp": [
+                18.64,
+                18.96
+            ]
+        },
+        {
+            "text": "of",
+            "timestamp": [
+                18.96,
+                19.2
+            ]
+        },
+        {
+            "text": "going",
+            "timestamp": [
+                19.2,
+                19.44
+            ]
+        },
+        {
+            "text": "hiking",
+            "timestamp": [
+                19.44,
+                20.0
+            ]
+        },
+        {
+            "text": "this",
+            "timestamp": [
+                20.0,
+                20.16
+            ]
+        },
+        {
+            "text": "weekend",
+            "timestamp": [
+                20.16,
+                20.64
+            ]
+        },
+        {
+            "text": "if",
+            "timestamp": [
+                20.64,
+                20.72
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                20.72,
+                20.88
+            ]
+        },
+        {
+            "text": "weather",
+            "timestamp": [
+                20.88,
+                21.2
+            ]
+        },
+        {
+            "text": "stays",
+            "timestamp": [
+                21.2,
+                21.68
+            ]
+        },
+        {
+            "text": "clear.",
+            "timestamp": [
+                21.68,
+                22.64
+            ]
+        }
+    ]
+}

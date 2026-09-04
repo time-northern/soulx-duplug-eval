@@ -1,0 +1,15 @@
+{
+  "final_duration": 29.55,
+  "speech_segments": [
+    {
+      "xmin": 0.8499999999999996,
+      "xmax": 8.75,
+      "text": "how did they achieve those sharp shadow effects with the equipment available in the 1940s?"
+    },
+    {
+      "xmin": 13.75,
+      "xmax": 19.55,
+      "text": ""
+    }
+  ]
+}

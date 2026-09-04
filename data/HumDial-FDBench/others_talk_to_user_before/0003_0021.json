@@ -1,0 +1,15 @@
+{
+    "final_duration": 24.519,
+    "speech_segments": [
+        {
+            "xmin": 0.0,
+            "xmax": 4.05,
+            "text": "你新买的显示器分辨率调成4K了吗？"
+        },
+        {
+            "xmin": 9.05,
+            "xmax": 14.519,
+            "text": "如何在Lightroom中快速调整照片的曝光度？"
+        }
+    ]
+}

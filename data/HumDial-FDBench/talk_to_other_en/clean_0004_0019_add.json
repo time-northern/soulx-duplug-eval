@@ -1,0 +1,15 @@
+{
+  "final_duration": 27.6,
+  "speech_segments": [
+    {
+      "xmin": 1.1999999999999993,
+      "xmax": 7.849999999999998,
+      "text": "sorry, i missed that. could you repeat the key features for collecting commemorative stamps?"
+    },
+    {
+      "xmin": 12.849999999999998,
+      "xmax": 17.599999999999998,
+      "text": ""
+    }
+  ]
+}

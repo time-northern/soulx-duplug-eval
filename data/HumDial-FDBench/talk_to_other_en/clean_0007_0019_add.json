@@ -1,0 +1,15 @@
+{
+  "final_duration": 23.95,
+  "speech_segments": [
+    {
+      "xmin": 0.5999999999999996,
+      "xmax": 3.0999999999999996,
+      "text": "what happened to the snowman after that?"
+    },
+    {
+      "xmin": 8.099999999999998,
+      "xmax": 13.95,
+      "text": ""
+    }
+  ]
+}

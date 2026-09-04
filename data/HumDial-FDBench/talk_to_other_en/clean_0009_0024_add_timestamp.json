@@ -1,0 +1,68 @@
+{
+    "text": "What counts as a valid proof of sufficient functions?",
+    "chunks": [
+        {
+            "text": "What",
+            "timestamp": [
+                0.64,
+                0.96
+            ]
+        },
+        {
+            "text": "counts",
+            "timestamp": [
+                0.96,
+                1.44
+            ]
+        },
+        {
+            "text": "as",
+            "timestamp": [
+                1.44,
+                1.6
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                1.6,
+                1.92
+            ]
+        },
+        {
+            "text": "valid",
+            "timestamp": [
+                1.92,
+                2.64
+            ]
+        },
+        {
+            "text": "proof",
+            "timestamp": [
+                2.64,
+                3.04
+            ]
+        },
+        {
+            "text": "of",
+            "timestamp": [
+                3.2,
+                3.44
+            ]
+        },
+        {
+            "text": "sufficient",
+            "timestamp": [
+                3.44,
+                4.4
+            ]
+        },
+        {
+            "text": "functions?",
+            "timestamp": [
+                4.4,
+                5.5200000000000005
+            ]
+        }
+    ]
+}

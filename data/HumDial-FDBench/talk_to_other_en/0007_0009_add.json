@@ -1,0 +1,20 @@
+{
+  "final_duration": 36.85,
+  "speech_segments": [
+    {
+      "xmin": 0.55,
+      "xmax": 6.55,
+      "text": "what are the most meaningful ways to contribute to society during one's lifetime?"
+    },
+    {
+      "xmin": 11.55,
+      "xmax": 16.25,
+      "text": "how can volunteering specifically add meaning to my life?"
+    },
+    {
+      "xmin": 21.25,
+      "xmax": 26.85,
+      "text": "i think i'll start doing push-ups every morning to build upper body strength."
+    }
+  ]
+}

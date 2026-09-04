@@ -1,0 +1,82 @@
+{
+    "text": "Sorry, could you repeat the feature of the monthly billing service?",
+    "chunks": [
+        {
+            "text": "Sorry,",
+            "timestamp": [
+                0.56,
+                1.12
+            ]
+        },
+        {
+            "text": "could",
+            "timestamp": [
+                1.28,
+                1.44
+            ]
+        },
+        {
+            "text": "you",
+            "timestamp": [
+                1.44,
+                1.6
+            ]
+        },
+        {
+            "text": "repeat",
+            "timestamp": [
+                1.6,
+                2.0
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                2.0,
+                2.24
+            ]
+        },
+        {
+            "text": "feature",
+            "timestamp": [
+                2.24,
+                2.72
+            ]
+        },
+        {
+            "text": "of",
+            "timestamp": [
+                2.72,
+                2.88
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                2.88,
+                3.12
+            ]
+        },
+        {
+            "text": "monthly",
+            "timestamp": [
+                3.12,
+                3.7600000000000002
+            ]
+        },
+        {
+            "text": "billing",
+            "timestamp": [
+                3.7600000000000002,
+                4.48
+            ]
+        },
+        {
+            "text": "service?",
+            "timestamp": [
+                4.64,
+                5.6000000000000005
+            ]
+        }
+    ]
+}

@@ -1,0 +1,229 @@
+{
+    "text": "What are some of the most unlucky professions in terms of workplace accidents? What specific weather conditions make fishing so dangerous? The humidity in my apartment has increased a lot since yesterday.",
+    "chunks": [
+        {
+            "text": "What",
+            "timestamp": [
+                0.64,
+                0.96
+            ]
+        },
+        {
+            "text": "are",
+            "timestamp": [
+                0.96,
+                1.28
+            ]
+        },
+        {
+            "text": "some",
+            "timestamp": [
+                1.28,
+                1.52
+            ]
+        },
+        {
+            "text": "of",
+            "timestamp": [
+                1.52,
+                1.68
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                1.68,
+                2.0
+            ]
+        },
+        {
+            "text": "most",
+            "timestamp": [
+                2.0,
+                2.24
+            ]
+        },
+        {
+            "text": "unlucky",
+            "timestamp": [
+                2.24,
+                2.88
+            ]
+        },
+        {
+            "text": "professions",
+            "timestamp": [
+                2.88,
+                3.52
+            ]
+        },
+        {
+            "text": "in",
+            "timestamp": [
+                3.52,
+                3.68
+            ]
+        },
+        {
+            "text": "terms",
+            "timestamp": [
+                3.68,
+                4.08
+            ]
+        },
+        {
+            "text": "of",
+            "timestamp": [
+                4.08,
+                4.4
+            ]
+        },
+        {
+            "text": "workplace",
+            "timestamp": [
+                4.4,
+                5.12
+            ]
+        },
+        {
+            "text": "accidents?",
+            "timestamp": [
+                5.12,
+                6.0
+            ]
+        },
+        {
+            "text": "What",
+            "timestamp": [
+                10.72,
+                11.040000000000001
+            ]
+        },
+        {
+            "text": "specific",
+            "timestamp": [
+                11.040000000000001,
+                12.0
+            ]
+        },
+        {
+            "text": "weather",
+            "timestamp": [
+                12.24,
+                12.8
+            ]
+        },
+        {
+            "text": "conditions",
+            "timestamp": [
+                12.8,
+                13.76
+            ]
+        },
+        {
+            "text": "make",
+            "timestamp": [
+                13.76,
+                14.0
+            ]
+        },
+        {
+            "text": "fishing",
+            "timestamp": [
+                14.0,
+                14.56
+            ]
+        },
+        {
+            "text": "so",
+            "timestamp": [
+                14.56,
+                14.8
+            ]
+        },
+        {
+            "text": "dangerous?",
+            "timestamp": [
+                14.8,
+                15.92
+            ]
+        },
+        {
+            "text": "The",
+            "timestamp": [
+                20.400000000000002,
+                20.64
+            ]
+        },
+        {
+            "text": "humidity",
+            "timestamp": [
+                20.64,
+                21.44
+            ]
+        },
+        {
+            "text": "in",
+            "timestamp": [
+                21.44,
+                21.76
+            ]
+        },
+        {
+            "text": "my",
+            "timestamp": [
+                21.76,
+                22.0
+            ]
+        },
+        {
+            "text": "apartment",
+            "timestamp": [
+                22.0,
+                22.96
+            ]
+        },
+        {
+            "text": "has",
+            "timestamp": [
+                22.96,
+                23.28
+            ]
+        },
+        {
+            "text": "increased",
+            "timestamp": [
+                23.28,
+                23.84
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                23.84,
+                24.080000000000002
+            ]
+        },
+        {
+            "text": "lot",
+            "timestamp": [
+                24.080000000000002,
+                24.240000000000002
+            ]
+        },
+        {
+            "text": "since",
+            "timestamp": [
+                24.240000000000002,
+                24.72
+            ]
+        },
+        {
+            "text": "yesterday.",
+            "timestamp": [
+                24.72,
+                25.68
+            ]
+        }
+    ]
+}

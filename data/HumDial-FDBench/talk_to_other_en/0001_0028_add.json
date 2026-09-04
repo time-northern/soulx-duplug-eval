@@ -1,0 +1,20 @@
+{
+  "final_duration": 32.8,
+  "speech_segments": [
+    {
+      "xmin": 0.85,
+      "xmax": 5.1,
+      "text": "how can i deal with the feeling of loneliness when i'm alone at home?"
+    },
+    {
+      "xmin": 10.1,
+      "xmax": 14.049999999999999,
+      "text": "sorry, i missed that. could you say it again?"
+    },
+    {
+      "xmin": 19.049999999999997,
+      "xmax": 22.799999999999997,
+      "text": "i need to set a goal to lose 5 kilograms by next month."
+    }
+  ]
+}

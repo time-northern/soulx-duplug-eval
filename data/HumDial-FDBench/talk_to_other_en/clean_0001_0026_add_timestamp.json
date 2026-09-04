@@ -1,0 +1,89 @@
+{
+    "text": "Sorry, could you repeat the best way to measure flour for cakes?",
+    "chunks": [
+        {
+            "text": "Sorry,",
+            "timestamp": [
+                0.32,
+                0.96
+            ]
+        },
+        {
+            "text": "could",
+            "timestamp": [
+                1.12,
+                1.28
+            ]
+        },
+        {
+            "text": "you",
+            "timestamp": [
+                1.28,
+                1.36
+            ]
+        },
+        {
+            "text": "repeat",
+            "timestamp": [
+                1.36,
+                1.76
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                1.76,
+                1.92
+            ]
+        },
+        {
+            "text": "best",
+            "timestamp": [
+                1.92,
+                2.16
+            ]
+        },
+        {
+            "text": "way",
+            "timestamp": [
+                2.16,
+                2.4
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                2.4,
+                2.56
+            ]
+        },
+        {
+            "text": "measure",
+            "timestamp": [
+                2.56,
+                3.04
+            ]
+        },
+        {
+            "text": "flour",
+            "timestamp": [
+                3.04,
+                3.68
+            ]
+        },
+        {
+            "text": "for",
+            "timestamp": [
+                3.68,
+                4.0
+            ]
+        },
+        {
+            "text": "cakes?",
+            "timestamp": [
+                4.0,
+                4.64
+            ]
+        }
+    ]
+}

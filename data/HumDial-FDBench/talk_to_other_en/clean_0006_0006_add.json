@@ -1,0 +1,15 @@
+{
+  "final_duration": 27.1,
+  "speech_segments": [
+    {
+      "xmin": 0.5500000000000007,
+      "xmax": 5.299999999999999,
+      "text": "what are some examples of small victories i can celebrate?"
+    },
+    {
+      "xmin": 10.300000000000002,
+      "xmax": 17.1,
+      "text": ""
+    }
+  ]
+}

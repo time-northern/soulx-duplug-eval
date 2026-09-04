@@ -1,0 +1,75 @@
+{
+    "text": "Sorry, could you repeat those gift ideas for gardening lovers?",
+    "chunks": [
+        {
+            "text": "Sorry,",
+            "timestamp": [
+                0.56,
+                1.12
+            ]
+        },
+        {
+            "text": "could",
+            "timestamp": [
+                1.36,
+                1.52
+            ]
+        },
+        {
+            "text": "you",
+            "timestamp": [
+                1.52,
+                1.76
+            ]
+        },
+        {
+            "text": "repeat",
+            "timestamp": [
+                1.76,
+                2.56
+            ]
+        },
+        {
+            "text": "those",
+            "timestamp": [
+                2.56,
+                2.88
+            ]
+        },
+        {
+            "text": "gift",
+            "timestamp": [
+                2.88,
+                3.52
+            ]
+        },
+        {
+            "text": "ideas",
+            "timestamp": [
+                3.52,
+                4.32
+            ]
+        },
+        {
+            "text": "for",
+            "timestamp": [
+                4.32,
+                4.64
+            ]
+        },
+        {
+            "text": "gardening",
+            "timestamp": [
+                4.64,
+                5.44
+            ]
+        },
+        {
+            "text": "lovers?",
+            "timestamp": [
+                5.44,
+                6.08
+            ]
+        }
+    ]
+}

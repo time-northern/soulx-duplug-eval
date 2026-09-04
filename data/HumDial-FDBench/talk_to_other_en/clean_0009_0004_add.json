@@ -1,0 +1,15 @@
+{
+  "final_duration": 25.15,
+  "speech_segments": [
+    {
+      "xmin": 0.8499999999999996,
+      "xmax": 5.049999999999999,
+      "text": "how does the rhyme's imagery connect to local culture?"
+    },
+    {
+      "xmin": 10.050000000000002,
+      "xmax": 15.150000000000004,
+      "text": ""
+    }
+  ]
+}

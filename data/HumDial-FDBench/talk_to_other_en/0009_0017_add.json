@@ -1,0 +1,20 @@
+{
+  "final_duration": 36.95,
+  "speech_segments": [
+    {
+      "xmin": 0.65,
+      "xmax": 8.25,
+      "text": "do you believe in the concept of luck conservation, where good and bad luck balance out over time?"
+    },
+    {
+      "xmin": 13.25,
+      "xmax": 18.25,
+      "text": "can you give an example of how this balance might appear in daily life?"
+    },
+    {
+      "xmin": 23.25,
+      "xmax": 26.950000000000003,
+      "text": "do you think the concert last night had a good sound system?"
+    }
+  ]
+}

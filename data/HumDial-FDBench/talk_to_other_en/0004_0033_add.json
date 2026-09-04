@@ -1,0 +1,20 @@
+{
+  "final_duration": 37.0,
+  "speech_segments": [
+    {
+      "xmin": 1.05,
+      "xmax": 7.35,
+      "text": "what are the key features of qingteng love that make it stand out from other dating apps?"
+    },
+    {
+      "xmin": 12.35,
+      "xmax": 16.9,
+      "text": "sorry, i missed that. can you say the key features again?"
+    },
+    {
+      "xmin": 21.9,
+      "xmax": 27.0,
+      "text": "i wonder if adding more vanilla extract would make these cupcakes taste better."
+    }
+  ]
+}

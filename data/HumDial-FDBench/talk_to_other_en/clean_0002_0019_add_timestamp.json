@@ -1,0 +1,96 @@
+{
+    "text": "What if I struggle to find those small moments during a busy day?",
+    "chunks": [
+        {
+            "text": "What",
+            "timestamp": [
+                0.56,
+                0.88
+            ]
+        },
+        {
+            "text": "if",
+            "timestamp": [
+                0.88,
+                1.2
+            ]
+        },
+        {
+            "text": "I",
+            "timestamp": [
+                1.2,
+                1.44
+            ]
+        },
+        {
+            "text": "struggle",
+            "timestamp": [
+                1.44,
+                2.24
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                2.24,
+                2.56
+            ]
+        },
+        {
+            "text": "find",
+            "timestamp": [
+                2.56,
+                2.88
+            ]
+        },
+        {
+            "text": "those",
+            "timestamp": [
+                2.88,
+                3.2
+            ]
+        },
+        {
+            "text": "small",
+            "timestamp": [
+                3.2,
+                3.6
+            ]
+        },
+        {
+            "text": "moments",
+            "timestamp": [
+                3.6,
+                4.32
+            ]
+        },
+        {
+            "text": "during",
+            "timestamp": [
+                4.32,
+                4.8
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                4.8,
+                5.04
+            ]
+        },
+        {
+            "text": "busy",
+            "timestamp": [
+                5.04,
+                6.0
+            ]
+        },
+        {
+            "text": "day?",
+            "timestamp": [
+                6.0,
+                6.24
+            ]
+        }
+    ]
+}

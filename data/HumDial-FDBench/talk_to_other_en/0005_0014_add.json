@@ -1,0 +1,20 @@
+{
+  "final_duration": 35.300000000000004,
+  "speech_segments": [
+    {
+      "xmin": 0.85,
+      "xmax": 6.8,
+      "text": "how can i effectively respond when someone questions my professional capabilities?"
+    },
+    {
+      "xmin": 11.8,
+      "xmax": 15.100000000000001,
+      "text": "sorry, could you repeat that? i missed the first part."
+    },
+    {
+      "xmin": 20.1,
+      "xmax": 25.300000000000004,
+      "text": "i should start writing in my journal tonight to reflect on today's meeting."
+    }
+  ]
+}

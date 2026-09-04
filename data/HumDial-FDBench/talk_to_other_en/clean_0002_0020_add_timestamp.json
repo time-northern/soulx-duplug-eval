@@ -1,0 +1,61 @@
+{
+    "text": "Powder stress specifically lead to these minor accidents.",
+    "chunks": [
+        {
+            "text": "Powder",
+            "timestamp": [
+                0.64,
+                1.28
+            ]
+        },
+        {
+            "text": "stress",
+            "timestamp": [
+                1.44,
+                1.84
+            ]
+        },
+        {
+            "text": "specifically",
+            "timestamp": [
+                2.0,
+                2.88
+            ]
+        },
+        {
+            "text": "lead",
+            "timestamp": [
+                3.12,
+                3.52
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                3.52,
+                3.7600000000000002
+            ]
+        },
+        {
+            "text": "these",
+            "timestamp": [
+                3.7600000000000002,
+                4.0
+            ]
+        },
+        {
+            "text": "minor",
+            "timestamp": [
+                4.0,
+                4.48
+            ]
+        },
+        {
+            "text": "accidents.",
+            "timestamp": [
+                4.64,
+                5.6000000000000005
+            ]
+        }
+    ]
+}

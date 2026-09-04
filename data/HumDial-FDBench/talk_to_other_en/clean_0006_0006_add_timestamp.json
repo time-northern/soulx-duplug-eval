@@ -1,0 +1,75 @@
+{
+    "text": "What are some examples of small victories I can celebrate?",
+    "chunks": [
+        {
+            "text": "What",
+            "timestamp": [
+                0.32,
+                0.64
+            ]
+        },
+        {
+            "text": "are",
+            "timestamp": [
+                0.96,
+                1.28
+            ]
+        },
+        {
+            "text": "some",
+            "timestamp": [
+                1.28,
+                1.6
+            ]
+        },
+        {
+            "text": "examples",
+            "timestamp": [
+                1.6,
+                2.4
+            ]
+        },
+        {
+            "text": "of",
+            "timestamp": [
+                2.4,
+                2.64
+            ]
+        },
+        {
+            "text": "small",
+            "timestamp": [
+                2.64,
+                3.2
+            ]
+        },
+        {
+            "text": "victories",
+            "timestamp": [
+                3.2,
+                4.24
+            ]
+        },
+        {
+            "text": "I",
+            "timestamp": [
+                4.24,
+                4.48
+            ]
+        },
+        {
+            "text": "can",
+            "timestamp": [
+                4.48,
+                4.72
+            ]
+        },
+        {
+            "text": "celebrate?",
+            "timestamp": [
+                4.72,
+                6.08
+            ]
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "text": "What's the best type of artificial light for this purpose?",
+    "chunks": [
+        {
+            "text": "What's",
+            "timestamp": [
+                0.56,
+                1.04
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                1.04,
+                1.28
+            ]
+        },
+        {
+            "text": "best",
+            "timestamp": [
+                1.28,
+                1.6
+            ]
+        },
+        {
+            "text": "type",
+            "timestamp": [
+                1.6,
+                1.92
+            ]
+        },
+        {
+            "text": "of",
+            "timestamp": [
+                1.92,
+                2.16
+            ]
+        },
+        {
+            "text": "artificial",
+            "timestamp": [
+                2.16,
+                2.96
+            ]
+        },
+        {
+            "text": "light",
+            "timestamp": [
+                2.96,
+                3.44
+            ]
+        },
+        {
+            "text": "for",
+            "timestamp": [
+                3.44,
+                3.68
+            ]
+        },
+        {
+            "text": "this",
+            "timestamp": [
+                3.68,
+                3.92
+            ]
+        },
+        {
+            "text": "purpose?",
+            "timestamp": [
+                3.92,
+                5.04
+            ]
+        }
+    ]
+}

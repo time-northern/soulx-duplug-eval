@@ -1,0 +1,15 @@
+{
+  "final_duration": 28.55,
+  "speech_segments": [
+    {
+      "xmin": 0.6500000000000004,
+      "xmax": 7.1999999999999975,
+      "text": "what specific cloud types contribute most to positive feedback loops?"
+    },
+    {
+      "xmin": 12.199999999999998,
+      "xmax": 18.549999999999997,
+      "text": ""
+    }
+  ]
+}

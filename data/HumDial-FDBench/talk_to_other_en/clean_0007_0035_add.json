@@ -1,0 +1,15 @@
+{
+  "final_duration": 23.45,
+  "speech_segments": [
+    {
+      "xmin": 0.4499999999999993,
+      "xmax": 4.049999999999999,
+      "text": "how can i best prepare for a potential flight delay?"
+    },
+    {
+      "xmin": 9.05,
+      "xmax": 13.45,
+      "text": ""
+    }
+  ]
+}

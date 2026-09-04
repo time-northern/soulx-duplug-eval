@@ -1,0 +1,75 @@
+{
+    "text": "Does faster charging harm the battery more than regular charging?",
+    "chunks": [
+        {
+            "text": "Does",
+            "timestamp": [
+                0.32,
+                0.88
+            ]
+        },
+        {
+            "text": "faster",
+            "timestamp": [
+                0.88,
+                1.36
+            ]
+        },
+        {
+            "text": "charging",
+            "timestamp": [
+                1.52,
+                2.08
+            ]
+        },
+        {
+            "text": "harm",
+            "timestamp": [
+                2.08,
+                2.56
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                2.56,
+                2.88
+            ]
+        },
+        {
+            "text": "battery",
+            "timestamp": [
+                2.88,
+                3.6
+            ]
+        },
+        {
+            "text": "more",
+            "timestamp": [
+                3.6,
+                3.84
+            ]
+        },
+        {
+            "text": "than",
+            "timestamp": [
+                3.84,
+                4.16
+            ]
+        },
+        {
+            "text": "regular",
+            "timestamp": [
+                4.16,
+                4.72
+            ]
+        },
+        {
+            "text": "charging?",
+            "timestamp": [
+                4.72,
+                5.68
+            ]
+        }
+    ]
+}

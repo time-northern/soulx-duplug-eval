@@ -1,0 +1,15 @@
+{
+  "final_duration": 26.4,
+  "speech_segments": [
+    {
+      "xmin": 0.6500000000000004,
+      "xmax": 6.25,
+      "text": "what if i struggle to find those small moments during a busy day?"
+    },
+    {
+      "xmin": 11.25,
+      "xmax": 16.4,
+      "text": ""
+    }
+  ]
+}

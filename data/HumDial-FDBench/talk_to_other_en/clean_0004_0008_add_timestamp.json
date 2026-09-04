@@ -1,0 +1,82 @@
+{
+    "text": "Dori, could you say that part again about organizing the meeting?",
+    "chunks": [
+        {
+            "text": "Dori,",
+            "timestamp": [
+                0.64,
+                1.44
+            ]
+        },
+        {
+            "text": "could",
+            "timestamp": [
+                1.6,
+                1.84
+            ]
+        },
+        {
+            "text": "you",
+            "timestamp": [
+                1.84,
+                2.16
+            ]
+        },
+        {
+            "text": "say",
+            "timestamp": [
+                2.16,
+                2.48
+            ]
+        },
+        {
+            "text": "that",
+            "timestamp": [
+                2.48,
+                2.8000000000000003
+            ]
+        },
+        {
+            "text": "part",
+            "timestamp": [
+                2.8000000000000003,
+                3.12
+            ]
+        },
+        {
+            "text": "again",
+            "timestamp": [
+                3.12,
+                3.44
+            ]
+        },
+        {
+            "text": "about",
+            "timestamp": [
+                3.7600000000000002,
+                4.08
+            ]
+        },
+        {
+            "text": "organizing",
+            "timestamp": [
+                4.08,
+                5.2
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                5.2,
+                5.5200000000000005
+            ]
+        },
+        {
+            "text": "meeting?",
+            "timestamp": [
+                5.5200000000000005,
+                6.48
+            ]
+        }
+    ]
+}

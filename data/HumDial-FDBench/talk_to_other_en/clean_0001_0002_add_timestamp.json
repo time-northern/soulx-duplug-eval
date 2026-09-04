@@ -1,0 +1,68 @@
+{
+    "text": "Sorry I missed that, could you say it again?",
+    "chunks": [
+        {
+            "text": "Sorry",
+            "timestamp": [
+                0.24,
+                0.72
+            ]
+        },
+        {
+            "text": "I",
+            "timestamp": [
+                0.8,
+                0.96
+            ]
+        },
+        {
+            "text": "missed",
+            "timestamp": [
+                0.96,
+                1.44
+            ]
+        },
+        {
+            "text": "that,",
+            "timestamp": [
+                1.44,
+                1.6
+            ]
+        },
+        {
+            "text": "could",
+            "timestamp": [
+                1.92,
+                2.16
+            ]
+        },
+        {
+            "text": "you",
+            "timestamp": [
+                2.16,
+                2.48
+            ]
+        },
+        {
+            "text": "say",
+            "timestamp": [
+                2.48,
+                2.8000000000000003
+            ]
+        },
+        {
+            "text": "it",
+            "timestamp": [
+                2.8000000000000003,
+                3.12
+            ]
+        },
+        {
+            "text": "again?",
+            "timestamp": [
+                3.12,
+                3.44
+            ]
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+  "final_duration": 23.5,
+  "speech_segments": [
+    {
+      "xmin": 0.6000000000000005,
+      "xmax": 3.3,
+      "text": "what happens if a snowman gets too warm?"
+    },
+    {
+      "xmin": 8.3,
+      "xmax": 13.499999999999996,
+      "text": ""
+    }
+  ]
+}

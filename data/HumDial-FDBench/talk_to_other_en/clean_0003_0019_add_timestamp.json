@@ -1,0 +1,82 @@
+{
+    "text": "Can I use oil instead of melted butter in the recipe?",
+    "chunks": [
+        {
+            "text": "Can",
+            "timestamp": [
+                0.56,
+                0.96
+            ]
+        },
+        {
+            "text": "I",
+            "timestamp": [
+                0.96,
+                1.28
+            ]
+        },
+        {
+            "text": "use",
+            "timestamp": [
+                1.28,
+                1.6
+            ]
+        },
+        {
+            "text": "oil",
+            "timestamp": [
+                1.6,
+                2.24
+            ]
+        },
+        {
+            "text": "instead",
+            "timestamp": [
+                2.56,
+                3.2800000000000002
+            ]
+        },
+        {
+            "text": "of",
+            "timestamp": [
+                3.2800000000000002,
+                3.44
+            ]
+        },
+        {
+            "text": "melted",
+            "timestamp": [
+                3.68,
+                4.48
+            ]
+        },
+        {
+            "text": "butter",
+            "timestamp": [
+                4.48,
+                4.96
+            ]
+        },
+        {
+            "text": "in",
+            "timestamp": [
+                5.12,
+                5.36
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                5.36,
+                5.6000000000000005
+            ]
+        },
+        {
+            "text": "recipe?",
+            "timestamp": [
+                5.6000000000000005,
+                6.4
+            ]
+        }
+    ]
+}

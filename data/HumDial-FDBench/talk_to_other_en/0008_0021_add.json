@@ -1,0 +1,20 @@
+{
+  "final_duration": 42.2,
+  "speech_segments": [
+    {
+      "xmin": 0.75,
+      "xmax": 9.05,
+      "text": "how can fintech innovations improve financial inclusion for underserved communities?"
+    },
+    {
+      "xmin": 14.05,
+      "xmax": 20.8,
+      "text": "what specific features make digital wallets more accessible than traditional banking?"
+    },
+    {
+      "xmin": 25.8,
+      "xmax": 32.2,
+      "text": "i think autumn is the best season for hiking because of the cool weather and colorful leaves."
+    }
+  ]
+}

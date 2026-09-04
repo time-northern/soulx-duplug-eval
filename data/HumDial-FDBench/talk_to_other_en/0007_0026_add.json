@@ -1,0 +1,20 @@
+{
+  "final_duration": 37.35,
+  "speech_segments": [
+    {
+      "xmin": 0.45,
+      "xmax": 6.05,
+      "text": "what are the main categories of stomach medications and their primary uses?"
+    },
+    {
+      "xmin": 11.05,
+      "xmax": 16.450000000000003,
+      "text": "how quickly do antacids typically start working after taking them?"
+    },
+    {
+      "xmin": 21.450000000000003,
+      "xmax": 27.35,
+      "text": "when does the central heating supply usually start operating in our building during winter?"
+    }
+  ]
+}

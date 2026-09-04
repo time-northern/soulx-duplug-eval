@@ -1,0 +1,20 @@
+{
+  "final_duration": 36.45,
+  "speech_segments": [
+    {
+      "xmin": 0.65,
+      "xmax": 8.2,
+      "text": "what are the key considerations when arranging airport pickup for international business clients?"
+    },
+    {
+      "xmin": 13.2,
+      "xmax": 17.9,
+      "text": "what information should be on the sign besides the name?"
+    },
+    {
+      "xmin": 22.9,
+      "xmax": 26.450000000000003,
+      "text": "the air quality index seems to be quite high today."
+    }
+  ]
+}

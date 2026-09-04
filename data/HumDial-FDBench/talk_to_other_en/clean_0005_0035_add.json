@@ -1,0 +1,15 @@
+{
+  "final_duration": 27.65,
+  "speech_segments": [
+    {
+      "xmin": 1.0,
+      "xmax": 6.5,
+      "text": "what if we want to wear different patterns but still look coordinated?"
+    },
+    {
+      "xmin": 11.5,
+      "xmax": 17.650000000000006,
+      "text": ""
+    }
+  ]
+}

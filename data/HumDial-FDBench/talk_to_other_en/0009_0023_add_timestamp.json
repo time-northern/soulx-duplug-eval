@@ -1,0 +1,264 @@
+{
+    "text": "What are the best Caribbean islands to visit for a redressing beach vacation in December? Why are their waters particularly calm during that month? The humidity in my office seems to fluctuate a lot during the day.",
+    "chunks": [
+        {
+            "text": "What",
+            "timestamp": [
+                0.32,
+                0.64
+            ]
+        },
+        {
+            "text": "are",
+            "timestamp": [
+                0.64,
+                0.88
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                0.88,
+                1.04
+            ]
+        },
+        {
+            "text": "best",
+            "timestamp": [
+                1.04,
+                1.44
+            ]
+        },
+        {
+            "text": "Caribbean",
+            "timestamp": [
+                1.44,
+                2.24
+            ]
+        },
+        {
+            "text": "islands",
+            "timestamp": [
+                2.4,
+                3.36
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                3.36,
+                3.68
+            ]
+        },
+        {
+            "text": "visit",
+            "timestamp": [
+                3.68,
+                4.16
+            ]
+        },
+        {
+            "text": "for",
+            "timestamp": [
+                4.16,
+                4.32
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                4.32,
+                4.5600000000000005
+            ]
+        },
+        {
+            "text": "redressing",
+            "timestamp": [
+                4.5600000000000005,
+                5.36
+            ]
+        },
+        {
+            "text": "beach",
+            "timestamp": [
+                5.36,
+                5.76
+            ]
+        },
+        {
+            "text": "vacation",
+            "timestamp": [
+                5.76,
+                6.4
+            ]
+        },
+        {
+            "text": "in",
+            "timestamp": [
+                6.4,
+                6.72
+            ]
+        },
+        {
+            "text": "December?",
+            "timestamp": [
+                6.72,
+                8.0
+            ]
+        },
+        {
+            "text": "Why",
+            "timestamp": [
+                12.16,
+                12.48
+            ]
+        },
+        {
+            "text": "are",
+            "timestamp": [
+                12.48,
+                12.72
+            ]
+        },
+        {
+            "text": "their",
+            "timestamp": [
+                12.72,
+                13.040000000000001
+            ]
+        },
+        {
+            "text": "waters",
+            "timestamp": [
+                13.040000000000001,
+                13.68
+            ]
+        },
+        {
+            "text": "particularly",
+            "timestamp": [
+                13.68,
+                14.48
+            ]
+        },
+        {
+            "text": "calm",
+            "timestamp": [
+                14.48,
+                15.040000000000001
+            ]
+        },
+        {
+            "text": "during",
+            "timestamp": [
+                15.040000000000001,
+                15.44
+            ]
+        },
+        {
+            "text": "that",
+            "timestamp": [
+                15.44,
+                15.76
+            ]
+        },
+        {
+            "text": "month?",
+            "timestamp": [
+                15.76,
+                16.4
+            ]
+        },
+        {
+            "text": "The",
+            "timestamp": [
+                21.12,
+                21.36
+            ]
+        },
+        {
+            "text": "humidity",
+            "timestamp": [
+                21.36,
+                22.240000000000002
+            ]
+        },
+        {
+            "text": "in",
+            "timestamp": [
+                22.240000000000002,
+                22.48
+            ]
+        },
+        {
+            "text": "my",
+            "timestamp": [
+                22.48,
+                22.8
+            ]
+        },
+        {
+            "text": "office",
+            "timestamp": [
+                22.8,
+                23.28
+            ]
+        },
+        {
+            "text": "seems",
+            "timestamp": [
+                23.28,
+                23.84
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                23.84,
+                24.080000000000002
+            ]
+        },
+        {
+            "text": "fluctuate",
+            "timestamp": [
+                24.080000000000002,
+                25.2
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                25.2,
+                25.52
+            ]
+        },
+        {
+            "text": "lot",
+            "timestamp": [
+                25.52,
+                25.76
+            ]
+        },
+        {
+            "text": "during",
+            "timestamp": [
+                25.76,
+                26.400000000000002
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                26.400000000000002,
+                26.72
+            ]
+        },
+        {
+            "text": "day.",
+            "timestamp": [
+                26.72,
+                27.04
+            ]
+        }
+    ]
+}

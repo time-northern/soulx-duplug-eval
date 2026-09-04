@@ -1,0 +1,20 @@
+{
+  "final_duration": 35.75,
+  "speech_segments": [
+    {
+      "xmin": 0.7,
+      "xmax": 5.95,
+      "text": "how can individuals prepare financially for a potential economic collapse?"
+    },
+    {
+      "xmin": 10.95,
+      "xmax": 14.75,
+      "text": "sorry, i missed that. could you say it again?"
+    },
+    {
+      "xmin": 19.75,
+      "xmax": 25.75,
+      "text": "i'm trying to lose 5 pounds by next month, but it's so hard to stick to my diet."
+    }
+  ]
+}

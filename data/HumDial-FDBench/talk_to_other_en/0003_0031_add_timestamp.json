@@ -1,0 +1,334 @@
+{
+    "text": "What are the main steps involved in training a basic image recognition model? Could you please repeat the main step for training an image recognition model? I really enjoyed watching that sci-fi movie last night. The visual effects were stunning and the plot keep me engaged throughout.",
+    "chunks": [
+        {
+            "text": "What",
+            "timestamp": [
+                0.96,
+                1.28
+            ]
+        },
+        {
+            "text": "are",
+            "timestamp": [
+                1.28,
+                1.44
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                1.44,
+                1.68
+            ]
+        },
+        {
+            "text": "main",
+            "timestamp": [
+                1.68,
+                2.08
+            ]
+        },
+        {
+            "text": "steps",
+            "timestamp": [
+                2.08,
+                2.64
+            ]
+        },
+        {
+            "text": "involved",
+            "timestamp": [
+                2.64,
+                3.36
+            ]
+        },
+        {
+            "text": "in",
+            "timestamp": [
+                3.36,
+                3.68
+            ]
+        },
+        {
+            "text": "training",
+            "timestamp": [
+                3.68,
+                4.24
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                4.24,
+                4.4
+            ]
+        },
+        {
+            "text": "basic",
+            "timestamp": [
+                4.4,
+                4.96
+            ]
+        },
+        {
+            "text": "image",
+            "timestamp": [
+                4.96,
+                5.6000000000000005
+            ]
+        },
+        {
+            "text": "recognition",
+            "timestamp": [
+                5.84,
+                7.04
+            ]
+        },
+        {
+            "text": "model?",
+            "timestamp": [
+                7.04,
+                7.68
+            ]
+        },
+        {
+            "text": "Could",
+            "timestamp": [
+                12.08,
+                12.4
+            ]
+        },
+        {
+            "text": "you",
+            "timestamp": [
+                12.4,
+                12.64
+            ]
+        },
+        {
+            "text": "please",
+            "timestamp": [
+                12.64,
+                13.040000000000001
+            ]
+        },
+        {
+            "text": "repeat",
+            "timestamp": [
+                13.040000000000001,
+                13.92
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                13.92,
+                14.24
+            ]
+        },
+        {
+            "text": "main",
+            "timestamp": [
+                14.24,
+                14.64
+            ]
+        },
+        {
+            "text": "step",
+            "timestamp": [
+                14.64,
+                14.96
+            ]
+        },
+        {
+            "text": "for",
+            "timestamp": [
+                15.040000000000001,
+                15.280000000000001
+            ]
+        },
+        {
+            "text": "training",
+            "timestamp": [
+                15.280000000000001,
+                15.84
+            ]
+        },
+        {
+            "text": "an",
+            "timestamp": [
+                15.84,
+                16.080000000000002
+            ]
+        },
+        {
+            "text": "image",
+            "timestamp": [
+                16.080000000000002,
+                16.72
+            ]
+        },
+        {
+            "text": "recognition",
+            "timestamp": [
+                16.72,
+                17.68
+            ]
+        },
+        {
+            "text": "model?",
+            "timestamp": [
+                17.68,
+                18.32
+            ]
+        },
+        {
+            "text": "I",
+            "timestamp": [
+                22.96,
+                23.2
+            ]
+        },
+        {
+            "text": "really",
+            "timestamp": [
+                23.2,
+                23.52
+            ]
+        },
+        {
+            "text": "enjoyed",
+            "timestamp": [
+                23.52,
+                24.0
+            ]
+        },
+        {
+            "text": "watching",
+            "timestamp": [
+                24.0,
+                24.400000000000002
+            ]
+        },
+        {
+            "text": "that",
+            "timestamp": [
+                24.400000000000002,
+                24.64
+            ]
+        },
+        {
+            "text": "sci-fi",
+            "timestamp": [
+                24.64,
+                25.28
+            ]
+        },
+        {
+            "text": "movie",
+            "timestamp": [
+                25.28,
+                25.68
+            ]
+        },
+        {
+            "text": "last",
+            "timestamp": [
+                25.68,
+                25.84
+            ]
+        },
+        {
+            "text": "night.",
+            "timestamp": [
+                25.84,
+                26.240000000000002
+            ]
+        },
+        {
+            "text": "The",
+            "timestamp": [
+                26.560000000000002,
+                26.72
+            ]
+        },
+        {
+            "text": "visual",
+            "timestamp": [
+                26.72,
+                27.28
+            ]
+        },
+        {
+            "text": "effects",
+            "timestamp": [
+                27.28,
+                27.84
+            ]
+        },
+        {
+            "text": "were",
+            "timestamp": [
+                27.84,
+                28.16
+            ]
+        },
+        {
+            "text": "stunning",
+            "timestamp": [
+                28.16,
+                28.64
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                28.72,
+                28.96
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                28.96,
+                29.12
+            ]
+        },
+        {
+            "text": "plot",
+            "timestamp": [
+                29.12,
+                29.44
+            ]
+        },
+        {
+            "text": "keep",
+            "timestamp": [
+                29.68,
+                29.84
+            ]
+        },
+        {
+            "text": "me",
+            "timestamp": [
+                29.92,
+                30.16
+            ]
+        },
+        {
+            "text": "engaged",
+            "timestamp": [
+                30.16,
+                30.96
+            ]
+        },
+        {
+            "text": "throughout.",
+            "timestamp": [
+                30.96,
+                31.6
+            ]
+        }
+    ]
+}

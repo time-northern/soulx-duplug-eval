@@ -1,0 +1,20 @@
+{
+  "final_duration": 35.8,
+  "speech_segments": [
+    {
+      "xmin": 0.8,
+      "xmax": 6.6,
+      "text": "what are some creative ways to play with mud besides making mud pies?"
+    },
+    {
+      "xmin": 11.6,
+      "xmax": 15.700000000000001,
+      "text": "what kind of natural pigments work best for mud painting?"
+    },
+    {
+      "xmin": 20.700000000000003,
+      "xmax": 25.800000000000004,
+      "text": "i've been thinking about starting a small online business as a side hustle next month."
+    }
+  ]
+}

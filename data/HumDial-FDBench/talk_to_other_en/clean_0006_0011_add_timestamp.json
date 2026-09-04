@@ -1,0 +1,82 @@
+{
+    "text": "Which abs have the most active hiking groups in my area?",
+    "chunks": [
+        {
+            "text": "Which",
+            "timestamp": [
+                0.64,
+                0.96
+            ]
+        },
+        {
+            "text": "abs",
+            "timestamp": [
+                1.2,
+                1.68
+            ]
+        },
+        {
+            "text": "have",
+            "timestamp": [
+                1.68,
+                1.84
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                1.92,
+                2.16
+            ]
+        },
+        {
+            "text": "most",
+            "timestamp": [
+                2.16,
+                2.4
+            ]
+        },
+        {
+            "text": "active",
+            "timestamp": [
+                2.4,
+                2.96
+            ]
+        },
+        {
+            "text": "hiking",
+            "timestamp": [
+                2.96,
+                3.6
+            ]
+        },
+        {
+            "text": "groups",
+            "timestamp": [
+                3.6,
+                4.0
+            ]
+        },
+        {
+            "text": "in",
+            "timestamp": [
+                4.0,
+                4.32
+            ]
+        },
+        {
+            "text": "my",
+            "timestamp": [
+                4.32,
+                4.64
+            ]
+        },
+        {
+            "text": "area?",
+            "timestamp": [
+                4.64,
+                5.28
+            ]
+        }
+    ]
+}

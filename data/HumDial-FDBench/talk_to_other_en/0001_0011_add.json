@@ -1,0 +1,20 @@
+{
+  "final_duration": 36.7,
+  "speech_segments": [
+    {
+      "xmin": 1.1,
+      "xmax": 5.65,
+      "text": "what are some effective breathing techniques for meditation relaxation?"
+    },
+    {
+      "xmin": 10.65,
+      "xmax": 14.7,
+      "text": "sorry, i missed that. could you say the breathing techniques again?"
+    },
+    {
+      "xmin": 19.7,
+      "xmax": 26.7,
+      "text": "i just passed my driving test on the first try, and now i'm waiting for the license to arrive in the mail."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "final_duration": 24.75,
+  "speech_segments": [
+    {
+      "xmin": 0.8499999999999996,
+      "xmax": 4.549999999999999,
+      "text": "how long should i steam my face for best results?"
+    },
+    {
+      "xmin": 9.550000000000002,
+      "xmax": 14.749999999999998,
+      "text": ""
+    }
+  ]
+}

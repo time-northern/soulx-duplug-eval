@@ -1,0 +1,20 @@
+{
+  "final_duration": 37.95,
+  "speech_segments": [
+    {
+      "xmin": 0.95,
+      "xmax": 5.95,
+      "text": "what are some traditional mid-autumn festival customs in your hometown?"
+    },
+    {
+      "xmin": 10.95,
+      "xmax": 16.25,
+      "text": "sorry, i missed that. could you repeat the mid-autumn customs you mentioned?"
+    },
+    {
+      "xmin": 21.25,
+      "xmax": 27.950000000000003,
+      "text": "i think watching the sunrise from that hilltop would be amazing tomorrow."
+    }
+  ]
+}

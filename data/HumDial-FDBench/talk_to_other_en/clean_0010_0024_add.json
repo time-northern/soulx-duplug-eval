@@ -1,0 +1,15 @@
+{
+  "final_duration": 22.85,
+  "speech_segments": [
+    {
+      "xmin": 0.29999999999999893,
+      "xmax": 3.3499999999999996,
+      "text": "how do curtain bangs work with different face shapes?"
+    },
+    {
+      "xmin": 8.35,
+      "xmax": 12.850000000000003,
+      "text": ""
+    }
+  ]
+}

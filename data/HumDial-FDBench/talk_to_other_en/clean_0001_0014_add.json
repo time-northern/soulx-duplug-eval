@@ -1,0 +1,15 @@
+{
+  "final_duration": 23.4,
+  "speech_segments": [
+    {
+      "xmin": 0.75,
+      "xmax": 5.050000000000001,
+      "text": "sorry, could you repeat the features of the monthly billing service?"
+    },
+    {
+      "xmin": 10.049999999999999,
+      "xmax": 13.4,
+      "text": ""
+    }
+  ]
+}

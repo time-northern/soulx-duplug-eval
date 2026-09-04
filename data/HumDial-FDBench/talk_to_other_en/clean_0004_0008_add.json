@@ -1,0 +1,15 @@
+{
+  "final_duration": 28.3,
+  "speech_segments": [
+    {
+      "xmin": 0.8999999999999986,
+      "xmax": 6.099999999999998,
+      "text": "sorry, could you say that part again about organizing the meeting?"
+    },
+    {
+      "xmin": 11.099999999999998,
+      "xmax": 18.3,
+      "text": ""
+    }
+  ]
+}

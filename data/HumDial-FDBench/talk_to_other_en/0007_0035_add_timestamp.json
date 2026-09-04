@@ -1,0 +1,236 @@
+{
+    "text": "What are some common mishaps people experience during holiday travels? How can I best prepare for a potential flight delay? Do you think this wall scarf is thick enough for the mountain trip?",
+    "chunks": [
+        {
+            "text": "What",
+            "timestamp": [
+                0.32,
+                0.64
+            ]
+        },
+        {
+            "text": "are",
+            "timestamp": [
+                0.88,
+                1.2
+            ]
+        },
+        {
+            "text": "some",
+            "timestamp": [
+                1.2,
+                1.52
+            ]
+        },
+        {
+            "text": "common",
+            "timestamp": [
+                1.52,
+                2.16
+            ]
+        },
+        {
+            "text": "mishaps",
+            "timestamp": [
+                2.16,
+                3.44
+            ]
+        },
+        {
+            "text": "people",
+            "timestamp": [
+                3.44,
+                3.7600000000000002
+            ]
+        },
+        {
+            "text": "experience",
+            "timestamp": [
+                3.7600000000000002,
+                4.96
+            ]
+        },
+        {
+            "text": "during",
+            "timestamp": [
+                4.96,
+                5.6000000000000005
+            ]
+        },
+        {
+            "text": "holiday",
+            "timestamp": [
+                5.6000000000000005,
+                6.48
+            ]
+        },
+        {
+            "text": "travels?",
+            "timestamp": [
+                6.48,
+                7.44
+            ]
+        },
+        {
+            "text": "How",
+            "timestamp": [
+                12.0,
+                12.24
+            ]
+        },
+        {
+            "text": "can",
+            "timestamp": [
+                12.24,
+                12.48
+            ]
+        },
+        {
+            "text": "I",
+            "timestamp": [
+                12.48,
+                12.72
+            ]
+        },
+        {
+            "text": "best",
+            "timestamp": [
+                12.72,
+                13.040000000000001
+            ]
+        },
+        {
+            "text": "prepare",
+            "timestamp": [
+                13.040000000000001,
+                13.6
+            ]
+        },
+        {
+            "text": "for",
+            "timestamp": [
+                13.6,
+                13.84
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                13.84,
+                14.08
+            ]
+        },
+        {
+            "text": "potential",
+            "timestamp": [
+                14.08,
+                14.72
+            ]
+        },
+        {
+            "text": "flight",
+            "timestamp": [
+                14.72,
+                15.200000000000001
+            ]
+        },
+        {
+            "text": "delay?",
+            "timestamp": [
+                15.200000000000001,
+                16.0
+            ]
+        },
+        {
+            "text": "Do",
+            "timestamp": [
+                20.48,
+                20.72
+            ]
+        },
+        {
+            "text": "you",
+            "timestamp": [
+                20.72,
+                20.96
+            ]
+        },
+        {
+            "text": "think",
+            "timestamp": [
+                20.96,
+                21.28
+            ]
+        },
+        {
+            "text": "this",
+            "timestamp": [
+                21.28,
+                21.6
+            ]
+        },
+        {
+            "text": "wall",
+            "timestamp": [
+                21.6,
+                21.92
+            ]
+        },
+        {
+            "text": "scarf",
+            "timestamp": [
+                22.080000000000002,
+                22.64
+            ]
+        },
+        {
+            "text": "is",
+            "timestamp": [
+                22.64,
+                22.88
+            ]
+        },
+        {
+            "text": "thick",
+            "timestamp": [
+                22.88,
+                23.36
+            ]
+        },
+        {
+            "text": "enough",
+            "timestamp": [
+                23.36,
+                23.76
+            ]
+        },
+        {
+            "text": "for",
+            "timestamp": [
+                23.76,
+                24.0
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                24.0,
+                24.32
+            ]
+        },
+        {
+            "text": "mountain",
+            "timestamp": [
+                24.32,
+                24.8
+            ]
+        },
+        {
+            "text": "trip?",
+            "timestamp": [
+                24.8,
+                25.52
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+  "final_duration": 37.550000000000004,
+  "speech_segments": [
+    {
+      "xmin": 0.85,
+      "xmax": 6.3,
+      "text": "what are some effective ways to improve the lighting in a shared office space?"
+    },
+    {
+      "xmin": 11.3,
+      "xmax": 16.65,
+      "text": "sorry, i missed that. could you repeat the lighting tips for the office?"
+    },
+    {
+      "xmin": 21.65,
+      "xmax": 27.55,
+      "text": "i think i'll try that new hiit workout class at the gym tomorrow morning."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "final_duration": 24.15,
+  "speech_segments": [
+    {
+      "xmin": 0.7000000000000011,
+      "xmax": 3.8000000000000007,
+      "text": "how soon after my workout should i have this meal?"
+    },
+    {
+      "xmin": 8.8,
+      "xmax": 14.150000000000002,
+      "text": ""
+    }
+  ]
+}

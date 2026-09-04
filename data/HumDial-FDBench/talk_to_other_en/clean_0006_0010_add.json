@@ -1,0 +1,15 @@
+{
+  "final_duration": 25.05,
+  "speech_segments": [
+    {
+      "xmin": 0.5999999999999996,
+      "xmax": 4.350000000000001,
+      "text": "are those walking trails suitable for cycling as well?"
+    },
+    {
+      "xmin": 9.350000000000001,
+      "xmax": 15.05,
+      "text": ""
+    }
+  ]
+}

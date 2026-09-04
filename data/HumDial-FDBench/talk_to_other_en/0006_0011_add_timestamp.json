@@ -1,0 +1,243 @@
+{
+    "text": "How can I fare local friends who share my interest in hiking? Which apps have the most active hiking groups in my area? I'm thinking of visiting the Modern Art Exhibition downtown this weekend.",
+    "chunks": [
+        {
+            "text": "How",
+            "timestamp": [
+                0.56,
+                0.96
+            ]
+        },
+        {
+            "text": "can",
+            "timestamp": [
+                0.96,
+                1.12
+            ]
+        },
+        {
+            "text": "I",
+            "timestamp": [
+                1.12,
+                1.28
+            ]
+        },
+        {
+            "text": "fare",
+            "timestamp": [
+                1.28,
+                1.6
+            ]
+        },
+        {
+            "text": "local",
+            "timestamp": [
+                1.68,
+                2.08
+            ]
+        },
+        {
+            "text": "friends",
+            "timestamp": [
+                2.08,
+                2.64
+            ]
+        },
+        {
+            "text": "who",
+            "timestamp": [
+                2.64,
+                2.96
+            ]
+        },
+        {
+            "text": "share",
+            "timestamp": [
+                2.96,
+                3.2800000000000002
+            ]
+        },
+        {
+            "text": "my",
+            "timestamp": [
+                3.2800000000000002,
+                3.6
+            ]
+        },
+        {
+            "text": "interest",
+            "timestamp": [
+                3.6,
+                3.84
+            ]
+        },
+        {
+            "text": "in",
+            "timestamp": [
+                3.84,
+                4.16
+            ]
+        },
+        {
+            "text": "hiking?",
+            "timestamp": [
+                4.16,
+                5.12
+            ]
+        },
+        {
+            "text": "Which",
+            "timestamp": [
+                9.52,
+                9.84
+            ]
+        },
+        {
+            "text": "apps",
+            "timestamp": [
+                10.0,
+                10.48
+            ]
+        },
+        {
+            "text": "have",
+            "timestamp": [
+                10.48,
+                10.72
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                10.72,
+                10.96
+            ]
+        },
+        {
+            "text": "most",
+            "timestamp": [
+                10.96,
+                11.28
+            ]
+        },
+        {
+            "text": "active",
+            "timestamp": [
+                11.28,
+                11.76
+            ]
+        },
+        {
+            "text": "hiking",
+            "timestamp": [
+                11.76,
+                12.4
+            ]
+        },
+        {
+            "text": "groups",
+            "timestamp": [
+                12.4,
+                12.88
+            ]
+        },
+        {
+            "text": "in",
+            "timestamp": [
+                12.88,
+                13.200000000000001
+            ]
+        },
+        {
+            "text": "my",
+            "timestamp": [
+                13.200000000000001,
+                13.52
+            ]
+        },
+        {
+            "text": "area?",
+            "timestamp": [
+                13.52,
+                14.08
+            ]
+        },
+        {
+            "text": "I'm",
+            "timestamp": [
+                18.48,
+                18.8
+            ]
+        },
+        {
+            "text": "thinking",
+            "timestamp": [
+                18.8,
+                19.2
+            ]
+        },
+        {
+            "text": "of",
+            "timestamp": [
+                19.2,
+                19.44
+            ]
+        },
+        {
+            "text": "visiting",
+            "timestamp": [
+                19.44,
+                20.0
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                20.0,
+                20.32
+            ]
+        },
+        {
+            "text": "Modern",
+            "timestamp": [
+                20.32,
+                20.88
+            ]
+        },
+        {
+            "text": "Art",
+            "timestamp": [
+                20.88,
+                21.2
+            ]
+        },
+        {
+            "text": "Exhibition",
+            "timestamp": [
+                21.36,
+                22.32
+            ]
+        },
+        {
+            "text": "downtown",
+            "timestamp": [
+                22.32,
+                23.04
+            ]
+        },
+        {
+            "text": "this",
+            "timestamp": [
+                23.04,
+                23.28
+            ]
+        },
+        {
+            "text": "weekend.",
+            "timestamp": [
+                23.28,
+                24.240000000000002
+            ]
+        }
+    ]
+}

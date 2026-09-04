@@ -1,0 +1,89 @@
+{
+    "text": "What if we want to wear different patterns but still look coordinated?",
+    "chunks": [
+        {
+            "text": "What",
+            "timestamp": [
+                0.96,
+                1.28
+            ]
+        },
+        {
+            "text": "if",
+            "timestamp": [
+                1.44,
+                1.76
+            ]
+        },
+        {
+            "text": "we",
+            "timestamp": [
+                1.76,
+                2.08
+            ]
+        },
+        {
+            "text": "want",
+            "timestamp": [
+                2.08,
+                2.32
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                2.32,
+                2.56
+            ]
+        },
+        {
+            "text": "wear",
+            "timestamp": [
+                2.56,
+                3.12
+            ]
+        },
+        {
+            "text": "different",
+            "timestamp": [
+                3.12,
+                3.36
+            ]
+        },
+        {
+            "text": "patterns",
+            "timestamp": [
+                3.36,
+                4.24
+            ]
+        },
+        {
+            "text": "but",
+            "timestamp": [
+                4.48,
+                4.8
+            ]
+        },
+        {
+            "text": "still",
+            "timestamp": [
+                4.8,
+                5.12
+            ]
+        },
+        {
+            "text": "look",
+            "timestamp": [
+                5.12,
+                5.44
+            ]
+        },
+        {
+            "text": "coordinated?",
+            "timestamp": [
+                5.6000000000000005,
+                6.88
+            ]
+        }
+    ]
+}

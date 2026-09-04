@@ -1,0 +1,236 @@
+{
+    "text": "How can cycling help reduce stress in daily life What if I can't cycle outdoors due to bad weather? I wonder if the temperature will drop significantly during the upcoming solar champ change",
+    "chunks": [
+        {
+            "text": "How",
+            "timestamp": [
+                0.32,
+                0.72
+            ]
+        },
+        {
+            "text": "can",
+            "timestamp": [
+                0.72,
+                1.04
+            ]
+        },
+        {
+            "text": "cycling",
+            "timestamp": [
+                1.04,
+                1.76
+            ]
+        },
+        {
+            "text": "help",
+            "timestamp": [
+                1.76,
+                2.0
+            ]
+        },
+        {
+            "text": "reduce",
+            "timestamp": [
+                2.0,
+                2.4
+            ]
+        },
+        {
+            "text": "stress",
+            "timestamp": [
+                2.4,
+                2.88
+            ]
+        },
+        {
+            "text": "in",
+            "timestamp": [
+                2.88,
+                3.04
+            ]
+        },
+        {
+            "text": "daily",
+            "timestamp": [
+                3.04,
+                3.7600000000000002
+            ]
+        },
+        {
+            "text": "life",
+            "timestamp": [
+                3.7600000000000002,
+                4.08
+            ]
+        },
+        {
+            "text": "What",
+            "timestamp": [
+                8.48,
+                8.8
+            ]
+        },
+        {
+            "text": "if",
+            "timestamp": [
+                8.8,
+                9.040000000000001
+            ]
+        },
+        {
+            "text": "I",
+            "timestamp": [
+                9.040000000000001,
+                9.200000000000001
+            ]
+        },
+        {
+            "text": "can't",
+            "timestamp": [
+                9.200000000000001,
+                9.6
+            ]
+        },
+        {
+            "text": "cycle",
+            "timestamp": [
+                9.6,
+                10.08
+            ]
+        },
+        {
+            "text": "outdoors",
+            "timestamp": [
+                10.08,
+                10.96
+            ]
+        },
+        {
+            "text": "due",
+            "timestamp": [
+                10.96,
+                11.36
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                11.36,
+                11.6
+            ]
+        },
+        {
+            "text": "bad",
+            "timestamp": [
+                11.6,
+                12.24
+            ]
+        },
+        {
+            "text": "weather?",
+            "timestamp": [
+                12.24,
+                12.88
+            ]
+        },
+        {
+            "text": "I",
+            "timestamp": [
+                17.36,
+                17.6
+            ]
+        },
+        {
+            "text": "wonder",
+            "timestamp": [
+                17.6,
+                18.16
+            ]
+        },
+        {
+            "text": "if",
+            "timestamp": [
+                18.16,
+                18.32
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                18.32,
+                18.48
+            ]
+        },
+        {
+            "text": "temperature",
+            "timestamp": [
+                18.48,
+                19.28
+            ]
+        },
+        {
+            "text": "will",
+            "timestamp": [
+                19.28,
+                19.52
+            ]
+        },
+        {
+            "text": "drop",
+            "timestamp": [
+                19.52,
+                20.0
+            ]
+        },
+        {
+            "text": "significantly",
+            "timestamp": [
+                20.0,
+                21.2
+            ]
+        },
+        {
+            "text": "during",
+            "timestamp": [
+                21.2,
+                21.68
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                21.68,
+                21.84
+            ]
+        },
+        {
+            "text": "upcoming",
+            "timestamp": [
+                21.84,
+                22.32
+            ]
+        },
+        {
+            "text": "solar",
+            "timestamp": [
+                22.32,
+                22.72
+            ]
+        },
+        {
+            "text": "champ",
+            "timestamp": [
+                22.72,
+                23.04
+            ]
+        },
+        {
+            "text": "change",
+            "timestamp": [
+                23.12,
+                23.52
+            ]
+        }
+    ]
+}

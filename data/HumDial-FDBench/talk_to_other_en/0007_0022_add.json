@@ -1,0 +1,20 @@
+{
+  "final_duration": 39.0,
+  "speech_segments": [
+    {
+      "xmin": 0.55,
+      "xmax": 7.8,
+      "text": "what are some traditional foods served during the harvest moon festival in this region?"
+    },
+    {
+      "xmin": 12.8,
+      "xmax": 18.45,
+      "text": "are there any specific regional variations in the mooncake fillings here?"
+    },
+    {
+      "xmin": 23.45,
+      "xmax": 29.0,
+      "text": "do you think we'll need warmer jackets for hiking in the mountains next week?"
+    }
+  ]
+}

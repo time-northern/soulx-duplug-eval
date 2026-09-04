@@ -1,0 +1,15 @@
+{
+  "final_duration": 28.35,
+  "speech_segments": [
+    {
+      "xmin": 0.5,
+      "xmax": 5.800000000000001,
+      "text": "does that mean they take forever to order their main course too?"
+    },
+    {
+      "xmin": 10.8,
+      "xmax": 18.35,
+      "text": ""
+    }
+  ]
+}

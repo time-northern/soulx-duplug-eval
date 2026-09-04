@@ -1,0 +1,89 @@
+{
+    "text": "How much spinach should I eat daily to see a noticeable improvement?",
+    "chunks": [
+        {
+            "text": "How",
+            "timestamp": [
+                0.8,
+                1.2
+            ]
+        },
+        {
+            "text": "much",
+            "timestamp": [
+                1.2,
+                1.52
+            ]
+        },
+        {
+            "text": "spinach",
+            "timestamp": [
+                1.52,
+                2.48
+            ]
+        },
+        {
+            "text": "should",
+            "timestamp": [
+                2.48,
+                2.8000000000000003
+            ]
+        },
+        {
+            "text": "I",
+            "timestamp": [
+                2.8000000000000003,
+                3.04
+            ]
+        },
+        {
+            "text": "eat",
+            "timestamp": [
+                3.04,
+                3.44
+            ]
+        },
+        {
+            "text": "daily",
+            "timestamp": [
+                3.44,
+                4.0
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                4.0,
+                4.32
+            ]
+        },
+        {
+            "text": "see",
+            "timestamp": [
+                4.32,
+                4.5600000000000005
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                4.5600000000000005,
+                4.8
+            ]
+        },
+        {
+            "text": "noticeable",
+            "timestamp": [
+                4.8,
+                5.92
+            ]
+        },
+        {
+            "text": "improvement?",
+            "timestamp": [
+                5.92,
+                7.2
+            ]
+        }
+    ]
+}

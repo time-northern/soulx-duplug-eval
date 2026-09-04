@@ -1,0 +1,20 @@
+{
+  "final_duration": 39.449999999999996,
+  "speech_segments": [
+    {
+      "xmin": 0.55,
+      "xmax": 7.65,
+      "text": "what are some key elements that make a comedy show truly hilarious and memorable?"
+    },
+    {
+      "xmin": 12.65,
+      "xmax": 17.7,
+      "text": "can you give an example of how timing affects a joke's impact?"
+    },
+    {
+      "xmin": 22.699999999999996,
+      "xmax": 29.449999999999996,
+      "text": "i'm thinking of watching a话剧 this weekend, maybe something classic like 'death of a salesman'."
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+    "text": "Today will give an example of how this balance might appear in daily life.",
+    "chunks": [
+        {
+            "text": "Today",
+            "timestamp": [
+                0.32,
+                0.8
+            ]
+        },
+        {
+            "text": "will",
+            "timestamp": [
+                0.96,
+                1.12
+            ]
+        },
+        {
+            "text": "give",
+            "timestamp": [
+                1.12,
+                1.28
+            ]
+        },
+        {
+            "text": "an",
+            "timestamp": [
+                1.44,
+                1.68
+            ]
+        },
+        {
+            "text": "example",
+            "timestamp": [
+                1.68,
+                2.24
+            ]
+        },
+        {
+            "text": "of",
+            "timestamp": [
+                2.24,
+                2.48
+            ]
+        },
+        {
+            "text": "how",
+            "timestamp": [
+                2.48,
+                2.8000000000000003
+            ]
+        },
+        {
+            "text": "this",
+            "timestamp": [
+                2.8000000000000003,
+                3.04
+            ]
+        },
+        {
+            "text": "balance",
+            "timestamp": [
+                3.04,
+                3.7600000000000002
+            ]
+        },
+        {
+            "text": "might",
+            "timestamp": [
+                3.7600000000000002,
+                4.08
+            ]
+        },
+        {
+            "text": "appear",
+            "timestamp": [
+                4.08,
+                4.64
+            ]
+        },
+        {
+            "text": "in",
+            "timestamp": [
+                4.64,
+                4.96
+            ]
+        },
+        {
+            "text": "daily",
+            "timestamp": [
+                4.96,
+                5.68
+            ]
+        },
+        {
+            "text": "life.",
+            "timestamp": [
+                5.68,
+                6.0
+            ]
+        }
+    ]
+}

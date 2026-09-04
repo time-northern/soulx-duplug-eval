@@ -1,0 +1,68 @@
+{
+    "text": "What if the feedback feels on fire or incorrect?",
+    "chunks": [
+        {
+            "text": "What",
+            "timestamp": [
+                1.6,
+                1.92
+            ]
+        },
+        {
+            "text": "if",
+            "timestamp": [
+                1.92,
+                2.16
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                2.16,
+                2.4
+            ]
+        },
+        {
+            "text": "feedback",
+            "timestamp": [
+                2.4,
+                3.04
+            ]
+        },
+        {
+            "text": "feels",
+            "timestamp": [
+                3.04,
+                3.44
+            ]
+        },
+        {
+            "text": "on",
+            "timestamp": [
+                3.44,
+                3.7600000000000002
+            ]
+        },
+        {
+            "text": "fire",
+            "timestamp": [
+                3.7600000000000002,
+                4.16
+            ]
+        },
+        {
+            "text": "or",
+            "timestamp": [
+                4.4,
+                4.72
+            ]
+        },
+        {
+            "text": "incorrect?",
+            "timestamp": [
+                4.72,
+                5.76
+            ]
+        }
+    ]
+}

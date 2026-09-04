@@ -1,0 +1,20 @@
+{
+  "final_duration": 37.0,
+  "speech_segments": [
+    {
+      "xmin": 1.05,
+      "xmax": 5.45,
+      "text": "what are some funny behaviors of cats that always make people laugh?"
+    },
+    {
+      "xmin": 10.45,
+      "xmax": 13.65,
+      "text": "why do cats chirp at birds like that?"
+    },
+    {
+      "xmin": 18.65,
+      "xmax": 27.0,
+      "text": "i think we should sing 'bohemian rhapsody' at ktv next time—it's a classic."
+    }
+  ]
+}

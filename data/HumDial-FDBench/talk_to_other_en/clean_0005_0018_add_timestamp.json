@@ -1,0 +1,75 @@
+{
+    "text": "How often should this weight shifting exercise be performed daily?",
+    "chunks": [
+        {
+            "text": "How",
+            "timestamp": [
+                0.32,
+                0.88
+            ]
+        },
+        {
+            "text": "often",
+            "timestamp": [
+                0.88,
+                1.44
+            ]
+        },
+        {
+            "text": "should",
+            "timestamp": [
+                1.44,
+                1.76
+            ]
+        },
+        {
+            "text": "this",
+            "timestamp": [
+                1.76,
+                2.08
+            ]
+        },
+        {
+            "text": "weight",
+            "timestamp": [
+                2.08,
+                2.48
+            ]
+        },
+        {
+            "text": "shifting",
+            "timestamp": [
+                2.48,
+                3.04
+            ]
+        },
+        {
+            "text": "exercise",
+            "timestamp": [
+                3.04,
+                3.7600000000000002
+            ]
+        },
+        {
+            "text": "be",
+            "timestamp": [
+                4.0,
+                4.24
+            ]
+        },
+        {
+            "text": "performed",
+            "timestamp": [
+                4.24,
+                4.96
+            ]
+        },
+        {
+            "text": "daily?",
+            "timestamp": [
+                4.96,
+                5.84
+            ]
+        }
+    ]
+}

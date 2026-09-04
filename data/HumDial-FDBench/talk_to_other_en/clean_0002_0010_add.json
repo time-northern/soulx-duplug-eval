@@ -1,0 +1,15 @@
+{
+  "final_duration": 25.2,
+  "speech_segments": [
+    {
+      "xmin": 0.8499999999999996,
+      "xmax": 4.899999999999999,
+      "text": "sorry, could you repeat the steps for a gastroscopy?"
+    },
+    {
+      "xmin": 9.899999999999997,
+      "xmax": 15.200000000000001,
+      "text": ""
+    }
+  ]
+}

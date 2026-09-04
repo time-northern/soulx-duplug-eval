@@ -1,0 +1,20 @@
+{
+  "final_duration": 33.2,
+  "speech_segments": [
+    {
+      "xmin": 0.55,
+      "xmax": 6.15,
+      "text": "what are some effective ways to organize a family calendar for better coordination?"
+    },
+    {
+      "xmin": 11.15,
+      "xmax": 14.25,
+      "text": "sorry, i missed that. could you say that again?"
+    },
+    {
+      "xmin": 19.25,
+      "xmax": 23.2,
+      "text": "i wonder if it's going to be sunny for my morning jog tomorrow."
+    }
+  ]
+}

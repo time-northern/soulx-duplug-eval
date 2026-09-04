@@ -1,0 +1,20 @@
+{
+  "final_duration": 36.5,
+  "speech_segments": [
+    {
+      "xmin": 0.4,
+      "xmax": 7.15,
+      "text": "what are the best caribbean islands to visit for a relaxing beach vacation in december?"
+    },
+    {
+      "xmin": 12.15,
+      "xmax": 16.2,
+      "text": "why are their waters particularly calm during that month?"
+    },
+    {
+      "xmin": 21.2,
+      "xmax": 26.499999999999996,
+      "text": "the humidity in my office seems to fluctuate a lot during the day."
+    }
+  ]
+}

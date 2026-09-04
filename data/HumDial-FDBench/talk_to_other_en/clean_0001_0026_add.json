@@ -1,0 +1,15 @@
+{
+  "final_duration": 24.15,
+  "speech_segments": [
+    {
+      "xmin": 0.5999999999999996,
+      "xmax": 4.449999999999999,
+      "text": "sorry, could you repeat the best way to measure flour for cakes?"
+    },
+    {
+      "xmin": 9.450000000000001,
+      "xmax": 14.15,
+      "text": ""
+    }
+  ]
+}

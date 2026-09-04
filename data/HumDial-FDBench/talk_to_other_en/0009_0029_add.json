@@ -1,0 +1,20 @@
+{
+  "final_duration": 35.599999999999994,
+  "speech_segments": [
+    {
+      "xmin": 0.5,
+      "xmax": 6.0,
+      "text": "how does quantum entanglement enable secure communication in quantum cryptography?"
+    },
+    {
+      "xmin": 11.0,
+      "xmax": 15.75,
+      "text": "how does this instant effect actually prevent eavesdropping?"
+    },
+    {
+      "xmin": 20.75,
+      "xmax": 25.599999999999998,
+      "text": "i need to review my monthly budget for retirement savings soon."
+    }
+  ]
+}

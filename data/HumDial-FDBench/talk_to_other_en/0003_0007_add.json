@@ -1,0 +1,20 @@
+{
+  "final_duration": 37.25,
+  "speech_segments": [
+    {
+      "xmin": 0.7,
+      "xmax": 6.75,
+      "text": "how can i effectively control the growth direction of my indoor plants using light sources?"
+    },
+    {
+      "xmin": 11.75,
+      "xmax": 15.5,
+      "text": "what's the best type of artificial light for this purpose?"
+    },
+    {
+      "xmin": 20.5,
+      "xmax": 27.25,
+      "text": "i'm thinking about learning how to play the guitar this summer, maybe starting with some basic chords."
+    }
+  ]
+}

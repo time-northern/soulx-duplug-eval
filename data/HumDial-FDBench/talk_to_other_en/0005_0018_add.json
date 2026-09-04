@@ -1,0 +1,20 @@
+{
+  "final_duration": 39.95,
+  "speech_segments": [
+    {
+      "xmin": 0.65,
+      "xmax": 7.95,
+      "text": "what are the most effective balance exercises for elderly individuals recovering from hip surgery?"
+    },
+    {
+      "xmin": 12.95,
+      "xmax": 17.65,
+      "text": "how often should these weight-shifting exercises be performed daily?"
+    },
+    {
+      "xmin": 22.65,
+      "xmax": 29.949999999999996,
+      "text": "do you think marigolds are easy to grow from seeds in a small balcony planter?"
+    }
+  ]
+}

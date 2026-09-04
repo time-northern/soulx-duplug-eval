@@ -1,0 +1,20 @@
+{
+  "final_duration": 38.05,
+  "speech_segments": [
+    {
+      "xmin": 0.9,
+      "xmax": 9.15,
+      "text": "why do i keep experiencing small misfortunes like spilling coffee and missing buses lately?"
+    },
+    {
+      "xmin": 14.15,
+      "xmax": 18.4,
+      "text": "how does stress specifically lead to these minor accidents?"
+    },
+    {
+      "xmin": 23.4,
+      "xmax": 28.049999999999997,
+      "text": "the temperature dropped so much last night, i had to dig out my winter coat."
+    }
+  ]
+}

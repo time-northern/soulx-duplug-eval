@@ -1,0 +1,20 @@
+{
+  "final_duration": 35.6,
+  "speech_segments": [
+    {
+      "xmin": 0.6,
+      "xmax": 6.15,
+      "text": "what are some must-see attractions within a 30-minute drive from downtown?"
+    },
+    {
+      "xmin": 11.15,
+      "xmax": 14.900000000000002,
+      "text": "are those walking trails suitable for cycling as well?"
+    },
+    {
+      "xmin": 19.900000000000002,
+      "xmax": 25.6,
+      "text": "i'm considering whether to pursue a master's degree in data science next year."
+    }
+  ]
+}

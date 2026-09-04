@@ -1,0 +1,20 @@
+{
+  "final_duration": 39.4,
+  "speech_segments": [
+    {
+      "xmin": 0.6,
+      "xmax": 8.45,
+      "text": "what are some effective strategies to help a child with dyslexia improve their reading fluency?"
+    },
+    {
+      "xmin": 13.45,
+      "xmax": 18.45,
+      "text": "how do colored overlays specifically assist with visual stress?"
+    },
+    {
+      "xmin": 23.450000000000003,
+      "xmax": 29.4,
+      "text": "do you think a wool sweater would be too warm for this breezy weather?"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+    "text": "How can I best prepare for a potential flight delay?",
+    "chunks": [
+        {
+            "text": "How",
+            "timestamp": [
+                0.48,
+                0.72
+            ]
+        },
+        {
+            "text": "can",
+            "timestamp": [
+                0.72,
+                0.96
+            ]
+        },
+        {
+            "text": "I",
+            "timestamp": [
+                0.96,
+                1.2
+            ]
+        },
+        {
+            "text": "best",
+            "timestamp": [
+                1.2,
+                1.52
+            ]
+        },
+        {
+            "text": "prepare",
+            "timestamp": [
+                1.52,
+                2.08
+            ]
+        },
+        {
+            "text": "for",
+            "timestamp": [
+                2.08,
+                2.32
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                2.32,
+                2.56
+            ]
+        },
+        {
+            "text": "potential",
+            "timestamp": [
+                2.56,
+                3.2
+            ]
+        },
+        {
+            "text": "flight",
+            "timestamp": [
+                3.2,
+                3.68
+            ]
+        },
+        {
+            "text": "delay?",
+            "timestamp": [
+                3.68,
+                4.48
+            ]
+        }
+    ]
+}

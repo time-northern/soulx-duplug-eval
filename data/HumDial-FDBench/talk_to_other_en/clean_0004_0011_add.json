@@ -1,0 +1,15 @@
+{
+  "final_duration": 29.1,
+  "speech_segments": [
+    {
+      "xmin": 0.8499999999999996,
+      "xmax": 7.15,
+      "text": "sorry, could you repeat how the system adapts to different learning paces?"
+    },
+    {
+      "xmin": 12.15,
+      "xmax": 19.1,
+      "text": ""
+    }
+  ]
+}

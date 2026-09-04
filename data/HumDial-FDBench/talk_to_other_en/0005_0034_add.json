@@ -1,0 +1,20 @@
+{
+  "final_duration": 41.95,
+  "speech_segments": [
+    {
+      "xmin": 0.7,
+      "xmax": 5.65,
+      "text": "what's the ideal time to visit japan for cherry blossom viewing?"
+    },
+    {
+      "xmin": 10.65,
+      "xmax": 17.0,
+      "text": "does this timing vary significantly between northern and southern regions?"
+    },
+    {
+      "xmin": 22.0,
+      "xmax": 31.95,
+      "text": "the recent report shows global warming is accelerating faster than previous models predicted."
+    }
+  ]
+}

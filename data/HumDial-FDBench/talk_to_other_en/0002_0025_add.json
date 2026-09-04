@@ -1,0 +1,20 @@
+{
+  "final_duration": 37.25,
+  "speech_segments": [
+    {
+      "xmin": 0.55,
+      "xmax": 5.85,
+      "text": "what are the key factors to consider when selecting a luxury watch as a gift?"
+    },
+    {
+      "xmin": 10.85,
+      "xmax": 16.45,
+      "text": "which specific watch brands are known for their heritage?"
+    },
+    {
+      "xmin": 21.45,
+      "xmax": 27.25,
+      "text": "how does the temperature change between the spring equinox and qingming festival?"
+    }
+  ]
+}

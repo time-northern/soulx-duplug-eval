@@ -1,0 +1,82 @@
+{
+    "text": "Can you give an example of such a diplomatic cooperation initiative?",
+    "chunks": [
+        {
+            "text": "Can",
+            "timestamp": [
+                0.96,
+                1.44
+            ]
+        },
+        {
+            "text": "you",
+            "timestamp": [
+                1.44,
+                1.76
+            ]
+        },
+        {
+            "text": "give",
+            "timestamp": [
+                1.76,
+                2.0
+            ]
+        },
+        {
+            "text": "an",
+            "timestamp": [
+                2.0,
+                2.32
+            ]
+        },
+        {
+            "text": "example",
+            "timestamp": [
+                2.32,
+                2.8000000000000003
+            ]
+        },
+        {
+            "text": "of",
+            "timestamp": [
+                2.8000000000000003,
+                3.04
+            ]
+        },
+        {
+            "text": "such",
+            "timestamp": [
+                3.04,
+                3.2800000000000002
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                3.2800000000000002,
+                3.52
+            ]
+        },
+        {
+            "text": "diplomatic",
+            "timestamp": [
+                3.52,
+                4.64
+            ]
+        },
+        {
+            "text": "cooperation",
+            "timestamp": [
+                4.64,
+                5.44
+            ]
+        },
+        {
+            "text": "initiative?",
+            "timestamp": [
+                5.44,
+                6.48
+            ]
+        }
+    ]
+}

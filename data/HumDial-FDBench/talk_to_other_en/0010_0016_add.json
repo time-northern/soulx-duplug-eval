@@ -1,0 +1,20 @@
+{
+  "final_duration": 40.65,
+  "speech_segments": [
+    {
+      "xmin": 0.5,
+      "xmax": 10.1,
+      "text": "does the concept of luck conservation mean that if i have a streak of bad luck, good luck will eventually balance it out?"
+    },
+    {
+      "xmin": 15.1,
+      "xmax": 21.15,
+      "text": "so does that mean i should expect good luck after a long period of difficulties?"
+    },
+    {
+      "xmin": 26.15,
+      "xmax": 30.65,
+      "text": "how often should i replace the filters in my air purifier for optimal performance?"
+    }
+  ]
+}

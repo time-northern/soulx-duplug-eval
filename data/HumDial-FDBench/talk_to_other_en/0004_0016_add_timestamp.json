@@ -1,0 +1,250 @@
+{
+    "text": "How can I create a warm and loving atmosphere in my home? Sorry, could you repeat that? I missed the first part The weather at the beach today is so sunny and perfect for swimming",
+    "chunks": [
+        {
+            "text": "How",
+            "timestamp": [
+                0.64,
+                1.04
+            ]
+        },
+        {
+            "text": "can",
+            "timestamp": [
+                1.04,
+                1.28
+            ]
+        },
+        {
+            "text": "I",
+            "timestamp": [
+                1.28,
+                1.44
+            ]
+        },
+        {
+            "text": "create",
+            "timestamp": [
+                1.44,
+                2.0
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                2.0,
+                2.24
+            ]
+        },
+        {
+            "text": "warm",
+            "timestamp": [
+                2.24,
+                2.64
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                2.64,
+                2.88
+            ]
+        },
+        {
+            "text": "loving",
+            "timestamp": [
+                2.88,
+                3.44
+            ]
+        },
+        {
+            "text": "atmosphere",
+            "timestamp": [
+                3.44,
+                4.32
+            ]
+        },
+        {
+            "text": "in",
+            "timestamp": [
+                4.32,
+                4.5600000000000005
+            ]
+        },
+        {
+            "text": "my",
+            "timestamp": [
+                4.5600000000000005,
+                4.88
+            ]
+        },
+        {
+            "text": "home?",
+            "timestamp": [
+                4.88,
+                5.44
+            ]
+        },
+        {
+            "text": "Sorry,",
+            "timestamp": [
+                9.92,
+                10.32
+            ]
+        },
+        {
+            "text": "could",
+            "timestamp": [
+                10.48,
+                10.72
+            ]
+        },
+        {
+            "text": "you",
+            "timestamp": [
+                10.72,
+                10.96
+            ]
+        },
+        {
+            "text": "repeat",
+            "timestamp": [
+                10.96,
+                11.52
+            ]
+        },
+        {
+            "text": "that?",
+            "timestamp": [
+                11.52,
+                11.76
+            ]
+        },
+        {
+            "text": "I",
+            "timestamp": [
+                12.0,
+                12.16
+            ]
+        },
+        {
+            "text": "missed",
+            "timestamp": [
+                12.16,
+                12.8
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                12.8,
+                13.120000000000001
+            ]
+        },
+        {
+            "text": "first",
+            "timestamp": [
+                13.120000000000001,
+                13.36
+            ]
+        },
+        {
+            "text": "part",
+            "timestamp": [
+                13.36,
+                13.68
+            ]
+        },
+        {
+            "text": "The",
+            "timestamp": [
+                18.32,
+                18.64
+            ]
+        },
+        {
+            "text": "weather",
+            "timestamp": [
+                18.64,
+                19.2
+            ]
+        },
+        {
+            "text": "at",
+            "timestamp": [
+                19.2,
+                19.44
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                19.44,
+                19.76
+            ]
+        },
+        {
+            "text": "beach",
+            "timestamp": [
+                19.76,
+                20.240000000000002
+            ]
+        },
+        {
+            "text": "today",
+            "timestamp": [
+                20.240000000000002,
+                20.48
+            ]
+        },
+        {
+            "text": "is",
+            "timestamp": [
+                20.72,
+                20.96
+            ]
+        },
+        {
+            "text": "so",
+            "timestamp": [
+                20.96,
+                21.2
+            ]
+        },
+        {
+            "text": "sunny",
+            "timestamp": [
+                21.2,
+                22.0
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                22.0,
+                22.32
+            ]
+        },
+        {
+            "text": "perfect",
+            "timestamp": [
+                22.32,
+                23.04
+            ]
+        },
+        {
+            "text": "for",
+            "timestamp": [
+                23.04,
+                23.36
+            ]
+        },
+        {
+            "text": "swimming",
+            "timestamp": [
+                23.36,
+                24.560000000000002
+            ]
+        }
+    ]
+}

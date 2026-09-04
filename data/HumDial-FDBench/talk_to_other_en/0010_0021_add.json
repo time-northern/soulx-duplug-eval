@@ -1,0 +1,20 @@
+{
+  "final_duration": 37.05,
+  "speech_segments": [
+    {
+      "xmin": 0.35,
+      "xmax": 8.75,
+      "text": "what was the main reason for koxinga's decision to attack taiwan in 1661?"
+    },
+    {
+      "xmin": 13.75,
+      "xmax": 18.5,
+      "text": "how did the qing dynasty's expansion influence his strategic planning?"
+    },
+    {
+      "xmin": 23.5,
+      "xmax": 27.049999999999997,
+      "text": "should we go hiking this weekend if the weather stays clear?"
+    }
+  ]
+}

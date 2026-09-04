@@ -1,0 +1,20 @@
+{
+  "final_duration": 32.75,
+  "speech_segments": [
+    {
+      "xmin": 0.6,
+      "xmax": 4.4,
+      "text": "can you tell me a cold joke about winter?"
+    },
+    {
+      "xmin": 9.4,
+      "xmax": 11.9,
+      "text": "what happened to the snowman after that?"
+    },
+    {
+      "xmin": 16.9,
+      "xmax": 22.75,
+      "text": "i think i need to adjust my sleep schedule to get more deep sleep cycles."
+    }
+  ]
+}

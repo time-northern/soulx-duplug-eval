@@ -1,0 +1,15 @@
+{
+  "final_duration": 34.55,
+  "speech_segments": [
+    {
+      "xmin": 0.40000000000000036,
+      "xmax": 8.200000000000003,
+      "text": "what specific details should i include in those preliminary drafts to strengthen my claim?"
+    },
+    {
+      "xmin": 13.2,
+      "xmax": 24.549999999999997,
+      "text": ""
+    }
+  ]
+}

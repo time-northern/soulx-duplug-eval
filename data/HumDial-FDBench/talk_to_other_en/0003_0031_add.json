@@ -1,0 +1,20 @@
+{
+  "final_duration": 41.2,
+  "speech_segments": [
+    {
+      "xmin": 1.1,
+      "xmax": 7.25,
+      "text": "what are the main steps involved in training a basic image recognition model?"
+    },
+    {
+      "xmin": 12.25,
+      "xmax": 18.0,
+      "text": "could you please repeat the main steps for training an image recognition model?"
+    },
+    {
+      "xmin": 23.000000000000004,
+      "xmax": 31.200000000000006,
+      "text": "i really enjoyed watching that sci-fi movie last night; the visual effects were stunning and the plot kept me engaged throughout."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "final_duration": 40.9,
+  "speech_segments": [
+    {
+      "xmin": 0.65,
+      "xmax": 8.0,
+      "text": "how do climate models account for cloud feedback mechanisms in global warming projections?"
+    },
+    {
+      "xmin": 13.0,
+      "xmax": 19.549999999999997,
+      "text": "what specific cloud types contribute most to positive feedback loops?"
+    },
+    {
+      "xmin": 24.549999999999997,
+      "xmax": 30.9,
+      "text": "should we hang the holiday lights along the rooftop or around the windows this year?"
+    }
+  ]
+}

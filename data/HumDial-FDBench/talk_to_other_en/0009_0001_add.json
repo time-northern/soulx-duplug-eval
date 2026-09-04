@@ -1,0 +1,20 @@
+{
+  "final_duration": 35.7,
+  "speech_segments": [
+    {
+      "xmin": 0.4,
+      "xmax": 5.35,
+      "text": "what are the key components of effective animal welfare legislation?"
+    },
+    {
+      "xmin": 10.35,
+      "xmax": 16.35,
+      "text": "how do these laws specifically address veterinary care requirements?"
+    },
+    {
+      "xmin": 21.35,
+      "xmax": 25.700000000000003,
+      "text": "i'm thinking of joining a book club to meet new people in the neighborhood."
+    }
+  ]
+}

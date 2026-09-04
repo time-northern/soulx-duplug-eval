@@ -1,0 +1,15 @@
+{
+  "final_duration": 32.55,
+  "speech_segments": [
+    {
+      "xmin": 0.6999999999999993,
+      "xmax": 10.749999999999996,
+      "text": "how do you accurately assess if their audience demographics truly align with our target market?"
+    },
+    {
+      "xmin": 15.75,
+      "xmax": 22.549999999999994,
+      "text": ""
+    }
+  ]
+}

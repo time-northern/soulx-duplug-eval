@@ -1,0 +1,20 @@
+{
+  "final_duration": 38.35,
+  "speech_segments": [
+    {
+      "xmin": 0.9,
+      "xmax": 5.95,
+      "text": "what are the key steps to organize a successful student council meeting?"
+    },
+    {
+      "xmin": 10.95,
+      "xmax": 16.15,
+      "text": "sorry, could you say that part again about organizing the meeting?"
+    },
+    {
+      "xmin": 21.15,
+      "xmax": 28.35,
+      "text": "i heard the night market has amazing street food; we should check it out this weekend."
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+    "text": "Does this obsession with appearance usually lead to impulsive purchases?",
+    "chunks": [
+        {
+            "text": "Does",
+            "timestamp": [
+                0.48,
+                0.96
+            ]
+        },
+        {
+            "text": "this",
+            "timestamp": [
+                0.96,
+                1.28
+            ]
+        },
+        {
+            "text": "obsession",
+            "timestamp": [
+                1.28,
+                2.16
+            ]
+        },
+        {
+            "text": "with",
+            "timestamp": [
+                2.16,
+                2.4
+            ]
+        },
+        {
+            "text": "appearance",
+            "timestamp": [
+                2.4,
+                2.96
+            ]
+        },
+        {
+            "text": "usually",
+            "timestamp": [
+                3.12,
+                3.44
+            ]
+        },
+        {
+            "text": "lead",
+            "timestamp": [
+                3.6,
+                3.84
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                3.84,
+                4.16
+            ]
+        },
+        {
+            "text": "impulsive",
+            "timestamp": [
+                4.16,
+                5.2
+            ]
+        },
+        {
+            "text": "purchases?",
+            "timestamp": [
+                5.2,
+                6.640000000000001
+            ]
+        }
+    ]
+}

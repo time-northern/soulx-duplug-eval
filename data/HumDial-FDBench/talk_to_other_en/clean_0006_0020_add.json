@@ -1,0 +1,15 @@
+{
+  "final_duration": 28.6,
+  "speech_segments": [
+    {
+      "xmin": 0.6500000000000004,
+      "xmax": 6.050000000000001,
+      "text": "does this obsession with appearance usually lead to impulsive purchases?"
+    },
+    {
+      "xmin": 11.050000000000004,
+      "xmax": 18.6,
+      "text": ""
+    }
+  ]
+}

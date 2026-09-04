@@ -1,0 +1,89 @@
+{
+    "text": "How long does a patent protection usually last for a new drug?",
+    "chunks": [
+        {
+            "text": "How",
+            "timestamp": [
+                0.8,
+                1.28
+            ]
+        },
+        {
+            "text": "long",
+            "timestamp": [
+                1.28,
+                1.6
+            ]
+        },
+        {
+            "text": "does",
+            "timestamp": [
+                1.6,
+                1.84
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                1.84,
+                2.0
+            ]
+        },
+        {
+            "text": "patent",
+            "timestamp": [
+                2.0,
+                2.64
+            ]
+        },
+        {
+            "text": "protection",
+            "timestamp": [
+                2.64,
+                3.36
+            ]
+        },
+        {
+            "text": "usually",
+            "timestamp": [
+                3.36,
+                3.92
+            ]
+        },
+        {
+            "text": "last",
+            "timestamp": [
+                3.92,
+                4.24
+            ]
+        },
+        {
+            "text": "for",
+            "timestamp": [
+                4.24,
+                4.4
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                4.4,
+                4.5600000000000005
+            ]
+        },
+        {
+            "text": "new",
+            "timestamp": [
+                4.5600000000000005,
+                4.88
+            ]
+        },
+        {
+            "text": "drug?",
+            "timestamp": [
+                4.88,
+                5.68
+            ]
+        }
+    ]
+}

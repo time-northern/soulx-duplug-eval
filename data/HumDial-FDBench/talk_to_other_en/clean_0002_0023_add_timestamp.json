@@ -1,0 +1,61 @@
+{
+    "text": "Why do cats chirp at birds like that?",
+    "chunks": [
+        {
+            "text": "Why",
+            "timestamp": [
+                0.88,
+                1.44
+            ]
+        },
+        {
+            "text": "do",
+            "timestamp": [
+                1.44,
+                1.68
+            ]
+        },
+        {
+            "text": "cats",
+            "timestamp": [
+                1.68,
+                2.16
+            ]
+        },
+        {
+            "text": "chirp",
+            "timestamp": [
+                2.16,
+                2.72
+            ]
+        },
+        {
+            "text": "at",
+            "timestamp": [
+                2.72,
+                2.96
+            ]
+        },
+        {
+            "text": "birds",
+            "timestamp": [
+                2.96,
+                3.84
+            ]
+        },
+        {
+            "text": "like",
+            "timestamp": [
+                3.84,
+                4.16
+            ]
+        },
+        {
+            "text": "that?",
+            "timestamp": [
+                4.16,
+                4.48
+            ]
+        }
+    ]
+}

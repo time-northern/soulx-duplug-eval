@@ -1,0 +1,20 @@
+{
+  "final_duration": 33.3,
+  "speech_segments": [
+    {
+      "xmin": 0.5,
+      "xmax": 3.55,
+      "text": "how can cycling help reduce stress in daily life?"
+    },
+    {
+      "xmin": 8.55,
+      "xmax": 12.5,
+      "text": "what if i can't cycle outdoors due to bad weather?"
+    },
+    {
+      "xmin": 17.5,
+      "xmax": 23.3,
+      "text": "i wonder if the temperature will drop significantly during the upcoming solar term change."
+    }
+  ]
+}

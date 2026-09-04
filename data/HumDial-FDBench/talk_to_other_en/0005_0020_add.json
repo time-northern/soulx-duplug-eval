@@ -1,0 +1,20 @@
+{
+  "final_duration": 40.35000000000001,
+  "speech_segments": [
+    {
+      "xmin": 1.85,
+      "xmax": 8.9,
+      "text": "what are the main challenges in developing realistic virtual economies within the metaverse?"
+    },
+    {
+      "xmin": 13.9,
+      "xmax": 20.450000000000003,
+      "text": "how does currency volatility specifically impact user investments?"
+    },
+    {
+      "xmin": 25.450000000000003,
+      "xmax": 30.35,
+      "text": "should i wear a light jacket or a sweater for the outdoor concert tonight?"
+    }
+  ]
+}

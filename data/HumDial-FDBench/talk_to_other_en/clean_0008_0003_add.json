@@ -1,0 +1,15 @@
+{
+  "final_duration": 23.45,
+  "speech_segments": [
+    {
+      "xmin": 0.40000000000000036,
+      "xmax": 3.5500000000000007,
+      "text": "what if i need to send a longer message?"
+    },
+    {
+      "xmin": 8.550000000000004,
+      "xmax": 13.450000000000003,
+      "text": ""
+    }
+  ]
+}

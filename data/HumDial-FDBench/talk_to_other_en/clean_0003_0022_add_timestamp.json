@@ -1,0 +1,75 @@
+{
+    "text": "All does nest limited specifically reduce inflammation in sensitive skin.",
+    "chunks": [
+        {
+            "text": "All",
+            "timestamp": [
+                0.64,
+                0.88
+            ]
+        },
+        {
+            "text": "does",
+            "timestamp": [
+                1.2,
+                1.28
+            ]
+        },
+        {
+            "text": "nest",
+            "timestamp": [
+                1.52,
+                1.84
+            ]
+        },
+        {
+            "text": "limited",
+            "timestamp": [
+                2.0,
+                2.64
+            ]
+        },
+        {
+            "text": "specifically",
+            "timestamp": [
+                3.12,
+                4.08
+            ]
+        },
+        {
+            "text": "reduce",
+            "timestamp": [
+                4.08,
+                4.64
+            ]
+        },
+        {
+            "text": "inflammation",
+            "timestamp": [
+                4.64,
+                5.68
+            ]
+        },
+        {
+            "text": "in",
+            "timestamp": [
+                5.68,
+                5.92
+            ]
+        },
+        {
+            "text": "sensitive",
+            "timestamp": [
+                5.92,
+                6.640000000000001
+            ]
+        },
+        {
+            "text": "skin.",
+            "timestamp": [
+                6.640000000000001,
+                7.6000000000000005
+            ]
+        }
+    ]
+}

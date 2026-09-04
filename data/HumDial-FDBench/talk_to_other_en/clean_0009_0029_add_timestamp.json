@@ -1,0 +1,61 @@
+{
+    "text": "How does this instant effect actually prevent eavesdropping?",
+    "chunks": [
+        {
+            "text": "How",
+            "timestamp": [
+                0.32,
+                0.88
+            ]
+        },
+        {
+            "text": "does",
+            "timestamp": [
+                0.88,
+                1.2
+            ]
+        },
+        {
+            "text": "this",
+            "timestamp": [
+                1.2,
+                1.44
+            ]
+        },
+        {
+            "text": "instant",
+            "timestamp": [
+                1.44,
+                2.08
+            ]
+        },
+        {
+            "text": "effect",
+            "timestamp": [
+                2.08,
+                2.72
+            ]
+        },
+        {
+            "text": "actually",
+            "timestamp": [
+                3.04,
+                3.36
+            ]
+        },
+        {
+            "text": "prevent",
+            "timestamp": [
+                3.36,
+                4.16
+            ]
+        },
+        {
+            "text": "eavesdropping?",
+            "timestamp": [
+                4.48,
+                6.08
+            ]
+        }
+    ]
+}

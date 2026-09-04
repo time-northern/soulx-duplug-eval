@@ -1,0 +1,75 @@
+{
+    "text": "Sorry, can you say that again? I missed the beginning.",
+    "chunks": [
+        {
+            "text": "Sorry,",
+            "timestamp": [
+                0.48,
+                1.28
+            ]
+        },
+        {
+            "text": "can",
+            "timestamp": [
+                1.6,
+                1.76
+            ]
+        },
+        {
+            "text": "you",
+            "timestamp": [
+                1.92,
+                2.24
+            ]
+        },
+        {
+            "text": "say",
+            "timestamp": [
+                2.24,
+                2.56
+            ]
+        },
+        {
+            "text": "that",
+            "timestamp": [
+                2.56,
+                2.88
+            ]
+        },
+        {
+            "text": "again?",
+            "timestamp": [
+                2.88,
+                3.2
+            ]
+        },
+        {
+            "text": "I",
+            "timestamp": [
+                3.6,
+                3.84
+            ]
+        },
+        {
+            "text": "missed",
+            "timestamp": [
+                3.84,
+                4.32
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                4.32,
+                4.64
+            ]
+        },
+        {
+            "text": "beginning.",
+            "timestamp": [
+                4.64,
+                5.68
+            ]
+        }
+    ]
+}

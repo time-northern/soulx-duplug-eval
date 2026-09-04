@@ -1,0 +1,20 @@
+{
+  "final_duration": 34.9,
+  "speech_segments": [
+    {
+      "xmin": 0.55,
+      "xmax": 4.0,
+      "text": "what are the key benefits of using abs in vehicles?"
+    },
+    {
+      "xmin": 9.0,
+      "xmax": 13.899999999999999,
+      "text": "sorry, i missed that. could you repeat the key benefits of abs?"
+    },
+    {
+      "xmin": 18.9,
+      "xmax": 24.9,
+      "text": "my cat loves chasing laser pointers around the living room every evening."
+    }
+  ]
+}

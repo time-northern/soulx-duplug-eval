@@ -1,0 +1,89 @@
+{
+    "text": "What makes Goodbye Kiss stand out lyrically compared to his other songs",
+    "chunks": [
+        {
+            "text": "What",
+            "timestamp": [
+                0.8,
+                1.12
+            ]
+        },
+        {
+            "text": "makes",
+            "timestamp": [
+                1.12,
+                1.52
+            ]
+        },
+        {
+            "text": "Goodbye",
+            "timestamp": [
+                1.52,
+                2.16
+            ]
+        },
+        {
+            "text": "Kiss",
+            "timestamp": [
+                2.16,
+                2.56
+            ]
+        },
+        {
+            "text": "stand",
+            "timestamp": [
+                2.8000000000000003,
+                3.2
+            ]
+        },
+        {
+            "text": "out",
+            "timestamp": [
+                3.2,
+                3.36
+            ]
+        },
+        {
+            "text": "lyrically",
+            "timestamp": [
+                3.68,
+                4.5600000000000005
+            ]
+        },
+        {
+            "text": "compared",
+            "timestamp": [
+                4.5600000000000005,
+                5.36
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                5.36,
+                5.68
+            ]
+        },
+        {
+            "text": "his",
+            "timestamp": [
+                5.68,
+                6.0
+            ]
+        },
+        {
+            "text": "other",
+            "timestamp": [
+                6.32,
+                6.5600000000000005
+            ]
+        },
+        {
+            "text": "songs",
+            "timestamp": [
+                6.88,
+                7.84
+            ]
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+  "final_duration": 24.5,
+  "speech_segments": [
+    {
+      "xmin": 0.25,
+      "xmax": 4.100000000000001,
+      "text": "how many minutes of high knees should a beginner start with?"
+    },
+    {
+      "xmin": 9.100000000000001,
+      "xmax": 14.5,
+      "text": ""
+    }
+  ]
+}

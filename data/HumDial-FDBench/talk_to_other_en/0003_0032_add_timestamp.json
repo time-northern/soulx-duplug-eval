@@ -1,0 +1,229 @@
+{
+    "text": "What are some philosophical perspectives on the meaning of death? Sorry, can you see that again? I missed the beginning. I need to check the quarterly report progress with the team tomorrow.",
+    "chunks": [
+        {
+            "text": "What",
+            "timestamp": [
+                0.32,
+                0.64
+            ]
+        },
+        {
+            "text": "are",
+            "timestamp": [
+                0.64,
+                0.8
+            ]
+        },
+        {
+            "text": "some",
+            "timestamp": [
+                0.8,
+                1.04
+            ]
+        },
+        {
+            "text": "philosophical",
+            "timestamp": [
+                1.04,
+                1.76
+            ]
+        },
+        {
+            "text": "perspectives",
+            "timestamp": [
+                1.76,
+                2.56
+            ]
+        },
+        {
+            "text": "on",
+            "timestamp": [
+                2.56,
+                2.8000000000000003
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                2.8000000000000003,
+                3.04
+            ]
+        },
+        {
+            "text": "meaning",
+            "timestamp": [
+                3.04,
+                3.44
+            ]
+        },
+        {
+            "text": "of",
+            "timestamp": [
+                3.44,
+                3.7600000000000002
+            ]
+        },
+        {
+            "text": "death?",
+            "timestamp": [
+                3.7600000000000002,
+                4.4
+            ]
+        },
+        {
+            "text": "Sorry,",
+            "timestamp": [
+                9.200000000000001,
+                9.92
+            ]
+        },
+        {
+            "text": "can",
+            "timestamp": [
+                10.24,
+                10.56
+            ]
+        },
+        {
+            "text": "you",
+            "timestamp": [
+                10.56,
+                10.88
+            ]
+        },
+        {
+            "text": "see",
+            "timestamp": [
+                10.88,
+                11.200000000000001
+            ]
+        },
+        {
+            "text": "that",
+            "timestamp": [
+                11.200000000000001,
+                11.52
+            ]
+        },
+        {
+            "text": "again?",
+            "timestamp": [
+                11.52,
+                11.84
+            ]
+        },
+        {
+            "text": "I",
+            "timestamp": [
+                12.24,
+                12.48
+            ]
+        },
+        {
+            "text": "missed",
+            "timestamp": [
+                12.48,
+                12.96
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                12.96,
+                13.280000000000001
+            ]
+        },
+        {
+            "text": "beginning.",
+            "timestamp": [
+                13.280000000000001,
+                14.48
+            ]
+        },
+        {
+            "text": "I",
+            "timestamp": [
+                18.64,
+                18.96
+            ]
+        },
+        {
+            "text": "need",
+            "timestamp": [
+                18.96,
+                19.2
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                19.2,
+                19.44
+            ]
+        },
+        {
+            "text": "check",
+            "timestamp": [
+                19.44,
+                19.92
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                19.92,
+                20.240000000000002
+            ]
+        },
+        {
+            "text": "quarterly",
+            "timestamp": [
+                20.240000000000002,
+                21.28
+            ]
+        },
+        {
+            "text": "report",
+            "timestamp": [
+                21.28,
+                21.92
+            ]
+        },
+        {
+            "text": "progress",
+            "timestamp": [
+                22.0,
+                22.8
+            ]
+        },
+        {
+            "text": "with",
+            "timestamp": [
+                22.8,
+                22.96
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                22.96,
+                23.2
+            ]
+        },
+        {
+            "text": "team",
+            "timestamp": [
+                23.2,
+                23.6
+            ]
+        },
+        {
+            "text": "tomorrow.",
+            "timestamp": [
+                23.6,
+                24.560000000000002
+            ]
+        }
+    ]
+}

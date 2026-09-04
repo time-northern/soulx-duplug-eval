@@ -1,0 +1,20 @@
+{
+  "final_duration": 48.550000000000004,
+  "speech_segments": [
+    {
+      "xmin": 0.4,
+      "xmax": 9.4,
+      "text": "how can i effectively handle a competitive colleague who takes credit for my ideas in team meetings?"
+    },
+    {
+      "xmin": 14.4,
+      "xmax": 22.200000000000003,
+      "text": "what specific details should i include in those preliminary drafts to strengthen my claim?"
+    },
+    {
+      "xmin": 27.2,
+      "xmax": 38.55,
+      "text": "the visual effects in that sci-fi movie we watched last night were absolutely breathtaking, weren't they?"
+    }
+  ]
+}

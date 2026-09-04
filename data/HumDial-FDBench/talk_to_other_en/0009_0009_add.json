@@ -1,0 +1,20 @@
+{
+  "final_duration": 33.9,
+  "speech_segments": [
+    {
+      "xmin": 0.4,
+      "xmax": 5.35,
+      "text": "how do zodiac signs influence personality traits in social situations?"
+    },
+    {
+      "xmin": 10.35,
+      "xmax": 13.25,
+      "text": "what about virgos in social settings?"
+    },
+    {
+      "xmin": 18.25,
+      "xmax": 23.9,
+      "text": "did you see the new viral dance challenge on social media? it's trending everywhere."
+    }
+  ]
+}

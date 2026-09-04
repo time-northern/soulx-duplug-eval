@@ -1,0 +1,15 @@
+{
+  "final_duration": 26.95,
+  "speech_segments": [
+    {
+      "xmin": 0.5499999999999989,
+      "xmax": 6.149999999999999,
+      "text": "which specific watch brands are known for their heritage?"
+    },
+    {
+      "xmin": 11.149999999999999,
+      "xmax": 16.95,
+      "text": ""
+    }
+  ]
+}

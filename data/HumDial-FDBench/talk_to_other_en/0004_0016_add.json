@@ -1,0 +1,20 @@
+{
+  "final_duration": 33.8,
+  "speech_segments": [
+    {
+      "xmin": 0.8,
+      "xmax": 4.9,
+      "text": "how can i create a warm and loving atmosphere in my home?"
+    },
+    {
+      "xmin": 9.9,
+      "xmax": 13.399999999999999,
+      "text": "sorry, could you repeat that? i missed the first part."
+    },
+    {
+      "xmin": 18.4,
+      "xmax": 23.799999999999997,
+      "text": "the weather at the beach today is so sunny and perfect for swimming."
+    }
+  ]
+}

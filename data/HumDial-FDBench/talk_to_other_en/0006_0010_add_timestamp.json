@@ -1,0 +1,243 @@
+{
+    "text": "What are some must-see attractions within a certain minute driving from downtown? Are those walking trails suitable for cycling as well? I'm considering whether to pursue a master's degree in data science next year.",
+    "chunks": [
+        {
+            "text": "What",
+            "timestamp": [
+                0.32,
+                0.64
+            ]
+        },
+        {
+            "text": "are",
+            "timestamp": [
+                0.8,
+                1.04
+            ]
+        },
+        {
+            "text": "some",
+            "timestamp": [
+                1.04,
+                1.28
+            ]
+        },
+        {
+            "text": "must-see",
+            "timestamp": [
+                1.28,
+                2.08
+            ]
+        },
+        {
+            "text": "attractions",
+            "timestamp": [
+                2.08,
+                3.04
+            ]
+        },
+        {
+            "text": "within",
+            "timestamp": [
+                3.04,
+                3.44
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                3.44,
+                3.6
+            ]
+        },
+        {
+            "text": "certain",
+            "timestamp": [
+                3.6,
+                4.08
+            ]
+        },
+        {
+            "text": "minute",
+            "timestamp": [
+                4.08,
+                4.5600000000000005
+            ]
+        },
+        {
+            "text": "driving",
+            "timestamp": [
+                4.96,
+                5.44
+            ]
+        },
+        {
+            "text": "from",
+            "timestamp": [
+                5.44,
+                5.68
+            ]
+        },
+        {
+            "text": "downtown?",
+            "timestamp": [
+                5.68,
+                6.88
+            ]
+        },
+        {
+            "text": "Are",
+            "timestamp": [
+                11.040000000000001,
+                11.44
+            ]
+        },
+        {
+            "text": "those",
+            "timestamp": [
+                11.44,
+                11.68
+            ]
+        },
+        {
+            "text": "walking",
+            "timestamp": [
+                11.68,
+                12.24
+            ]
+        },
+        {
+            "text": "trails",
+            "timestamp": [
+                12.24,
+                12.8
+            ]
+        },
+        {
+            "text": "suitable",
+            "timestamp": [
+                12.8,
+                13.44
+            ]
+        },
+        {
+            "text": "for",
+            "timestamp": [
+                13.44,
+                13.68
+            ]
+        },
+        {
+            "text": "cycling",
+            "timestamp": [
+                13.68,
+                14.72
+            ]
+        },
+        {
+            "text": "as",
+            "timestamp": [
+                14.72,
+                15.040000000000001
+            ]
+        },
+        {
+            "text": "well?",
+            "timestamp": [
+                15.040000000000001,
+                15.36
+            ]
+        },
+        {
+            "text": "I'm",
+            "timestamp": [
+                19.76,
+                20.240000000000002
+            ]
+        },
+        {
+            "text": "considering",
+            "timestamp": [
+                20.240000000000002,
+                20.96
+            ]
+        },
+        {
+            "text": "whether",
+            "timestamp": [
+                20.96,
+                21.36
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                21.36,
+                21.6
+            ]
+        },
+        {
+            "text": "pursue",
+            "timestamp": [
+                21.6,
+                22.240000000000002
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                22.240000000000002,
+                22.48
+            ]
+        },
+        {
+            "text": "master's",
+            "timestamp": [
+                22.48,
+                23.12
+            ]
+        },
+        {
+            "text": "degree",
+            "timestamp": [
+                23.12,
+                23.52
+            ]
+        },
+        {
+            "text": "in",
+            "timestamp": [
+                23.52,
+                23.84
+            ]
+        },
+        {
+            "text": "data",
+            "timestamp": [
+                23.84,
+                24.400000000000002
+            ]
+        },
+        {
+            "text": "science",
+            "timestamp": [
+                24.400000000000002,
+                25.28
+            ]
+        },
+        {
+            "text": "next",
+            "timestamp": [
+                25.28,
+                25.6
+            ]
+        },
+        {
+            "text": "year.",
+            "timestamp": [
+                25.6,
+                25.92
+            ]
+        }
+    ]
+}

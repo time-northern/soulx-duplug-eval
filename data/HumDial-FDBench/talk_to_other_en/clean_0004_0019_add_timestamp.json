@@ -1,0 +1,103 @@
+{
+    "text": "Sorry, I missed that. Could you repeat the key features for collecting commemorative stamps?",
+    "chunks": [
+        {
+            "text": "Sorry,",
+            "timestamp": [
+                0.96,
+                1.68
+            ]
+        },
+        {
+            "text": "I",
+            "timestamp": [
+                1.84,
+                2.0
+            ]
+        },
+        {
+            "text": "missed",
+            "timestamp": [
+                2.0,
+                2.56
+            ]
+        },
+        {
+            "text": "that.",
+            "timestamp": [
+                2.56,
+                2.72
+            ]
+        },
+        {
+            "text": "Could",
+            "timestamp": [
+                2.96,
+                3.36
+            ]
+        },
+        {
+            "text": "you",
+            "timestamp": [
+                3.36,
+                3.52
+            ]
+        },
+        {
+            "text": "repeat",
+            "timestamp": [
+                3.52,
+                4.0
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                4.0,
+                4.24
+            ]
+        },
+        {
+            "text": "key",
+            "timestamp": [
+                4.24,
+                4.5600000000000005
+            ]
+        },
+        {
+            "text": "features",
+            "timestamp": [
+                4.5600000000000005,
+                5.28
+            ]
+        },
+        {
+            "text": "for",
+            "timestamp": [
+                5.28,
+                5.5200000000000005
+            ]
+        },
+        {
+            "text": "collecting",
+            "timestamp": [
+                5.5200000000000005,
+                6.32
+            ]
+        },
+        {
+            "text": "commemorative",
+            "timestamp": [
+                6.32,
+                7.5200000000000005
+            ]
+        },
+        {
+            "text": "stamps?",
+            "timestamp": [
+                7.5200000000000005,
+                8.8
+            ]
+        }
+    ]
+}

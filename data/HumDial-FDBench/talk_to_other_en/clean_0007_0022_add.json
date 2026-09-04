@@ -1,0 +1,15 @@
+{
+  "final_duration": 26.75,
+  "speech_segments": [
+    {
+      "xmin": 0.5500000000000007,
+      "xmax": 6.199999999999999,
+      "text": "are there any specific regional variations in the mooncake fillings here?"
+    },
+    {
+      "xmin": 11.2,
+      "xmax": 16.75,
+      "text": ""
+    }
+  ]
+}

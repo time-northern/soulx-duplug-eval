@@ -1,0 +1,89 @@
+{
+    "text": "Purdue please repeat the main step for training an image recognition model.",
+    "chunks": [
+        {
+            "text": "Purdue",
+            "timestamp": [
+                0.88,
+                1.44
+            ]
+        },
+        {
+            "text": "please",
+            "timestamp": [
+                1.52,
+                1.76
+            ]
+        },
+        {
+            "text": "repeat",
+            "timestamp": [
+                1.92,
+                2.56
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                2.8000000000000003,
+                3.12
+            ]
+        },
+        {
+            "text": "main",
+            "timestamp": [
+                3.12,
+                3.52
+            ]
+        },
+        {
+            "text": "step",
+            "timestamp": [
+                3.52,
+                3.84
+            ]
+        },
+        {
+            "text": "for",
+            "timestamp": [
+                3.92,
+                4.16
+            ]
+        },
+        {
+            "text": "training",
+            "timestamp": [
+                4.16,
+                4.72
+            ]
+        },
+        {
+            "text": "an",
+            "timestamp": [
+                4.72,
+                4.96
+            ]
+        },
+        {
+            "text": "image",
+            "timestamp": [
+                4.96,
+                5.44
+            ]
+        },
+        {
+            "text": "recognition",
+            "timestamp": [
+                5.6000000000000005,
+                6.640000000000001
+            ]
+        },
+        {
+            "text": "model.",
+            "timestamp": [
+                6.640000000000001,
+                7.28
+            ]
+        }
+    ]
+}

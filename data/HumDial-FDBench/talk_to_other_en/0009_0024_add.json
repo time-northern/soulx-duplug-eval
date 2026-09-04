@@ -1,0 +1,20 @@
+{
+  "final_duration": 36.150000000000006,
+  "speech_segments": [
+    {
+      "xmin": 0.65,
+      "xmax": 6.25,
+      "text": "what documents do i need to extend my tourist visa while already in the country?"
+    },
+    {
+      "xmin": 11.25,
+      "xmax": 15.7,
+      "text": "what counts as valid proof of sufficient funds?"
+    },
+    {
+      "xmin": 20.699999999999996,
+      "xmax": 26.15,
+      "text": "do you think the recent heatwaves are directly linked to global warming?"
+    }
+  ]
+}

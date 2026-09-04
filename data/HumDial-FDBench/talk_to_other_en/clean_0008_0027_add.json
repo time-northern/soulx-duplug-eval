@@ -1,0 +1,15 @@
+{
+  "final_duration": 28.95,
+  "speech_segments": [
+    {
+      "xmin": 1.0,
+      "xmax": 7.650000000000002,
+      "text": "how do i make sure my compliment doesn't sound like empty flattery?"
+    },
+    {
+      "xmin": 12.650000000000002,
+      "xmax": 18.95,
+      "text": ""
+    }
+  ]
+}

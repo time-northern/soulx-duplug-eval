@@ -1,0 +1,68 @@
+{
+    "text": "Why is red paper specifically chosen for these cuttings?",
+    "chunks": [
+        {
+            "text": "Why",
+            "timestamp": [
+                0.56,
+                1.04
+            ]
+        },
+        {
+            "text": "is",
+            "timestamp": [
+                1.04,
+                1.36
+            ]
+        },
+        {
+            "text": "red",
+            "timestamp": [
+                1.36,
+                1.76
+            ]
+        },
+        {
+            "text": "paper",
+            "timestamp": [
+                1.76,
+                2.32
+            ]
+        },
+        {
+            "text": "specifically",
+            "timestamp": [
+                2.32,
+                3.2
+            ]
+        },
+        {
+            "text": "chosen",
+            "timestamp": [
+                3.2,
+                3.7600000000000002
+            ]
+        },
+        {
+            "text": "for",
+            "timestamp": [
+                3.7600000000000002,
+                4.0
+            ]
+        },
+        {
+            "text": "these",
+            "timestamp": [
+                4.0,
+                4.24
+            ]
+        },
+        {
+            "text": "cuttings?",
+            "timestamp": [
+                4.24,
+                5.28
+            ]
+        }
+    ]
+}

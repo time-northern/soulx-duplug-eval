@@ -1,0 +1,15 @@
+{
+  "final_duration": 27.6,
+  "speech_segments": [
+    {
+      "xmin": 1.049999999999999,
+      "xmax": 4.25,
+      "text": "why do cats chirp at birds like that?"
+    },
+    {
+      "xmin": 9.249999999999998,
+      "xmax": 17.6,
+      "text": ""
+    }
+  ]
+}

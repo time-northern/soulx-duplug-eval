@@ -1,0 +1,20 @@
+{
+  "final_duration": 41.2,
+  "speech_segments": [
+    {
+      "xmin": 0.85,
+      "xmax": 7.35,
+      "text": "what are some of jacky cheung's most popular singles and their key characteristics?"
+    },
+    {
+      "xmin": 12.35,
+      "xmax": 18.85,
+      "text": "what makes 'goodbye kiss' stand out lyrically compared to his other songs?"
+    },
+    {
+      "xmin": 23.849999999999998,
+      "xmax": 31.2,
+      "text": "i'm thinking about signing up for a volunteer program at the local animal shelter this weekend."
+    }
+  ]
+}

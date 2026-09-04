@@ -1,0 +1,334 @@
+{
+    "text": "How can I effectively handle a competitive colleague who takes credit for my ideas in team meetings? What specific details should I include in those preliminary drafts to strengthen my claim? The visual effects in that sci-fi movie we watched last night were absolutely breathtaking, weren't they?",
+    "chunks": [
+        {
+            "text": "How",
+            "timestamp": [
+                0.24,
+                0.56
+            ]
+        },
+        {
+            "text": "can",
+            "timestamp": [
+                0.56,
+                0.8
+            ]
+        },
+        {
+            "text": "I",
+            "timestamp": [
+                0.8,
+                1.04
+            ]
+        },
+        {
+            "text": "effectively",
+            "timestamp": [
+                1.04,
+                1.92
+            ]
+        },
+        {
+            "text": "handle",
+            "timestamp": [
+                1.92,
+                2.48
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                2.48,
+                2.8000000000000003
+            ]
+        },
+        {
+            "text": "competitive",
+            "timestamp": [
+                2.8000000000000003,
+                3.6
+            ]
+        },
+        {
+            "text": "colleague",
+            "timestamp": [
+                3.92,
+                5.04
+            ]
+        },
+        {
+            "text": "who",
+            "timestamp": [
+                5.36,
+                5.68
+            ]
+        },
+        {
+            "text": "takes",
+            "timestamp": [
+                5.68,
+                6.16
+            ]
+        },
+        {
+            "text": "credit",
+            "timestamp": [
+                6.16,
+                7.12
+            ]
+        },
+        {
+            "text": "for",
+            "timestamp": [
+                7.12,
+                7.44
+            ]
+        },
+        {
+            "text": "my",
+            "timestamp": [
+                7.44,
+                7.76
+            ]
+        },
+        {
+            "text": "ideas",
+            "timestamp": [
+                7.76,
+                8.4
+            ]
+        },
+        {
+            "text": "in",
+            "timestamp": [
+                8.4,
+                8.72
+            ]
+        },
+        {
+            "text": "team",
+            "timestamp": [
+                8.72,
+                9.040000000000001
+            ]
+        },
+        {
+            "text": "meetings?",
+            "timestamp": [
+                9.040000000000001,
+                9.92
+            ]
+        },
+        {
+            "text": "What",
+            "timestamp": [
+                14.4,
+                14.72
+            ]
+        },
+        {
+            "text": "specific",
+            "timestamp": [
+                14.72,
+                15.6
+            ]
+        },
+        {
+            "text": "details",
+            "timestamp": [
+                15.6,
+                16.48
+            ]
+        },
+        {
+            "text": "should",
+            "timestamp": [
+                16.48,
+                16.72
+            ]
+        },
+        {
+            "text": "I",
+            "timestamp": [
+                16.72,
+                16.88
+            ]
+        },
+        {
+            "text": "include",
+            "timestamp": [
+                16.88,
+                17.92
+            ]
+        },
+        {
+            "text": "in",
+            "timestamp": [
+                17.92,
+                18.240000000000002
+            ]
+        },
+        {
+            "text": "those",
+            "timestamp": [
+                18.240000000000002,
+                18.56
+            ]
+        },
+        {
+            "text": "preliminary",
+            "timestamp": [
+                18.56,
+                19.68
+            ]
+        },
+        {
+            "text": "drafts",
+            "timestamp": [
+                19.68,
+                20.56
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                20.56,
+                20.8
+            ]
+        },
+        {
+            "text": "strengthen",
+            "timestamp": [
+                20.8,
+                21.52
+            ]
+        },
+        {
+            "text": "my",
+            "timestamp": [
+                21.52,
+                21.84
+            ]
+        },
+        {
+            "text": "claim?",
+            "timestamp": [
+                21.84,
+                22.64
+            ]
+        },
+        {
+            "text": "The",
+            "timestamp": [
+                27.12,
+                27.44
+            ]
+        },
+        {
+            "text": "visual",
+            "timestamp": [
+                27.44,
+                28.16
+            ]
+        },
+        {
+            "text": "effects",
+            "timestamp": [
+                28.48,
+                29.44
+            ]
+        },
+        {
+            "text": "in",
+            "timestamp": [
+                29.44,
+                29.76
+            ]
+        },
+        {
+            "text": "that",
+            "timestamp": [
+                30.080000000000002,
+                30.400000000000002
+            ]
+        },
+        {
+            "text": "sci-fi",
+            "timestamp": [
+                31.36,
+                32.32
+            ]
+        },
+        {
+            "text": "movie",
+            "timestamp": [
+                32.56,
+                33.12
+            ]
+        },
+        {
+            "text": "we",
+            "timestamp": [
+                33.12,
+                33.44
+            ]
+        },
+        {
+            "text": "watched",
+            "timestamp": [
+                33.44,
+                34.08
+            ]
+        },
+        {
+            "text": "last",
+            "timestamp": [
+                34.08,
+                34.4
+            ]
+        },
+        {
+            "text": "night",
+            "timestamp": [
+                34.4,
+                35.04
+            ]
+        },
+        {
+            "text": "were",
+            "timestamp": [
+                35.04,
+                35.28
+            ]
+        },
+        {
+            "text": "absolutely",
+            "timestamp": [
+                35.28,
+                36.32
+            ]
+        },
+        {
+            "text": "breathtaking,",
+            "timestamp": [
+                36.32,
+                37.44
+            ]
+        },
+        {
+            "text": "weren't",
+            "timestamp": [
+                37.76,
+                38.480000000000004
+            ]
+        },
+        {
+            "text": "they?",
+            "timestamp": [
+                38.480000000000004,
+                38.800000000000004
+            ]
+        }
+    ]
+}

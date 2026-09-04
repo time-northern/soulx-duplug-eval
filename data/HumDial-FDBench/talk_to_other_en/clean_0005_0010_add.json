@@ -1,0 +1,15 @@
+{
+  "final_duration": 25.75,
+  "speech_segments": [
+    {
+      "xmin": 0.6999999999999993,
+      "xmax": 5.75,
+      "text": "sorry, could you repeat those gift ideas for gardening lovers?"
+    },
+    {
+      "xmin": 10.75,
+      "xmax": 15.75,
+      "text": ""
+    }
+  ]
+}

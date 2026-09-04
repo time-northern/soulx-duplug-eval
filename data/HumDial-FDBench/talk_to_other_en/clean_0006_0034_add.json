@@ -1,0 +1,15 @@
+{
+  "final_duration": 28.1,
+  "speech_segments": [
+    {
+      "xmin": 0.6500000000000004,
+      "xmax": 7.35,
+      "text": "what specific skills are usually included in these capacity building programs?"
+    },
+    {
+      "xmin": 12.35,
+      "xmax": 18.1,
+      "text": ""
+    }
+  ]
+}

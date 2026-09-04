@@ -1,0 +1,15 @@
+{
+  "final_duration": 32.0,
+  "speech_segments": [
+    {
+      "xmin": 0.7000000000000011,
+      "xmax": 7.050000000000001,
+      "text": "does this timing vary significantly between northern and southern regions?"
+    },
+    {
+      "xmin": 12.05,
+      "xmax": 22.0,
+      "text": ""
+    }
+  ]
+}

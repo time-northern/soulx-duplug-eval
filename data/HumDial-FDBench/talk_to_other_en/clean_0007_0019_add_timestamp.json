@@ -1,0 +1,54 @@
+{
+    "text": "What happened to the snowman after that?",
+    "chunks": [
+        {
+            "text": "What",
+            "timestamp": [
+                0.48,
+                0.8
+            ]
+        },
+        {
+            "text": "happened",
+            "timestamp": [
+                0.8,
+                1.36
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                1.36,
+                1.68
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                1.68,
+                1.92
+            ]
+        },
+        {
+            "text": "snowman",
+            "timestamp": [
+                1.92,
+                2.8000000000000003
+            ]
+        },
+        {
+            "text": "after",
+            "timestamp": [
+                2.8000000000000003,
+                3.12
+            ]
+        },
+        {
+            "text": "that?",
+            "timestamp": [
+                3.12,
+                3.44
+            ]
+        }
+    ]
+}

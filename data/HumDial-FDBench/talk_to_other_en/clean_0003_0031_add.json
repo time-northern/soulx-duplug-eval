@@ -1,0 +1,15 @@
+{
+  "final_duration": 30.05,
+  "speech_segments": [
+    {
+      "xmin": 1.0999999999999996,
+      "xmax": 6.85,
+      "text": "could you please repeat the main steps for training an image recognition model?"
+    },
+    {
+      "xmin": 11.850000000000003,
+      "xmax": 20.050000000000004,
+      "text": ""
+    }
+  ]
+}

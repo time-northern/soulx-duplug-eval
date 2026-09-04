@@ -1,0 +1,15 @@
+{
+  "final_duration": 22.2,
+  "speech_segments": [
+    {
+      "xmin": 0.7999999999999989,
+      "xmax": 3.6999999999999993,
+      "text": "what basic tools do i need for origami?"
+    },
+    {
+      "xmin": 8.7,
+      "xmax": 12.2,
+      "text": ""
+    }
+  ]
+}

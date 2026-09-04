@@ -1,0 +1,20 @@
+{
+  "final_duration": 31.25,
+  "speech_segments": [
+    {
+      "xmin": 0.8,
+      "xmax": 4.85,
+      "text": "what are some easy diy projects for beginners to start with?"
+    },
+    {
+      "xmin": 9.85,
+      "xmax": 12.75,
+      "text": "what basic tools do i need for origami?"
+    },
+    {
+      "xmin": 17.75,
+      "xmax": 21.25,
+      "text": "i wonder if it's going to rain later today."
+    }
+  ]
+}

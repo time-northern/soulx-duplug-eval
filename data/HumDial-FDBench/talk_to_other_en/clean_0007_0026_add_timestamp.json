@@ -1,0 +1,75 @@
+{
+    "text": "How quickly do anteses typically start working after taking them?",
+    "chunks": [
+        {
+            "text": "How",
+            "timestamp": [
+                0.32,
+                0.64
+            ]
+        },
+        {
+            "text": "quickly",
+            "timestamp": [
+                0.64,
+                1.04
+            ]
+        },
+        {
+            "text": "do",
+            "timestamp": [
+                1.04,
+                1.28
+            ]
+        },
+        {
+            "text": "anteses",
+            "timestamp": [
+                1.28,
+                2.16
+            ]
+        },
+        {
+            "text": "typically",
+            "timestamp": [
+                2.4,
+                3.36
+            ]
+        },
+        {
+            "text": "start",
+            "timestamp": [
+                3.36,
+                3.68
+            ]
+        },
+        {
+            "text": "working",
+            "timestamp": [
+                4.24,
+                4.88
+            ]
+        },
+        {
+            "text": "after",
+            "timestamp": [
+                4.88,
+                5.2
+            ]
+        },
+        {
+            "text": "taking",
+            "timestamp": [
+                5.2,
+                5.84
+            ]
+        },
+        {
+            "text": "them?",
+            "timestamp": [
+                5.84,
+                6.16
+            ]
+        }
+    ]
+}

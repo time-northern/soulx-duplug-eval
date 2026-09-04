@@ -1,0 +1,89 @@
+{
+    "text": "Wood shutter speed range is typically best for freezing the peddler's movements.",
+    "chunks": [
+        {
+            "text": "Wood",
+            "timestamp": [
+                0.72,
+                1.04
+            ]
+        },
+        {
+            "text": "shutter",
+            "timestamp": [
+                1.2,
+                1.76
+            ]
+        },
+        {
+            "text": "speed",
+            "timestamp": [
+                1.84,
+                2.24
+            ]
+        },
+        {
+            "text": "range",
+            "timestamp": [
+                2.24,
+                2.72
+            ]
+        },
+        {
+            "text": "is",
+            "timestamp": [
+                2.96,
+                3.2800000000000002
+            ]
+        },
+        {
+            "text": "typically",
+            "timestamp": [
+                3.2800000000000002,
+                3.92
+            ]
+        },
+        {
+            "text": "best",
+            "timestamp": [
+                3.92,
+                4.4
+            ]
+        },
+        {
+            "text": "for",
+            "timestamp": [
+                4.4,
+                4.64
+            ]
+        },
+        {
+            "text": "freezing",
+            "timestamp": [
+                4.64,
+                5.36
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                5.36,
+                5.5200000000000005
+            ]
+        },
+        {
+            "text": "peddler's",
+            "timestamp": [
+                5.5200000000000005,
+                6.4
+            ]
+        },
+        {
+            "text": "movements.",
+            "timestamp": [
+                6.4,
+                7.36
+            ]
+        }
+    ]
+}

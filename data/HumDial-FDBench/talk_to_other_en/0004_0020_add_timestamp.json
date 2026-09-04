@@ -1,0 +1,236 @@
+{
+    "text": "What are some traditional mid-autumn festival customs in hometown? Sorry, I missed that. Could you repeat the mid-autumn custom you mentioned? I think watching the sunrise from the hilltop would be amazing tomorrow.",
+    "chunks": [
+        {
+            "text": "What",
+            "timestamp": [
+                0.88,
+                1.2
+            ]
+        },
+        {
+            "text": "are",
+            "timestamp": [
+                1.36,
+                1.68
+            ]
+        },
+        {
+            "text": "some",
+            "timestamp": [
+                1.68,
+                2.0
+            ]
+        },
+        {
+            "text": "traditional",
+            "timestamp": [
+                2.0,
+                2.8000000000000003
+            ]
+        },
+        {
+            "text": "mid-autumn",
+            "timestamp": [
+                2.8000000000000003,
+                3.84
+            ]
+        },
+        {
+            "text": "festival",
+            "timestamp": [
+                3.84,
+                4.64
+            ]
+        },
+        {
+            "text": "customs",
+            "timestamp": [
+                4.64,
+                5.44
+            ]
+        },
+        {
+            "text": "in",
+            "timestamp": [
+                5.44,
+                5.76
+            ]
+        },
+        {
+            "text": "hometown?",
+            "timestamp": [
+                5.76,
+                6.72
+            ]
+        },
+        {
+            "text": "Sorry,",
+            "timestamp": [
+                10.88,
+                11.36
+            ]
+        },
+        {
+            "text": "I",
+            "timestamp": [
+                11.44,
+                11.68
+            ]
+        },
+        {
+            "text": "missed",
+            "timestamp": [
+                11.68,
+                12.16
+            ]
+        },
+        {
+            "text": "that.",
+            "timestamp": [
+                12.16,
+                12.4
+            ]
+        },
+        {
+            "text": "Could",
+            "timestamp": [
+                12.64,
+                12.88
+            ]
+        },
+        {
+            "text": "you",
+            "timestamp": [
+                12.88,
+                13.120000000000001
+            ]
+        },
+        {
+            "text": "repeat",
+            "timestamp": [
+                13.120000000000001,
+                13.68
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                13.68,
+                13.84
+            ]
+        },
+        {
+            "text": "mid-autumn",
+            "timestamp": [
+                13.84,
+                14.96
+            ]
+        },
+        {
+            "text": "custom",
+            "timestamp": [
+                14.96,
+                15.36
+            ]
+        },
+        {
+            "text": "you",
+            "timestamp": [
+                15.6,
+                15.92
+            ]
+        },
+        {
+            "text": "mentioned?",
+            "timestamp": [
+                15.92,
+                16.88
+            ]
+        },
+        {
+            "text": "I",
+            "timestamp": [
+                21.36,
+                21.68
+            ]
+        },
+        {
+            "text": "think",
+            "timestamp": [
+                21.68,
+                22.0
+            ]
+        },
+        {
+            "text": "watching",
+            "timestamp": [
+                22.0,
+                22.72
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                22.72,
+                22.96
+            ]
+        },
+        {
+            "text": "sunrise",
+            "timestamp": [
+                22.96,
+                23.84
+            ]
+        },
+        {
+            "text": "from",
+            "timestamp": [
+                23.84,
+                24.080000000000002
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                24.080000000000002,
+                24.32
+            ]
+        },
+        {
+            "text": "hilltop",
+            "timestamp": [
+                24.32,
+                25.28
+            ]
+        },
+        {
+            "text": "would",
+            "timestamp": [
+                25.6,
+                25.92
+            ]
+        },
+        {
+            "text": "be",
+            "timestamp": [
+                25.92,
+                26.240000000000002
+            ]
+        },
+        {
+            "text": "amazing",
+            "timestamp": [
+                26.560000000000002,
+                27.44
+            ]
+        },
+        {
+            "text": "tomorrow.",
+            "timestamp": [
+                27.44,
+                28.48
+            ]
+        }
+    ]
+}

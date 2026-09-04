@@ -1,0 +1,89 @@
+{
+    "text": "How do I use the inside of my foot properly for control?",
+    "chunks": [
+        {
+            "text": "How",
+            "timestamp": [
+                0.48,
+                0.8
+            ]
+        },
+        {
+            "text": "do",
+            "timestamp": [
+                0.8,
+                1.04
+            ]
+        },
+        {
+            "text": "I",
+            "timestamp": [
+                1.04,
+                1.36
+            ]
+        },
+        {
+            "text": "use",
+            "timestamp": [
+                1.36,
+                1.68
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                1.68,
+                2.0
+            ]
+        },
+        {
+            "text": "inside",
+            "timestamp": [
+                2.32,
+                2.96
+            ]
+        },
+        {
+            "text": "of",
+            "timestamp": [
+                2.96,
+                3.2800000000000002
+            ]
+        },
+        {
+            "text": "my",
+            "timestamp": [
+                3.2800000000000002,
+                3.6
+            ]
+        },
+        {
+            "text": "foot",
+            "timestamp": [
+                3.6,
+                4.16
+            ]
+        },
+        {
+            "text": "properly",
+            "timestamp": [
+                4.16,
+                4.88
+            ]
+        },
+        {
+            "text": "for",
+            "timestamp": [
+                4.88,
+                5.2
+            ]
+        },
+        {
+            "text": "control?",
+            "timestamp": [
+                5.2,
+                6.08
+            ]
+        }
+    ]
+}

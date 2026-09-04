@@ -1,0 +1,75 @@
+{
+    "text": "What are the main features of the monthly billing service?",
+    "chunks": [
+        {
+            "text": "What",
+            "timestamp": [
+                0.56,
+                0.88
+            ]
+        },
+        {
+            "text": "are",
+            "timestamp": [
+                0.88,
+                1.12
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                1.12,
+                1.28
+            ]
+        },
+        {
+            "text": "main",
+            "timestamp": [
+                1.28,
+                1.68
+            ]
+        },
+        {
+            "text": "features",
+            "timestamp": [
+                1.68,
+                2.08
+            ]
+        },
+        {
+            "text": "of",
+            "timestamp": [
+                2.08,
+                2.24
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                2.24,
+                2.4
+            ]
+        },
+        {
+            "text": "monthly",
+            "timestamp": [
+                2.4,
+                2.96
+            ]
+        },
+        {
+            "text": "billing",
+            "timestamp": [
+                2.96,
+                3.44
+            ]
+        },
+        {
+            "text": "service?",
+            "timestamp": [
+                3.52,
+                4.4
+            ]
+        }
+    ]
+}

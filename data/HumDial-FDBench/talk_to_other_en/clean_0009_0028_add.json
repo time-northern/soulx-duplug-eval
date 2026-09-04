@@ -1,0 +1,15 @@
+{
+  "final_duration": 27.35,
+  "speech_segments": [
+    {
+      "xmin": 0.5500000000000007,
+      "xmax": 5.6,
+      "text": "can you give an example of how timing affects a joke's impact?"
+    },
+    {
+      "xmin": 10.599999999999996,
+      "xmax": 17.349999999999994,
+      "text": ""
+    }
+  ]
+}

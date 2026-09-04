@@ -1,0 +1,20 @@
+{
+  "final_duration": 37.25,
+  "speech_segments": [
+    {
+      "xmin": 0.55,
+      "xmax": 6.95,
+      "text": "what are the most effective methods to eliminate persistent odors in a bedroom?"
+    },
+    {
+      "xmin": 11.95,
+      "xmax": 16.05,
+      "text": "how long should i ventilate the room daily for best results?"
+    },
+    {
+      "xmin": 21.050000000000004,
+      "xmax": 27.25,
+      "text": "i've been thinking about starting a daily journal to reflect on my day and track progress."
+    }
+  ]
+}

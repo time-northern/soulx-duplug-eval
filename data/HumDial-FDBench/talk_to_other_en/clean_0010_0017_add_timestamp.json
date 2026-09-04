@@ -1,0 +1,89 @@
+{
+    "text": "How much air thin is typically in a cup of gray tea?",
+    "chunks": [
+        {
+            "text": "How",
+            "timestamp": [
+                0.32,
+                0.72
+            ]
+        },
+        {
+            "text": "much",
+            "timestamp": [
+                0.72,
+                0.96
+            ]
+        },
+        {
+            "text": "air",
+            "timestamp": [
+                0.96,
+                1.2
+            ]
+        },
+        {
+            "text": "thin",
+            "timestamp": [
+                1.36,
+                1.68
+            ]
+        },
+        {
+            "text": "is",
+            "timestamp": [
+                2.0,
+                2.24
+            ]
+        },
+        {
+            "text": "typically",
+            "timestamp": [
+                2.24,
+                2.8000000000000003
+            ]
+        },
+        {
+            "text": "in",
+            "timestamp": [
+                2.8000000000000003,
+                3.04
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                3.04,
+                3.2
+            ]
+        },
+        {
+            "text": "cup",
+            "timestamp": [
+                3.2,
+                3.52
+            ]
+        },
+        {
+            "text": "of",
+            "timestamp": [
+                3.52,
+                3.68
+            ]
+        },
+        {
+            "text": "gray",
+            "timestamp": [
+                3.68,
+                4.16
+            ]
+        },
+        {
+            "text": "tea?",
+            "timestamp": [
+                4.16,
+                4.8
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+  "final_duration": 36.8,
+  "speech_segments": [
+    {
+      "xmin": 0.95,
+      "xmax": 6.3,
+      "text": "what are the most effective ingredients in acne skincare products for sensitive skin?"
+    },
+    {
+      "xmin": 11.3,
+      "xmax": 17.2,
+      "text": "how does niacinamide specifically reduce inflammation in sensitive skin?"
+    },
+    {
+      "xmin": 22.200000000000003,
+      "xmax": 26.799999999999997,
+      "text": "do you think we should take our kids to the new science museum this weekend?"
+    }
+  ]
+}

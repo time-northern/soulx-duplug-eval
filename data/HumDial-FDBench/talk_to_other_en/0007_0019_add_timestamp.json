@@ -1,0 +1,222 @@
+{
+    "text": "Can you tell me a cold joke about winter? What happened to the snowman after that? I think I need to adjust my sleep schedule to get more deep sleep cycles.",
+    "chunks": [
+        {
+            "text": "Can",
+            "timestamp": [
+                0.4,
+                0.8
+            ]
+        },
+        {
+            "text": "you",
+            "timestamp": [
+                0.8,
+                1.12
+            ]
+        },
+        {
+            "text": "tell",
+            "timestamp": [
+                1.12,
+                1.44
+            ]
+        },
+        {
+            "text": "me",
+            "timestamp": [
+                1.44,
+                1.68
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                1.68,
+                2.0
+            ]
+        },
+        {
+            "text": "cold",
+            "timestamp": [
+                2.0,
+                2.48
+            ]
+        },
+        {
+            "text": "joke",
+            "timestamp": [
+                2.48,
+                3.44
+            ]
+        },
+        {
+            "text": "about",
+            "timestamp": [
+                3.44,
+                3.7600000000000002
+            ]
+        },
+        {
+            "text": "winter?",
+            "timestamp": [
+                3.7600000000000002,
+                4.72
+            ]
+        },
+        {
+            "text": "What",
+            "timestamp": [
+                9.36,
+                9.68
+            ]
+        },
+        {
+            "text": "happened",
+            "timestamp": [
+                9.68,
+                10.16
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                10.16,
+                10.4
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                10.4,
+                10.72
+            ]
+        },
+        {
+            "text": "snowman",
+            "timestamp": [
+                10.72,
+                11.68
+            ]
+        },
+        {
+            "text": "after",
+            "timestamp": [
+                11.68,
+                12.0
+            ]
+        },
+        {
+            "text": "that?",
+            "timestamp": [
+                12.0,
+                12.32
+            ]
+        },
+        {
+            "text": "I",
+            "timestamp": [
+                16.8,
+                17.12
+            ]
+        },
+        {
+            "text": "think",
+            "timestamp": [
+                17.12,
+                17.36
+            ]
+        },
+        {
+            "text": "I",
+            "timestamp": [
+                17.36,
+                17.6
+            ]
+        },
+        {
+            "text": "need",
+            "timestamp": [
+                17.6,
+                17.84
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                17.84,
+                18.080000000000002
+            ]
+        },
+        {
+            "text": "adjust",
+            "timestamp": [
+                18.080000000000002,
+                18.72
+            ]
+        },
+        {
+            "text": "my",
+            "timestamp": [
+                18.72,
+                19.04
+            ]
+        },
+        {
+            "text": "sleep",
+            "timestamp": [
+                19.04,
+                19.52
+            ]
+        },
+        {
+            "text": "schedule",
+            "timestamp": [
+                19.52,
+                20.16
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                20.16,
+                20.400000000000002
+            ]
+        },
+        {
+            "text": "get",
+            "timestamp": [
+                20.400000000000002,
+                20.72
+            ]
+        },
+        {
+            "text": "more",
+            "timestamp": [
+                20.72,
+                20.96
+            ]
+        },
+        {
+            "text": "deep",
+            "timestamp": [
+                20.96,
+                21.52
+            ]
+        },
+        {
+            "text": "sleep",
+            "timestamp": [
+                21.52,
+                22.16
+            ]
+        },
+        {
+            "text": "cycles.",
+            "timestamp": [
+                22.16,
+                23.2
+            ]
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "text": "How long should I ventilate the room daily for best results?",
+    "chunks": [
+        {
+            "text": "How",
+            "timestamp": [
+                0.32,
+                0.72
+            ]
+        },
+        {
+            "text": "long",
+            "timestamp": [
+                0.72,
+                0.96
+            ]
+        },
+        {
+            "text": "should",
+            "timestamp": [
+                0.96,
+                1.2
+            ]
+        },
+        {
+            "text": "I",
+            "timestamp": [
+                1.2,
+                1.36
+            ]
+        },
+        {
+            "text": "ventilate",
+            "timestamp": [
+                1.36,
+                2.0
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                2.0,
+                2.24
+            ]
+        },
+        {
+            "text": "room",
+            "timestamp": [
+                2.24,
+                2.56
+            ]
+        },
+        {
+            "text": "daily",
+            "timestamp": [
+                2.56,
+                3.2
+            ]
+        },
+        {
+            "text": "for",
+            "timestamp": [
+                3.2,
+                3.36
+            ]
+        },
+        {
+            "text": "best",
+            "timestamp": [
+                3.52,
+                4.16
+            ]
+        },
+        {
+            "text": "results?",
+            "timestamp": [
+                4.16,
+                5.12
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+  "final_duration": 35.45,
+  "speech_segments": [
+    {
+      "xmin": 0.4,
+      "xmax": 7.4,
+      "text": "what are some key etiquette rules for sending voice messages on wechat?"
+    },
+    {
+      "xmin": 12.4,
+      "xmax": 15.55,
+      "text": "what if i need to send a longer message?"
+    },
+    {
+      "xmin": 20.550000000000004,
+      "xmax": 25.450000000000003,
+      "text": "do you think a navy blue suit is appropriate for a wedding?"
+    }
+  ]
+}

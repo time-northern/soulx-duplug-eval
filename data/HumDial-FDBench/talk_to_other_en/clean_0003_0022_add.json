@@ -1,0 +1,15 @@
+{
+  "final_duration": 26.45,
+  "speech_segments": [
+    {
+      "xmin": 0.9500000000000011,
+      "xmax": 6.85,
+      "text": "how does niacinamide specifically reduce inflammation in sensitive skin?"
+    },
+    {
+      "xmin": 11.850000000000003,
+      "xmax": 16.449999999999996,
+      "text": ""
+    }
+  ]
+}

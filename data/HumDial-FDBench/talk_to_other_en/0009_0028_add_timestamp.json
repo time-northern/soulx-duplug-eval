@@ -1,0 +1,313 @@
+{
+    "text": "What are some key elements that make a comedy show truly hilarious and memorable? Can you give me an example of how time may affect a joke's impact? I'm thinking of watching a Hua Ju this weekend, maybe something classic like Death of Salesman?",
+    "chunks": [
+        {
+            "text": "What",
+            "timestamp": [
+                0.32,
+                0.64
+            ]
+        },
+        {
+            "text": "are",
+            "timestamp": [
+                0.8,
+                1.04
+            ]
+        },
+        {
+            "text": "some",
+            "timestamp": [
+                1.04,
+                1.36
+            ]
+        },
+        {
+            "text": "key",
+            "timestamp": [
+                1.36,
+                2.0
+            ]
+        },
+        {
+            "text": "elements",
+            "timestamp": [
+                2.0,
+                2.64
+            ]
+        },
+        {
+            "text": "that",
+            "timestamp": [
+                2.64,
+                2.96
+            ]
+        },
+        {
+            "text": "make",
+            "timestamp": [
+                2.96,
+                3.2
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                3.44,
+                3.68
+            ]
+        },
+        {
+            "text": "comedy",
+            "timestamp": [
+                3.68,
+                4.4
+            ]
+        },
+        {
+            "text": "show",
+            "timestamp": [
+                4.4,
+                4.72
+            ]
+        },
+        {
+            "text": "truly",
+            "timestamp": [
+                4.72,
+                5.44
+            ]
+        },
+        {
+            "text": "hilarious",
+            "timestamp": [
+                5.44,
+                6.32
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                6.640000000000001,
+                6.96
+            ]
+        },
+        {
+            "text": "memorable?",
+            "timestamp": [
+                6.96,
+                8.08
+            ]
+        },
+        {
+            "text": "Can",
+            "timestamp": [
+                12.48,
+                12.8
+            ]
+        },
+        {
+            "text": "you",
+            "timestamp": [
+                12.8,
+                13.040000000000001
+            ]
+        },
+        {
+            "text": "give",
+            "timestamp": [
+                13.040000000000001,
+                13.280000000000001
+            ]
+        },
+        {
+            "text": "me",
+            "timestamp": [
+                13.280000000000001,
+                13.44
+            ]
+        },
+        {
+            "text": "an",
+            "timestamp": [
+                13.44,
+                13.76
+            ]
+        },
+        {
+            "text": "example",
+            "timestamp": [
+                13.76,
+                14.4
+            ]
+        },
+        {
+            "text": "of",
+            "timestamp": [
+                14.4,
+                14.72
+            ]
+        },
+        {
+            "text": "how",
+            "timestamp": [
+                14.72,
+                14.96
+            ]
+        },
+        {
+            "text": "time",
+            "timestamp": [
+                14.96,
+                15.120000000000001
+            ]
+        },
+        {
+            "text": "may",
+            "timestamp": [
+                15.44,
+                15.68
+            ]
+        },
+        {
+            "text": "affect",
+            "timestamp": [
+                15.68,
+                16.080000000000002
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                16.080000000000002,
+                16.32
+            ]
+        },
+        {
+            "text": "joke's",
+            "timestamp": [
+                16.32,
+                17.44
+            ]
+        },
+        {
+            "text": "impact?",
+            "timestamp": [
+                17.44,
+                18.080000000000002
+            ]
+        },
+        {
+            "text": "I'm",
+            "timestamp": [
+                22.56,
+                22.96
+            ]
+        },
+        {
+            "text": "thinking",
+            "timestamp": [
+                22.96,
+                23.36
+            ]
+        },
+        {
+            "text": "of",
+            "timestamp": [
+                23.36,
+                23.6
+            ]
+        },
+        {
+            "text": "watching",
+            "timestamp": [
+                23.6,
+                24.0
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                24.0,
+                24.16
+            ]
+        },
+        {
+            "text": "Hua",
+            "timestamp": [
+                24.16,
+                24.72
+            ]
+        },
+        {
+            "text": "Ju",
+            "timestamp": [
+                24.72,
+                25.04
+            ]
+        },
+        {
+            "text": "this",
+            "timestamp": [
+                25.2,
+                25.44
+            ]
+        },
+        {
+            "text": "weekend,",
+            "timestamp": [
+                25.44,
+                25.92
+            ]
+        },
+        {
+            "text": "maybe",
+            "timestamp": [
+                26.240000000000002,
+                26.48
+            ]
+        },
+        {
+            "text": "something",
+            "timestamp": [
+                26.8,
+                27.12
+            ]
+        },
+        {
+            "text": "classic",
+            "timestamp": [
+                27.12,
+                27.84
+            ]
+        },
+        {
+            "text": "like",
+            "timestamp": [
+                27.84,
+                28.16
+            ]
+        },
+        {
+            "text": "Death",
+            "timestamp": [
+                28.16,
+                28.48
+            ]
+        },
+        {
+            "text": "of",
+            "timestamp": [
+                28.560000000000002,
+                28.72
+            ]
+        },
+        {
+            "text": "Salesman?",
+            "timestamp": [
+                28.72,
+                29.92
+            ]
+        }
+    ]
+}

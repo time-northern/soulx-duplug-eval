@@ -1,0 +1,20 @@
+{
+  "final_duration": 40.95,
+  "speech_segments": [
+    {
+      "xmin": 0.85,
+      "xmax": 7.7,
+      "text": "how can an intelligent education system adapt to different learning paces?"
+    },
+    {
+      "xmin": 12.7,
+      "xmax": 19.0,
+      "text": "sorry, could you repeat how the system adapts to different learning paces?"
+    },
+    {
+      "xmin": 24.0,
+      "xmax": 30.95,
+      "text": "i've been thinking about starting a freelance graphic design business on the side."
+    }
+  ]
+}

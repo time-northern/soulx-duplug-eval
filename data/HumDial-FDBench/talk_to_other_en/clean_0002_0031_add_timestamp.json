@@ -1,0 +1,82 @@
+{
+    "text": "What mindfulness practices are most effective for reducing stress while dieting?",
+    "chunks": [
+        {
+            "text": "What",
+            "timestamp": [
+                0.64,
+                0.96
+            ]
+        },
+        {
+            "text": "mindfulness",
+            "timestamp": [
+                1.12,
+                2.08
+            ]
+        },
+        {
+            "text": "practices",
+            "timestamp": [
+                2.24,
+                3.12
+            ]
+        },
+        {
+            "text": "are",
+            "timestamp": [
+                3.12,
+                3.44
+            ]
+        },
+        {
+            "text": "most",
+            "timestamp": [
+                3.44,
+                3.7600000000000002
+            ]
+        },
+        {
+            "text": "effective",
+            "timestamp": [
+                3.7600000000000002,
+                4.64
+            ]
+        },
+        {
+            "text": "for",
+            "timestamp": [
+                4.64,
+                4.96
+            ]
+        },
+        {
+            "text": "reducing",
+            "timestamp": [
+                4.96,
+                5.68
+            ]
+        },
+        {
+            "text": "stress",
+            "timestamp": [
+                5.68,
+                6.24
+            ]
+        },
+        {
+            "text": "while",
+            "timestamp": [
+                6.24,
+                6.5600000000000005
+            ]
+        },
+        {
+            "text": "dieting?",
+            "timestamp": [
+                6.640000000000001,
+                7.6000000000000005
+            ]
+        }
+    ]
+}

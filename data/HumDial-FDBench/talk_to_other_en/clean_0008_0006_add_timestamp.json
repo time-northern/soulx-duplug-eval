@@ -1,0 +1,75 @@
+{
+    "text": "What specific projects has the Dika Prio Foundation supported recently?",
+    "chunks": [
+        {
+            "text": "What",
+            "timestamp": [
+                0.64,
+                0.96
+            ]
+        },
+        {
+            "text": "specific",
+            "timestamp": [
+                1.12,
+                2.0
+            ]
+        },
+        {
+            "text": "projects",
+            "timestamp": [
+                2.0,
+                2.96
+            ]
+        },
+        {
+            "text": "has",
+            "timestamp": [
+                2.96,
+                3.2800000000000002
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                3.6,
+                3.92
+            ]
+        },
+        {
+            "text": "Dika",
+            "timestamp": [
+                4.24,
+                4.8
+            ]
+        },
+        {
+            "text": "Prio",
+            "timestamp": [
+                4.96,
+                5.5200000000000005
+            ]
+        },
+        {
+            "text": "Foundation",
+            "timestamp": [
+                5.68,
+                6.4
+            ]
+        },
+        {
+            "text": "supported",
+            "timestamp": [
+                6.4,
+                7.2
+            ]
+        },
+        {
+            "text": "recently?",
+            "timestamp": [
+                7.2,
+                8.16
+            ]
+        }
+    ]
+}

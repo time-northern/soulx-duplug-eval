@@ -1,0 +1,20 @@
+{
+  "final_duration": 37.15,
+  "speech_segments": [
+    {
+      "xmin": 0.6,
+      "xmax": 7.8,
+      "text": "what are some effective strategies to overcome procrastination when starting a big project?"
+    },
+    {
+      "xmin": 12.8,
+      "xmax": 17.099999999999998,
+      "text": "how small should these steps be to stay motivated?"
+    },
+    {
+      "xmin": 22.099999999999998,
+      "xmax": 27.15,
+      "text": "i'm thinking of going hiking this weekend to try out my new trail shoes."
+    }
+  ]
+}

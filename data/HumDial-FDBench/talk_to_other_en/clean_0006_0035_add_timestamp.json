@@ -1,0 +1,89 @@
+{
+    "text": "Are there any regional variations in the flavors of mooncakes across China?",
+    "chunks": [
+        {
+            "text": "Are",
+            "timestamp": [
+                0.48,
+                1.04
+            ]
+        },
+        {
+            "text": "there",
+            "timestamp": [
+                1.04,
+                1.36
+            ]
+        },
+        {
+            "text": "any",
+            "timestamp": [
+                1.36,
+                1.68
+            ]
+        },
+        {
+            "text": "regional",
+            "timestamp": [
+                1.68,
+                2.4
+            ]
+        },
+        {
+            "text": "variations",
+            "timestamp": [
+                2.4,
+                3.44
+            ]
+        },
+        {
+            "text": "in",
+            "timestamp": [
+                3.44,
+                3.68
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                3.68,
+                3.92
+            ]
+        },
+        {
+            "text": "flavors",
+            "timestamp": [
+                3.92,
+                4.48
+            ]
+        },
+        {
+            "text": "of",
+            "timestamp": [
+                4.5600000000000005,
+                4.8
+            ]
+        },
+        {
+            "text": "mooncakes",
+            "timestamp": [
+                4.8,
+                5.84
+            ]
+        },
+        {
+            "text": "across",
+            "timestamp": [
+                5.84,
+                6.4
+            ]
+        },
+        {
+            "text": "China?",
+            "timestamp": [
+                6.4,
+                7.36
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+  "final_duration": 39.650000000000006,
+  "speech_segments": [
+    {
+      "xmin": 1.0,
+      "xmax": 8.0,
+      "text": "what are some stylish ways to coordinate outfits with my best friend for a casual day out?"
+    },
+    {
+      "xmin": 13.0,
+      "xmax": 18.5,
+      "text": "what if we want to wear different patterns but still look coordinated?"
+    },
+    {
+      "xmin": 23.5,
+      "xmax": 29.650000000000006,
+      "text": "i heard the barometric pressure is dropping quickly, might rain later."
+    }
+  ]
+}

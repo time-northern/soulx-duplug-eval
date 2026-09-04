@@ -1,0 +1,20 @@
+{
+  "final_duration": 35.1,
+  "speech_segments": [
+    {
+      "xmin": 0.85,
+      "xmax": 5.75,
+      "text": "what are the main steps involved in a gastroscopy procedure?"
+    },
+    {
+      "xmin": 10.75,
+      "xmax": 14.799999999999999,
+      "text": "sorry, could you repeat the steps for a gastroscopy?"
+    },
+    {
+      "xmin": 19.799999999999997,
+      "xmax": 25.1,
+      "text": "i need to find a quiet place to charge my laptop and study for my exam later."
+    }
+  ]
+}

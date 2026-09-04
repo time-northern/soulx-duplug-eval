@@ -1,0 +1,20 @@
+{
+  "final_duration": 38.7,
+  "speech_segments": [
+    {
+      "xmin": 0.85,
+      "xmax": 5.15,
+      "text": "what are the key steps to launch a sustainable fashion brand?"
+    },
+    {
+      "xmin": 10.15,
+      "xmax": 16.8,
+      "text": "which eco-friendly materials are most cost-effective for startups?"
+    },
+    {
+      "xmin": 21.8,
+      "xmax": 28.700000000000003,
+      "text": "the cold index is quite high today, so i should probably wear a warmer jacket."
+    }
+  ]
+}

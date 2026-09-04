@@ -1,0 +1,15 @@
+{
+  "final_duration": 29.4,
+  "speech_segments": [
+    {
+      "xmin": 0.8499999999999996,
+      "xmax": 7.5,
+      "text": "which eco-friendly materials are most cost-effective for startups?"
+    },
+    {
+      "xmin": 12.5,
+      "xmax": 19.400000000000002,
+      "text": ""
+    }
+  ]
+}

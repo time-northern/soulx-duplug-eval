@@ -1,0 +1,68 @@
+{
+    "text": "How small should these steps be to stay motivated?",
+    "chunks": [
+        {
+            "text": "How",
+            "timestamp": [
+                0.48,
+                1.04
+            ]
+        },
+        {
+            "text": "small",
+            "timestamp": [
+                1.04,
+                1.68
+            ]
+        },
+        {
+            "text": "should",
+            "timestamp": [
+                1.68,
+                2.0
+            ]
+        },
+        {
+            "text": "these",
+            "timestamp": [
+                2.0,
+                2.24
+            ]
+        },
+        {
+            "text": "steps",
+            "timestamp": [
+                2.48,
+                3.2
+            ]
+        },
+        {
+            "text": "be",
+            "timestamp": [
+                3.2,
+                3.52
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                3.52,
+                3.84
+            ]
+        },
+        {
+            "text": "stay",
+            "timestamp": [
+                3.84,
+                4.16
+            ]
+        },
+        {
+            "text": "motivated?",
+            "timestamp": [
+                4.16,
+                5.44
+            ]
+        }
+    ]
+}

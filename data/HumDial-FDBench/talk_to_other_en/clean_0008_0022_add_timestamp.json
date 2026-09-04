@@ -1,0 +1,68 @@
+{
+    "text": "What personality is usually associated with type A blood?",
+    "chunks": [
+        {
+            "text": "What",
+            "timestamp": [
+                0.4,
+                0.56
+            ]
+        },
+        {
+            "text": "personality",
+            "timestamp": [
+                1.04,
+                1.84
+            ]
+        },
+        {
+            "text": "is",
+            "timestamp": [
+                1.84,
+                2.16
+            ]
+        },
+        {
+            "text": "usually",
+            "timestamp": [
+                2.16,
+                2.48
+            ]
+        },
+        {
+            "text": "associated",
+            "timestamp": [
+                2.72,
+                3.52
+            ]
+        },
+        {
+            "text": "with",
+            "timestamp": [
+                3.52,
+                3.84
+            ]
+        },
+        {
+            "text": "type",
+            "timestamp": [
+                3.84,
+                4.24
+            ]
+        },
+        {
+            "text": "A",
+            "timestamp": [
+                4.24,
+                4.5600000000000005
+            ]
+        },
+        {
+            "text": "blood?",
+            "timestamp": [
+                4.5600000000000005,
+                5.04
+            ]
+        }
+    ]
+}

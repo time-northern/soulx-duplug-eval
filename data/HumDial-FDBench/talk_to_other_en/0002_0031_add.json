@@ -1,0 +1,20 @@
+{
+  "final_duration": 40.599999999999994,
+  "speech_segments": [
+    {
+      "xmin": 0.75,
+      "xmax": 5.85,
+      "text": "how can i manage stress when trying to lose weight effectively?"
+    },
+    {
+      "xmin": 10.85,
+      "xmax": 17.5,
+      "text": "what mindfulness practices are most effective for reducing stress while dieting?"
+    },
+    {
+      "xmin": 22.5,
+      "xmax": 30.599999999999998,
+      "text": "what's the best way to adjust shutter speed for capturing fast-moving wildlife in photography?"
+    }
+  ]
+}

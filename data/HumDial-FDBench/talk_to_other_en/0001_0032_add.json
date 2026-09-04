@@ -1,0 +1,20 @@
+{
+  "final_duration": 31.3,
+  "speech_segments": [
+    {
+      "xmin": 0.65,
+      "xmax": 3.75,
+      "text": "what are the main themes in machiavelli's 'the prince'?"
+    },
+    {
+      "xmin": 8.75,
+      "xmax": 11.45,
+      "text": "could you say that again? i missed the first part."
+    },
+    {
+      "xmin": 16.45,
+      "xmax": 21.3,
+      "text": "i'm thinking of getting bangs, but i'm not sure if they'll suit my face shape."
+    }
+  ]
+}

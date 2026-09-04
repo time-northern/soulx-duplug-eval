@@ -1,0 +1,20 @@
+{
+  "final_duration": 40.05,
+  "speech_segments": [
+    {
+      "xmin": 0.8,
+      "xmax": 7.6,
+      "text": "what are the key security measures to consider during an autonomous vehicle's ota software update?"
+    },
+    {
+      "xmin": 12.6,
+      "xmax": 19.45,
+      "text": "how does secure boot specifically protect against malicious firmware?"
+    },
+    {
+      "xmin": 24.45,
+      "xmax": 30.049999999999997,
+      "text": "do you think we should bring trekking poles for the steep mountain trail this weekend?"
+    }
+  ]
+}

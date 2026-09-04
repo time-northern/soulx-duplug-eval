@@ -1,0 +1,20 @@
+{
+  "final_duration": 44.35,
+  "speech_segments": [
+    {
+      "xmin": 0.7,
+      "xmax": 7.5,
+      "text": "what are the key factors to consider when selecting media partners for a new product launch?"
+    },
+    {
+      "xmin": 12.5,
+      "xmax": 22.549999999999997,
+      "text": "how do you accurately assess if their audience demographics truly align with our target market?"
+    },
+    {
+      "xmin": 27.55,
+      "xmax": 34.349999999999994,
+      "text": "my cat just learned how to open the cabinet door. should i be worried about her getting into the treats?"
+    }
+  ]
+}

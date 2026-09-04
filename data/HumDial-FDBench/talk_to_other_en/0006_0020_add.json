@@ -1,0 +1,20 @@
+{
+  "final_duration": 38.099999999999994,
+  "speech_segments": [
+    {
+      "xmin": 0.65,
+      "xmax": 5.15,
+      "text": "what are some common signs of a midlife crisis in men?"
+    },
+    {
+      "xmin": 10.15,
+      "xmax": 15.55,
+      "text": "does this obsession with appearance usually lead to impulsive purchases?"
+    },
+    {
+      "xmin": 20.550000000000004,
+      "xmax": 28.1,
+      "text": "i wonder if i should start practicing mindfulness meditation for better focus."
+    }
+  ]
+}

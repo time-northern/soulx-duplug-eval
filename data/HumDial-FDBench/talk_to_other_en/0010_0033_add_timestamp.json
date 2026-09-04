@@ -1,0 +1,334 @@
+{
+    "text": "My package was supposed to arrive yesterday, but it's still showing intrinsic. What could be the reason for this delay? How can I check if whether is a specific cause for my shipment? Do you think the new smartphone's battery life is better than the previous model?",
+    "chunks": [
+        {
+            "text": "My",
+            "timestamp": [
+                0.32,
+                0.64
+            ]
+        },
+        {
+            "text": "package",
+            "timestamp": [
+                0.64,
+                1.52
+            ]
+        },
+        {
+            "text": "was",
+            "timestamp": [
+                1.52,
+                1.76
+            ]
+        },
+        {
+            "text": "supposed",
+            "timestamp": [
+                1.76,
+                2.48
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                2.48,
+                2.8000000000000003
+            ]
+        },
+        {
+            "text": "arrive",
+            "timestamp": [
+                2.8000000000000003,
+                3.36
+            ]
+        },
+        {
+            "text": "yesterday,",
+            "timestamp": [
+                3.36,
+                4.0
+            ]
+        },
+        {
+            "text": "but",
+            "timestamp": [
+                4.32,
+                4.5600000000000005
+            ]
+        },
+        {
+            "text": "it's",
+            "timestamp": [
+                4.5600000000000005,
+                5.2
+            ]
+        },
+        {
+            "text": "still",
+            "timestamp": [
+                5.2,
+                5.5200000000000005
+            ]
+        },
+        {
+            "text": "showing",
+            "timestamp": [
+                5.5200000000000005,
+                6.16
+            ]
+        },
+        {
+            "text": "intrinsic.",
+            "timestamp": [
+                6.16,
+                7.04
+            ]
+        },
+        {
+            "text": "What",
+            "timestamp": [
+                7.6000000000000005,
+                7.76
+            ]
+        },
+        {
+            "text": "could",
+            "timestamp": [
+                8.08,
+                8.4
+            ]
+        },
+        {
+            "text": "be",
+            "timestamp": [
+                8.4,
+                8.72
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                8.72,
+                9.040000000000001
+            ]
+        },
+        {
+            "text": "reason",
+            "timestamp": [
+                9.040000000000001,
+                9.68
+            ]
+        },
+        {
+            "text": "for",
+            "timestamp": [
+                9.68,
+                10.0
+            ]
+        },
+        {
+            "text": "this",
+            "timestamp": [
+                10.0,
+                10.32
+            ]
+        },
+        {
+            "text": "delay?",
+            "timestamp": [
+                10.32,
+                11.28
+            ]
+        },
+        {
+            "text": "How",
+            "timestamp": [
+                15.76,
+                16.0
+            ]
+        },
+        {
+            "text": "can",
+            "timestamp": [
+                16.0,
+                16.16
+            ]
+        },
+        {
+            "text": "I",
+            "timestamp": [
+                16.16,
+                16.32
+            ]
+        },
+        {
+            "text": "check",
+            "timestamp": [
+                16.32,
+                16.72
+            ]
+        },
+        {
+            "text": "if",
+            "timestamp": [
+                16.72,
+                16.96
+            ]
+        },
+        {
+            "text": "whether",
+            "timestamp": [
+                16.96,
+                17.44
+            ]
+        },
+        {
+            "text": "is",
+            "timestamp": [
+                17.44,
+                17.68
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                17.68,
+                17.84
+            ]
+        },
+        {
+            "text": "specific",
+            "timestamp": [
+                17.84,
+                18.56
+            ]
+        },
+        {
+            "text": "cause",
+            "timestamp": [
+                18.56,
+                18.96
+            ]
+        },
+        {
+            "text": "for",
+            "timestamp": [
+                18.96,
+                19.12
+            ]
+        },
+        {
+            "text": "my",
+            "timestamp": [
+                19.12,
+                19.44
+            ]
+        },
+        {
+            "text": "shipment?",
+            "timestamp": [
+                19.44,
+                20.400000000000002
+            ]
+        },
+        {
+            "text": "Do",
+            "timestamp": [
+                24.88,
+                25.12
+            ]
+        },
+        {
+            "text": "you",
+            "timestamp": [
+                25.12,
+                25.44
+            ]
+        },
+        {
+            "text": "think",
+            "timestamp": [
+                25.44,
+                25.76
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                25.76,
+                26.080000000000002
+            ]
+        },
+        {
+            "text": "new",
+            "timestamp": [
+                26.080000000000002,
+                26.400000000000002
+            ]
+        },
+        {
+            "text": "smartphone's",
+            "timestamp": [
+                26.400000000000002,
+                27.6
+            ]
+        },
+        {
+            "text": "battery",
+            "timestamp": [
+                27.6,
+                28.32
+            ]
+        },
+        {
+            "text": "life",
+            "timestamp": [
+                28.72,
+                29.04
+            ]
+        },
+        {
+            "text": "is",
+            "timestamp": [
+                29.36,
+                29.68
+            ]
+        },
+        {
+            "text": "better",
+            "timestamp": [
+                30.0,
+                30.32
+            ]
+        },
+        {
+            "text": "than",
+            "timestamp": [
+                30.32,
+                30.64
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                30.64,
+                30.96
+            ]
+        },
+        {
+            "text": "previous",
+            "timestamp": [
+                31.12,
+                32.08
+            ]
+        },
+        {
+            "text": "model?",
+            "timestamp": [
+                32.08,
+                32.72
+            ]
+        }
+    ]
+}

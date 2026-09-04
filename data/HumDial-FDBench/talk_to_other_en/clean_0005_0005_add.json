@@ -1,0 +1,15 @@
+{
+  "final_duration": 27.1,
+  "speech_segments": [
+    {
+      "xmin": 0.8500000000000014,
+      "xmax": 6.199999999999999,
+      "text": "sorry, i missed that. could you repeat the lighting tips for the office?"
+    },
+    {
+      "xmin": 11.2,
+      "xmax": 17.1,
+      "text": ""
+    }
+  ]
+}

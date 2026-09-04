@@ -1,0 +1,20 @@
+{
+  "final_duration": 34.9,
+  "speech_segments": [
+    {
+      "xmin": 0.55,
+      "xmax": 5.0,
+      "text": "how can i improve my pronunciation when learning a new language?"
+    },
+    {
+      "xmin": 10.0,
+      "xmax": 15.0,
+      "text": "what specific sounds should i focus on mimicking first?"
+    },
+    {
+      "xmin": 20.0,
+      "xmax": 24.9,
+      "text": "i hope the weather at the beach is sunny and warm this weekend."
+    }
+  ]
+}

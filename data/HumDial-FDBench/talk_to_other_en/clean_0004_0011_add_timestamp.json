@@ -1,0 +1,89 @@
+{
+    "text": "Sorry, could you repeat how the system adapts to different learning pieces?",
+    "chunks": [
+        {
+            "text": "Sorry,",
+            "timestamp": [
+                0.8,
+                1.44
+            ]
+        },
+        {
+            "text": "could",
+            "timestamp": [
+                1.68,
+                1.92
+            ]
+        },
+        {
+            "text": "you",
+            "timestamp": [
+                1.92,
+                2.16
+            ]
+        },
+        {
+            "text": "repeat",
+            "timestamp": [
+                2.16,
+                2.88
+            ]
+        },
+        {
+            "text": "how",
+            "timestamp": [
+                2.88,
+                3.2
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                3.2,
+                3.52
+            ]
+        },
+        {
+            "text": "system",
+            "timestamp": [
+                3.52,
+                3.84
+            ]
+        },
+        {
+            "text": "adapts",
+            "timestamp": [
+                4.4,
+                5.36
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                5.36,
+                5.6000000000000005
+            ]
+        },
+        {
+            "text": "different",
+            "timestamp": [
+                5.6000000000000005,
+                5.92
+            ]
+        },
+        {
+            "text": "learning",
+            "timestamp": [
+                5.92,
+                6.640000000000001
+            ]
+        },
+        {
+            "text": "pieces?",
+            "timestamp": [
+                6.640000000000001,
+                7.6000000000000005
+            ]
+        }
+    ]
+}

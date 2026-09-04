@@ -1,0 +1,15 @@
+{
+  "final_duration": 25.7,
+  "speech_segments": [
+    {
+      "xmin": 1.6499999999999986,
+      "xmax": 5.449999999999999,
+      "text": "what if the feedback feels unfair or inaccurate?"
+    },
+    {
+      "xmin": 10.45,
+      "xmax": 15.700000000000003,
+      "text": ""
+    }
+  ]
+}

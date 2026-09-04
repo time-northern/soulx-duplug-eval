@@ -1,0 +1,15 @@
+{
+    "final_duration": 23.178,
+    "speech_segments": [
+        {
+            "xmin": 0.0,
+            "xmax": 2.95,
+            "text": "周末家庭聚餐你想吃火锅还是烤肉？"
+        },
+        {
+            "xmin": 7.95,
+            "xmax": 13.178,
+            "text": "T a b a t a训练每组动作之间应该休息多久？"
+        }
+    ]
+}

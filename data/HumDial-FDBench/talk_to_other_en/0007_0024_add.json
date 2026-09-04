@@ -1,0 +1,20 @@
+{
+  "final_duration": 36.95,
+  "speech_segments": [
+    {
+      "xmin": 0.25,
+      "xmax": 7.7,
+      "text": "what are the most effective aerobic exercises for improving cardiovascular health at home?"
+    },
+    {
+      "xmin": 12.7,
+      "xmax": 16.55,
+      "text": "how many minutes of high knees should a beginner start with?"
+    },
+    {
+      "xmin": 21.55,
+      "xmax": 26.95,
+      "text": "when does the central heating usually get turned on in this building during winter?"
+    }
+  ]
+}

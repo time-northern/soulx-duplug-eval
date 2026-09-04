@@ -1,0 +1,285 @@
+{
+    "text": "What's the best way to maintain battery health for my smartphone over the long term? Does fast charging harm the battery more than regular charging? Do you think we should bring a portable grill for our camping trip next week?",
+    "chunks": [
+        {
+            "text": "What's",
+            "timestamp": [
+                0.32,
+                0.88
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                0.88,
+                1.04
+            ]
+        },
+        {
+            "text": "best",
+            "timestamp": [
+                1.04,
+                1.44
+            ]
+        },
+        {
+            "text": "way",
+            "timestamp": [
+                1.44,
+                1.68
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                1.68,
+                1.92
+            ]
+        },
+        {
+            "text": "maintain",
+            "timestamp": [
+                1.92,
+                2.56
+            ]
+        },
+        {
+            "text": "battery",
+            "timestamp": [
+                2.56,
+                3.12
+            ]
+        },
+        {
+            "text": "health",
+            "timestamp": [
+                3.12,
+                4.0
+            ]
+        },
+        {
+            "text": "for",
+            "timestamp": [
+                4.0,
+                4.32
+            ]
+        },
+        {
+            "text": "my",
+            "timestamp": [
+                4.32,
+                4.5600000000000005
+            ]
+        },
+        {
+            "text": "smartphone",
+            "timestamp": [
+                4.88,
+                5.92
+            ]
+        },
+        {
+            "text": "over",
+            "timestamp": [
+                5.92,
+                6.24
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                6.24,
+                6.5600000000000005
+            ]
+        },
+        {
+            "text": "long",
+            "timestamp": [
+                6.5600000000000005,
+                6.88
+            ]
+        },
+        {
+            "text": "term?",
+            "timestamp": [
+                6.88,
+                7.5200000000000005
+            ]
+        },
+        {
+            "text": "Does",
+            "timestamp": [
+                12.0,
+                12.4
+            ]
+        },
+        {
+            "text": "fast",
+            "timestamp": [
+                12.4,
+                13.040000000000001
+            ]
+        },
+        {
+            "text": "charging",
+            "timestamp": [
+                13.040000000000001,
+                13.68
+            ]
+        },
+        {
+            "text": "harm",
+            "timestamp": [
+                13.68,
+                14.16
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                14.16,
+                14.4
+            ]
+        },
+        {
+            "text": "battery",
+            "timestamp": [
+                14.4,
+                15.120000000000001
+            ]
+        },
+        {
+            "text": "more",
+            "timestamp": [
+                15.120000000000001,
+                15.44
+            ]
+        },
+        {
+            "text": "than",
+            "timestamp": [
+                15.44,
+                15.68
+            ]
+        },
+        {
+            "text": "regular",
+            "timestamp": [
+                15.68,
+                16.240000000000002
+            ]
+        },
+        {
+            "text": "charging?",
+            "timestamp": [
+                16.240000000000002,
+                17.12
+            ]
+        },
+        {
+            "text": "Do",
+            "timestamp": [
+                21.52,
+                21.84
+            ]
+        },
+        {
+            "text": "you",
+            "timestamp": [
+                21.84,
+                22.080000000000002
+            ]
+        },
+        {
+            "text": "think",
+            "timestamp": [
+                22.080000000000002,
+                22.32
+            ]
+        },
+        {
+            "text": "we",
+            "timestamp": [
+                22.32,
+                22.64
+            ]
+        },
+        {
+            "text": "should",
+            "timestamp": [
+                22.64,
+                22.88
+            ]
+        },
+        {
+            "text": "bring",
+            "timestamp": [
+                22.88,
+                23.52
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                23.52,
+                23.84
+            ]
+        },
+        {
+            "text": "portable",
+            "timestamp": [
+                23.84,
+                24.72
+            ]
+        },
+        {
+            "text": "grill",
+            "timestamp": [
+                24.72,
+                25.04
+            ]
+        },
+        {
+            "text": "for",
+            "timestamp": [
+                25.52,
+                25.84
+            ]
+        },
+        {
+            "text": "our",
+            "timestamp": [
+                25.84,
+                26.16
+            ]
+        },
+        {
+            "text": "camping",
+            "timestamp": [
+                26.16,
+                26.88
+            ]
+        },
+        {
+            "text": "trip",
+            "timestamp": [
+                26.88,
+                27.6
+            ]
+        },
+        {
+            "text": "next",
+            "timestamp": [
+                27.6,
+                27.92
+            ]
+        },
+        {
+            "text": "week?",
+            "timestamp": [
+                27.92,
+                28.88
+            ]
+        }
+    ]
+}

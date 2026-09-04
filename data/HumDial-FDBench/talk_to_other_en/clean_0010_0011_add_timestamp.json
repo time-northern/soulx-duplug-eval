@@ -1,0 +1,75 @@
+{
+    "text": "How soon after my workout should I have this meal?",
+    "chunks": [
+        {
+            "text": "How",
+            "timestamp": [
+                0.48,
+                0.88
+            ]
+        },
+        {
+            "text": "soon",
+            "timestamp": [
+                0.88,
+                1.2
+            ]
+        },
+        {
+            "text": "after",
+            "timestamp": [
+                1.28,
+                1.52
+            ]
+        },
+        {
+            "text": "my",
+            "timestamp": [
+                1.52,
+                1.84
+            ]
+        },
+        {
+            "text": "workout",
+            "timestamp": [
+                1.84,
+                2.32
+            ]
+        },
+        {
+            "text": "should",
+            "timestamp": [
+                2.64,
+                2.88
+            ]
+        },
+        {
+            "text": "I",
+            "timestamp": [
+                2.88,
+                3.04
+            ]
+        },
+        {
+            "text": "have",
+            "timestamp": [
+                3.04,
+                3.2800000000000002
+            ]
+        },
+        {
+            "text": "this",
+            "timestamp": [
+                3.2800000000000002,
+                3.6
+            ]
+        },
+        {
+            "text": "meal?",
+            "timestamp": [
+                3.6,
+                4.24
+            ]
+        }
+    ]
+}

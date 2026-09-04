@@ -1,0 +1,15 @@
+{
+  "final_duration": 25.0,
+  "speech_segments": [
+    {
+      "xmin": 0.7999999999999989,
+      "xmax": 4.9,
+      "text": "what kind of natural pigments work best for mud painting?"
+    },
+    {
+      "xmin": 9.900000000000002,
+      "xmax": 15.000000000000004,
+      "text": ""
+    }
+  ]
+}

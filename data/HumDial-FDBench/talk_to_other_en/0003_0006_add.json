@@ -1,0 +1,20 @@
+{
+  "final_duration": 35.7,
+  "speech_segments": [
+    {
+      "xmin": 1.2,
+      "xmax": 7.45,
+      "text": "what are the key factors that contribute to regional stability in southeast asia?"
+    },
+    {
+      "xmin": 12.45,
+      "xmax": 17.150000000000002,
+      "text": "can you give an example of such a diplomatic cooperation initiative?"
+    },
+    {
+      "xmin": 22.150000000000002,
+      "xmax": 25.700000000000003,
+      "text": "i need to schedule my annual health check-up for next week."
+    }
+  ]
+}

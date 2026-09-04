@@ -1,0 +1,15 @@
+{
+  "final_duration": 23.95,
+  "speech_segments": [
+    {
+      "xmin": 0.40000000000000036,
+      "xmax": 3.3000000000000007,
+      "text": "what about virgos in social settings?"
+    },
+    {
+      "xmin": 8.3,
+      "xmax": 13.95,
+      "text": ""
+    }
+  ]
+}

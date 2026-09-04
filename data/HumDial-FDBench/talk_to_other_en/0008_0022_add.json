@@ -1,0 +1,20 @@
+{
+  "final_duration": 37.6,
+  "speech_segments": [
+    {
+      "xmin": 0.5,
+      "xmax": 8.55,
+      "text": "how does blood type compatibility influence dating preferences in some cultures?"
+    },
+    {
+      "xmin": 13.55,
+      "xmax": 17.85,
+      "text": "what personality is usually associated with type a blood?"
+    },
+    {
+      "xmin": 22.85,
+      "xmax": 27.6,
+      "text": "the cherry blossoms in the park are starting to bloom beautifully this week."
+    }
+  ]
+}

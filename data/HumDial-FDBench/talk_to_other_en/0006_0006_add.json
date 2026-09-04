@@ -1,0 +1,20 @@
+{
+  "final_duration": 38.45,
+  "speech_segments": [
+    {
+      "xmin": 0.55,
+      "xmax": 6.9,
+      "text": "how can i stay motivated to pursue my dream when facing constant challenges?"
+    },
+    {
+      "xmin": 11.9,
+      "xmax": 16.65,
+      "text": "what are some examples of small victories i can celebrate?"
+    },
+    {
+      "xmin": 21.650000000000002,
+      "xmax": 28.45,
+      "text": "i wonder if the new sushi place downtown uses fresh wasabi in their dishes."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "final_duration": 25.45,
+  "speech_segments": [
+    {
+      "xmin": 0.5500000000000007,
+      "xmax": 5.550000000000001,
+      "text": "what specific sounds should i focus on mimicking first?"
+    },
+    {
+      "xmin": 10.55,
+      "xmax": 15.45,
+      "text": ""
+    }
+  ]
+}

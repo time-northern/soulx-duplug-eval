@@ -1,0 +1,75 @@
+{
+    "text": "Woodfont stills are typically recommended for engraving to ensure clarity.",
+    "chunks": [
+        {
+            "text": "Woodfont",
+            "timestamp": [
+                0.96,
+                1.84
+            ]
+        },
+        {
+            "text": "stills",
+            "timestamp": [
+                2.0,
+                2.8000000000000003
+            ]
+        },
+        {
+            "text": "are",
+            "timestamp": [
+                2.8000000000000003,
+                3.04
+            ]
+        },
+        {
+            "text": "typically",
+            "timestamp": [
+                3.04,
+                3.7600000000000002
+            ]
+        },
+        {
+            "text": "recommended",
+            "timestamp": [
+                3.7600000000000002,
+                5.04
+            ]
+        },
+        {
+            "text": "for",
+            "timestamp": [
+                5.04,
+                5.36
+            ]
+        },
+        {
+            "text": "engraving",
+            "timestamp": [
+                5.36,
+                6.32
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                6.32,
+                6.5600000000000005
+            ]
+        },
+        {
+            "text": "ensure",
+            "timestamp": [
+                6.5600000000000005,
+                7.28
+            ]
+        },
+        {
+            "text": "clarity.",
+            "timestamp": [
+                7.28,
+                8.24
+            ]
+        }
+    ]
+}

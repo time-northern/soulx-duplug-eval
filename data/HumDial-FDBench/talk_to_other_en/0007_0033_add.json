@@ -1,0 +1,20 @@
+{
+  "final_duration": 38.39999999999999,
+  "speech_segments": [
+    {
+      "xmin": 0.85,
+      "xmax": 9.5,
+      "text": "what's the most effective way to remove blackheads at home without damaging my skin?"
+    },
+    {
+      "xmin": 14.5,
+      "xmax": 18.2,
+      "text": "how long should i steam my face for best results?"
+    },
+    {
+      "xmin": 23.200000000000003,
+      "xmax": 28.4,
+      "text": "do you think we'll get fresh powder for skiing this weekend?"
+    }
+  ]
+}

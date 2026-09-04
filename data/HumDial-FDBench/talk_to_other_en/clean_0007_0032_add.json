@@ -1,0 +1,15 @@
+{
+  "final_duration": 31.35,
+  "speech_segments": [
+    {
+      "xmin": 0.6000000000000014,
+      "xmax": 8.100000000000001,
+      "text": "what are some creative ways to personalize a photo album beyond just adding pictures?"
+    },
+    {
+      "xmin": 13.100000000000001,
+      "xmax": 21.349999999999998,
+      "text": ""
+    }
+  ]
+}

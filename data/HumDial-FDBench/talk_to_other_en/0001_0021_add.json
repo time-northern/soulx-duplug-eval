@@ -1,0 +1,20 @@
+{
+  "final_duration": 36.35,
+  "speech_segments": [
+    {
+      "xmin": 1.5,
+      "xmax": 6.45,
+      "text": "what are the main benefits of acupuncture therapy for chronic pain?"
+    },
+    {
+      "xmin": 11.45,
+      "xmax": 16.150000000000002,
+      "text": "sorry, could you repeat the benefits of acupuncture for chronic pain?"
+    },
+    {
+      "xmin": 21.15,
+      "xmax": 26.35,
+      "text": "i wonder if improving sleep quality can help with daytime energy levels."
+    }
+  ]
+}

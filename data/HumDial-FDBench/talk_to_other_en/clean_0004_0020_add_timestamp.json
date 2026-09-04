@@ -1,0 +1,96 @@
+{
+    "text": "Sorry, I missed that, could you repeat the Middle Autumn custom you mentioned?",
+    "chunks": [
+        {
+            "text": "Sorry,",
+            "timestamp": [
+                0.64,
+                1.36
+            ]
+        },
+        {
+            "text": "I",
+            "timestamp": [
+                1.44,
+                1.68
+            ]
+        },
+        {
+            "text": "missed",
+            "timestamp": [
+                1.68,
+                2.16
+            ]
+        },
+        {
+            "text": "that,",
+            "timestamp": [
+                2.16,
+                2.4
+            ]
+        },
+        {
+            "text": "could",
+            "timestamp": [
+                2.64,
+                2.8000000000000003
+            ]
+        },
+        {
+            "text": "you",
+            "timestamp": [
+                2.96,
+                3.12
+            ]
+        },
+        {
+            "text": "repeat",
+            "timestamp": [
+                3.12,
+                3.68
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                3.68,
+                3.84
+            ]
+        },
+        {
+            "text": "Middle",
+            "timestamp": [
+                3.84,
+                4.32
+            ]
+        },
+        {
+            "text": "Autumn",
+            "timestamp": [
+                4.4,
+                4.96
+            ]
+        },
+        {
+            "text": "custom",
+            "timestamp": [
+                4.96,
+                5.6000000000000005
+            ]
+        },
+        {
+            "text": "you",
+            "timestamp": [
+                5.6000000000000005,
+                5.92
+            ]
+        },
+        {
+            "text": "mentioned?",
+            "timestamp": [
+                5.92,
+                6.88
+            ]
+        }
+    ]
+}

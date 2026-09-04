@@ -1,0 +1,15 @@
+{
+  "final_duration": 26.2,
+  "speech_segments": [
+    {
+      "xmin": 0.6999999999999993,
+      "xmax": 4.449999999999999,
+      "text": "what's the best type of artificial light for this purpose?"
+    },
+    {
+      "xmin": 9.45,
+      "xmax": 16.2,
+      "text": ""
+    }
+  ]
+}

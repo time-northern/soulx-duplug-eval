@@ -1,0 +1,47 @@
+{
+    "text": "What about vogos in social settings?",
+    "chunks": [
+        {
+            "text": "What",
+            "timestamp": [
+                0.32,
+                0.64
+            ]
+        },
+        {
+            "text": "about",
+            "timestamp": [
+                0.64,
+                0.8
+            ]
+        },
+        {
+            "text": "vogos",
+            "timestamp": [
+                0.96,
+                1.6
+            ]
+        },
+        {
+            "text": "in",
+            "timestamp": [
+                1.84,
+                2.08
+            ]
+        },
+        {
+            "text": "social",
+            "timestamp": [
+                2.08,
+                2.72
+            ]
+        },
+        {
+            "text": "settings?",
+            "timestamp": [
+                2.72,
+                3.68
+            ]
+        }
+    ]
+}

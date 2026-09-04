@@ -1,0 +1,15 @@
+{
+  "final_duration": 25.55,
+  "speech_segments": [
+    {
+      "xmin": 0.6500000000000004,
+      "xmax": 5.1,
+      "text": "what counts as valid proof of sufficient funds?"
+    },
+    {
+      "xmin": 10.099999999999996,
+      "xmax": 15.549999999999999,
+      "text": ""
+    }
+  ]
+}

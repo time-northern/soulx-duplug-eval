@@ -1,0 +1,75 @@
+{
+    "text": "Does this timing vary significantly between northern and southern regions?",
+    "chunks": [
+        {
+            "text": "Does",
+            "timestamp": [
+                0.56,
+                0.88
+            ]
+        },
+        {
+            "text": "this",
+            "timestamp": [
+                1.04,
+                1.36
+            ]
+        },
+        {
+            "text": "timing",
+            "timestamp": [
+                1.36,
+                1.92
+            ]
+        },
+        {
+            "text": "vary",
+            "timestamp": [
+                1.92,
+                2.32
+            ]
+        },
+        {
+            "text": "significantly",
+            "timestamp": [
+                2.4,
+                3.92
+            ]
+        },
+        {
+            "text": "between",
+            "timestamp": [
+                3.92,
+                4.24
+            ]
+        },
+        {
+            "text": "northern",
+            "timestamp": [
+                4.24,
+                5.12
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                5.12,
+                5.36
+            ]
+        },
+        {
+            "text": "southern",
+            "timestamp": [
+                5.36,
+                6.48
+            ]
+        },
+        {
+            "text": "regions?",
+            "timestamp": [
+                6.48,
+                7.12
+            ]
+        }
+    ]
+}

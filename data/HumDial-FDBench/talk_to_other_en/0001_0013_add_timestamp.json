@@ -1,0 +1,222 @@
+{
+    "text": "What are some common bad feng shi practices that bring misfortune? Sorry, could you say that again from the beginning? The air quality in this city seems worse today, doesn't it?",
+    "chunks": [
+        {
+            "text": "What",
+            "timestamp": [
+                0.32,
+                0.64
+            ]
+        },
+        {
+            "text": "are",
+            "timestamp": [
+                0.88,
+                1.12
+            ]
+        },
+        {
+            "text": "some",
+            "timestamp": [
+                1.12,
+                1.36
+            ]
+        },
+        {
+            "text": "common",
+            "timestamp": [
+                1.36,
+                1.84
+            ]
+        },
+        {
+            "text": "bad",
+            "timestamp": [
+                1.84,
+                2.08
+            ]
+        },
+        {
+            "text": "feng",
+            "timestamp": [
+                2.24,
+                2.56
+            ]
+        },
+        {
+            "text": "shi",
+            "timestamp": [
+                2.64,
+                3.04
+            ]
+        },
+        {
+            "text": "practices",
+            "timestamp": [
+                3.12,
+                3.84
+            ]
+        },
+        {
+            "text": "that",
+            "timestamp": [
+                3.84,
+                4.16
+            ]
+        },
+        {
+            "text": "bring",
+            "timestamp": [
+                4.16,
+                4.48
+            ]
+        },
+        {
+            "text": "misfortune?",
+            "timestamp": [
+                4.48,
+                5.84
+            ]
+        },
+        {
+            "text": "Sorry,",
+            "timestamp": [
+                10.0,
+                10.56
+            ]
+        },
+        {
+            "text": "could",
+            "timestamp": [
+                10.72,
+                10.96
+            ]
+        },
+        {
+            "text": "you",
+            "timestamp": [
+                10.96,
+                11.200000000000001
+            ]
+        },
+        {
+            "text": "say",
+            "timestamp": [
+                11.200000000000001,
+                11.44
+            ]
+        },
+        {
+            "text": "that",
+            "timestamp": [
+                11.44,
+                11.76
+            ]
+        },
+        {
+            "text": "again",
+            "timestamp": [
+                11.76,
+                12.0
+            ]
+        },
+        {
+            "text": "from",
+            "timestamp": [
+                12.0,
+                12.24
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                12.24,
+                12.48
+            ]
+        },
+        {
+            "text": "beginning?",
+            "timestamp": [
+                12.48,
+                13.6
+            ]
+        },
+        {
+            "text": "The",
+            "timestamp": [
+                17.76,
+                18.0
+            ]
+        },
+        {
+            "text": "air",
+            "timestamp": [
+                18.0,
+                18.48
+            ]
+        },
+        {
+            "text": "quality",
+            "timestamp": [
+                18.48,
+                19.04
+            ]
+        },
+        {
+            "text": "in",
+            "timestamp": [
+                19.04,
+                19.28
+            ]
+        },
+        {
+            "text": "this",
+            "timestamp": [
+                19.28,
+                19.6
+            ]
+        },
+        {
+            "text": "city",
+            "timestamp": [
+                19.6,
+                20.0
+            ]
+        },
+        {
+            "text": "seems",
+            "timestamp": [
+                20.0,
+                20.48
+            ]
+        },
+        {
+            "text": "worse",
+            "timestamp": [
+                20.48,
+                20.96
+            ]
+        },
+        {
+            "text": "today,",
+            "timestamp": [
+                20.96,
+                21.28
+            ]
+        },
+        {
+            "text": "doesn't",
+            "timestamp": [
+                21.52,
+                22.16
+            ]
+        },
+        {
+            "text": "it?",
+            "timestamp": [
+                22.16,
+                22.48
+            ]
+        }
+    ]
+}

@@ -1,0 +1,257 @@
+{
+    "text": "How can I deal with the feeling of loneliness when I'm alone at home? Sorry, I missed that. Could you say it again? I need to set a goal to lose five kilograms by next month.",
+    "chunks": [
+        {
+            "text": "How",
+            "timestamp": [
+                0.64,
+                1.04
+            ]
+        },
+        {
+            "text": "can",
+            "timestamp": [
+                1.04,
+                1.2
+            ]
+        },
+        {
+            "text": "I",
+            "timestamp": [
+                1.2,
+                1.36
+            ]
+        },
+        {
+            "text": "deal",
+            "timestamp": [
+                1.36,
+                1.76
+            ]
+        },
+        {
+            "text": "with",
+            "timestamp": [
+                1.76,
+                2.0
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                2.0,
+                2.16
+            ]
+        },
+        {
+            "text": "feeling",
+            "timestamp": [
+                2.16,
+                2.48
+            ]
+        },
+        {
+            "text": "of",
+            "timestamp": [
+                2.48,
+                2.72
+            ]
+        },
+        {
+            "text": "loneliness",
+            "timestamp": [
+                2.72,
+                3.68
+            ]
+        },
+        {
+            "text": "when",
+            "timestamp": [
+                3.68,
+                3.92
+            ]
+        },
+        {
+            "text": "I'm",
+            "timestamp": [
+                3.92,
+                4.32
+            ]
+        },
+        {
+            "text": "alone",
+            "timestamp": [
+                4.32,
+                4.8
+            ]
+        },
+        {
+            "text": "at",
+            "timestamp": [
+                4.8,
+                5.12
+            ]
+        },
+        {
+            "text": "home?",
+            "timestamp": [
+                5.12,
+                5.68
+            ]
+        },
+        {
+            "text": "Sorry,",
+            "timestamp": [
+                10.08,
+                10.72
+            ]
+        },
+        {
+            "text": "I",
+            "timestamp": [
+                10.96,
+                11.28
+            ]
+        },
+        {
+            "text": "missed",
+            "timestamp": [
+                11.28,
+                11.84
+            ]
+        },
+        {
+            "text": "that.",
+            "timestamp": [
+                11.84,
+                12.16
+            ]
+        },
+        {
+            "text": "Could",
+            "timestamp": [
+                12.48,
+                12.88
+            ]
+        },
+        {
+            "text": "you",
+            "timestamp": [
+                12.88,
+                13.200000000000001
+            ]
+        },
+        {
+            "text": "say",
+            "timestamp": [
+                13.200000000000001,
+                13.52
+            ]
+        },
+        {
+            "text": "it",
+            "timestamp": [
+                13.52,
+                13.84
+            ]
+        },
+        {
+            "text": "again?",
+            "timestamp": [
+                13.84,
+                14.16
+            ]
+        },
+        {
+            "text": "I",
+            "timestamp": [
+                18.96,
+                19.12
+            ]
+        },
+        {
+            "text": "need",
+            "timestamp": [
+                19.12,
+                19.36
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                19.36,
+                19.6
+            ]
+        },
+        {
+            "text": "set",
+            "timestamp": [
+                19.6,
+                19.76
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                19.76,
+                19.92
+            ]
+        },
+        {
+            "text": "goal",
+            "timestamp": [
+                19.92,
+                20.240000000000002
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                20.240000000000002,
+                20.400000000000002
+            ]
+        },
+        {
+            "text": "lose",
+            "timestamp": [
+                20.400000000000002,
+                20.72
+            ]
+        },
+        {
+            "text": "five",
+            "timestamp": [
+                20.72,
+                21.04
+            ]
+        },
+        {
+            "text": "kilograms",
+            "timestamp": [
+                21.04,
+                21.84
+            ]
+        },
+        {
+            "text": "by",
+            "timestamp": [
+                22.0,
+                22.32
+            ]
+        },
+        {
+            "text": "next",
+            "timestamp": [
+                22.32,
+                22.64
+            ]
+        },
+        {
+            "text": "month.",
+            "timestamp": [
+                22.64,
+                23.28
+            ]
+        }
+    ]
+}

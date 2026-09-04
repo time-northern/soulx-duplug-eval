@@ -1,0 +1,20 @@
+{
+  "final_duration": 36.25,
+  "speech_segments": [
+    {
+      "xmin": 1.65,
+      "xmax": 7.2,
+      "text": "how can i effectively handle negative feedback at work without letting it demotivate me?"
+    },
+    {
+      "xmin": 12.2,
+      "xmax": 16.0,
+      "text": "what if the feedback feels unfair or inaccurate?"
+    },
+    {
+      "xmin": 21.0,
+      "xmax": 26.250000000000004,
+      "text": "i should really organize my photo albums from last year's vacation soon."
+    }
+  ]
+}

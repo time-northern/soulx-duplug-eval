@@ -1,0 +1,96 @@
+{
+    "text": "How can I check if whether is a specific cause for my shipments?",
+    "chunks": [
+        {
+            "text": "How",
+            "timestamp": [
+                0.24,
+                0.56
+            ]
+        },
+        {
+            "text": "can",
+            "timestamp": [
+                0.56,
+                0.8
+            ]
+        },
+        {
+            "text": "I",
+            "timestamp": [
+                0.8,
+                0.96
+            ]
+        },
+        {
+            "text": "check",
+            "timestamp": [
+                0.96,
+                1.28
+            ]
+        },
+        {
+            "text": "if",
+            "timestamp": [
+                1.28,
+                1.52
+            ]
+        },
+        {
+            "text": "whether",
+            "timestamp": [
+                1.52,
+                2.0
+            ]
+        },
+        {
+            "text": "is",
+            "timestamp": [
+                2.0,
+                2.32
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                2.32,
+                2.48
+            ]
+        },
+        {
+            "text": "specific",
+            "timestamp": [
+                2.48,
+                3.2
+            ]
+        },
+        {
+            "text": "cause",
+            "timestamp": [
+                3.2,
+                3.6
+            ]
+        },
+        {
+            "text": "for",
+            "timestamp": [
+                3.6,
+                3.84
+            ]
+        },
+        {
+            "text": "my",
+            "timestamp": [
+                3.84,
+                4.08
+            ]
+        },
+        {
+            "text": "shipments?",
+            "timestamp": [
+                4.08,
+                4.96
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+  "final_duration": 38.45,
+  "speech_segments": [
+    {
+      "xmin": 0.85,
+      "xmax": 6.8,
+      "text": "what are some key techniques for capturing dynamic dragon boat race action shots?"
+    },
+    {
+      "xmin": 11.8,
+      "xmax": 17.9,
+      "text": "what shutter speed range is typically best for freezing the paddlers' movements?"
+    },
+    {
+      "xmin": 22.9,
+      "xmax": 28.450000000000003,
+      "text": "i'm thinking of going to the botanical garden for some landscape photography this weekend."
+    }
+  ]
+}

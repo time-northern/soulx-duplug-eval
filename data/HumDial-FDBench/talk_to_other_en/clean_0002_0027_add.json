@@ -1,0 +1,15 @@
+{
+  "final_duration": 25.25,
+  "speech_segments": [
+    {
+      "xmin": 0.5,
+      "xmax": 4.449999999999999,
+      "text": "what if i can't cycle outdoors due to bad weather?"
+    },
+    {
+      "xmin": 9.45,
+      "xmax": 15.25,
+      "text": ""
+    }
+  ]
+}

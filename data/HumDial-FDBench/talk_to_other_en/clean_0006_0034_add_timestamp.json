@@ -1,0 +1,82 @@
+{
+    "text": "What specific skills are usually included in these capacity building programs?",
+    "chunks": [
+        {
+            "text": "What",
+            "timestamp": [
+                0.56,
+                0.88
+            ]
+        },
+        {
+            "text": "specific",
+            "timestamp": [
+                0.88,
+                1.6
+            ]
+        },
+        {
+            "text": "skills",
+            "timestamp": [
+                1.6,
+                2.16
+            ]
+        },
+        {
+            "text": "are",
+            "timestamp": [
+                2.16,
+                2.4
+            ]
+        },
+        {
+            "text": "usually",
+            "timestamp": [
+                2.4,
+                2.88
+            ]
+        },
+        {
+            "text": "included",
+            "timestamp": [
+                2.88,
+                4.0
+            ]
+        },
+        {
+            "text": "in",
+            "timestamp": [
+                4.0,
+                4.32
+            ]
+        },
+        {
+            "text": "these",
+            "timestamp": [
+                4.32,
+                4.64
+            ]
+        },
+        {
+            "text": "capacity",
+            "timestamp": [
+                4.64,
+                6.08
+            ]
+        },
+        {
+            "text": "building",
+            "timestamp": [
+                6.16,
+                6.8
+            ]
+        },
+        {
+            "text": "programs?",
+            "timestamp": [
+                6.8,
+                7.6000000000000005
+            ]
+        }
+    ]
+}

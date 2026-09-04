@@ -1,0 +1,257 @@
+{
+    "text": "Can you tell me a short quote joke about winter What happens if a snowman gets too warm Do you think we should pack each other snakes for our road trip to the mountains next weekend",
+    "chunks": [
+        {
+            "text": "Can",
+            "timestamp": [
+                0.32,
+                0.8
+            ]
+        },
+        {
+            "text": "you",
+            "timestamp": [
+                0.8,
+                0.96
+            ]
+        },
+        {
+            "text": "tell",
+            "timestamp": [
+                0.96,
+                1.12
+            ]
+        },
+        {
+            "text": "me",
+            "timestamp": [
+                1.12,
+                1.28
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                1.28,
+                1.44
+            ]
+        },
+        {
+            "text": "short",
+            "timestamp": [
+                1.44,
+                1.68
+            ]
+        },
+        {
+            "text": "quote",
+            "timestamp": [
+                1.76,
+                2.08
+            ]
+        },
+        {
+            "text": "joke",
+            "timestamp": [
+                2.16,
+                2.56
+            ]
+        },
+        {
+            "text": "about",
+            "timestamp": [
+                2.56,
+                2.8000000000000003
+            ]
+        },
+        {
+            "text": "winter",
+            "timestamp": [
+                2.8000000000000003,
+                3.68
+            ]
+        },
+        {
+            "text": "What",
+            "timestamp": [
+                8.08,
+                8.4
+            ]
+        },
+        {
+            "text": "happens",
+            "timestamp": [
+                8.4,
+                8.96
+            ]
+        },
+        {
+            "text": "if",
+            "timestamp": [
+                8.96,
+                9.120000000000001
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                9.120000000000001,
+                9.36
+            ]
+        },
+        {
+            "text": "snowman",
+            "timestamp": [
+                9.36,
+                10.08
+            ]
+        },
+        {
+            "text": "gets",
+            "timestamp": [
+                10.08,
+                10.4
+            ]
+        },
+        {
+            "text": "too",
+            "timestamp": [
+                10.4,
+                10.64
+            ]
+        },
+        {
+            "text": "warm",
+            "timestamp": [
+                10.64,
+                11.6
+            ]
+        },
+        {
+            "text": "Do",
+            "timestamp": [
+                15.76,
+                16.0
+            ]
+        },
+        {
+            "text": "you",
+            "timestamp": [
+                16.0,
+                16.240000000000002
+            ]
+        },
+        {
+            "text": "think",
+            "timestamp": [
+                16.240000000000002,
+                16.48
+            ]
+        },
+        {
+            "text": "we",
+            "timestamp": [
+                16.48,
+                16.64
+            ]
+        },
+        {
+            "text": "should",
+            "timestamp": [
+                16.64,
+                16.88
+            ]
+        },
+        {
+            "text": "pack",
+            "timestamp": [
+                16.88,
+                17.2
+            ]
+        },
+        {
+            "text": "each",
+            "timestamp": [
+                17.2,
+                17.44
+            ]
+        },
+        {
+            "text": "other",
+            "timestamp": [
+                17.52,
+                17.6
+            ]
+        },
+        {
+            "text": "snakes",
+            "timestamp": [
+                17.76,
+                18.240000000000002
+            ]
+        },
+        {
+            "text": "for",
+            "timestamp": [
+                18.400000000000002,
+                18.64
+            ]
+        },
+        {
+            "text": "our",
+            "timestamp": [
+                18.64,
+                18.88
+            ]
+        },
+        {
+            "text": "road",
+            "timestamp": [
+                18.88,
+                19.2
+            ]
+        },
+        {
+            "text": "trip",
+            "timestamp": [
+                19.2,
+                19.52
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                19.52,
+                19.68
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                19.68,
+                19.92
+            ]
+        },
+        {
+            "text": "mountains",
+            "timestamp": [
+                19.92,
+                20.56
+            ]
+        },
+        {
+            "text": "next",
+            "timestamp": [
+                20.56,
+                20.8
+            ]
+        },
+        {
+            "text": "weekend",
+            "timestamp": [
+                20.8,
+                21.76
+            ]
+        }
+    ]
+}

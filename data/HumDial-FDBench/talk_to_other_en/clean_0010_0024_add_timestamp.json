@@ -1,0 +1,68 @@
+{
+    "text": "How do curtain bands work with different face shapes",
+    "chunks": [
+        {
+            "text": "How",
+            "timestamp": [
+                0.24,
+                0.56
+            ]
+        },
+        {
+            "text": "do",
+            "timestamp": [
+                0.56,
+                0.72
+            ]
+        },
+        {
+            "text": "curtain",
+            "timestamp": [
+                0.72,
+                1.2
+            ]
+        },
+        {
+            "text": "bands",
+            "timestamp": [
+                1.2,
+                1.68
+            ]
+        },
+        {
+            "text": "work",
+            "timestamp": [
+                1.76,
+                1.92
+            ]
+        },
+        {
+            "text": "with",
+            "timestamp": [
+                2.08,
+                2.24
+            ]
+        },
+        {
+            "text": "different",
+            "timestamp": [
+                2.24,
+                2.4
+            ]
+        },
+        {
+            "text": "face",
+            "timestamp": [
+                2.8000000000000003,
+                3.2
+            ]
+        },
+        {
+            "text": "shapes",
+            "timestamp": [
+                3.2,
+                4.0
+            ]
+        }
+    ]
+}

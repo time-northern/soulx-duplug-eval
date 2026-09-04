@@ -1,0 +1,15 @@
+{
+  "final_duration": 24.75,
+  "speech_segments": [
+    {
+      "xmin": 0.40000000000000036,
+      "xmax": 4.449999999999999,
+      "text": "why are their waters particularly calm during that month?"
+    },
+    {
+      "xmin": 9.45,
+      "xmax": 14.749999999999996,
+      "text": ""
+    }
+  ]
+}

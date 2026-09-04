@@ -1,0 +1,15 @@
+{
+  "final_duration": 26.75,
+  "speech_segments": [
+    {
+      "xmin": 0.45000000000000107,
+      "xmax": 5.850000000000003,
+      "text": "how quickly do antacids typically start working after taking them?"
+    },
+    {
+      "xmin": 10.850000000000003,
+      "xmax": 16.75,
+      "text": ""
+    }
+  ]
+}

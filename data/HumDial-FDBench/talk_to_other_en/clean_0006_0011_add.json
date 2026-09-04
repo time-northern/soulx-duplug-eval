@@ -1,0 +1,15 @@
+{
+  "final_duration": 24.75,
+  "speech_segments": [
+    {
+      "xmin": 0.8000000000000007,
+      "xmax": 4.700000000000001,
+      "text": "which apps have the most active hiking groups in my area?"
+    },
+    {
+      "xmin": 9.700000000000001,
+      "xmax": 14.750000000000002,
+      "text": ""
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "final_duration": 25.05,
+  "speech_segments": [
+    {
+      "xmin": 0.5999999999999996,
+      "xmax": 4.899999999999999,
+      "text": "what kind of fabric is best for those reusable ribbons?"
+    },
+    {
+      "xmin": 9.900000000000002,
+      "xmax": 15.05,
+      "text": ""
+    }
+  ]
+}

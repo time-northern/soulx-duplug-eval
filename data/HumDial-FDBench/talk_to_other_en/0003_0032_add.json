@@ -1,0 +1,20 @@
+{
+  "final_duration": 34.050000000000004,
+  "speech_segments": [
+    {
+      "xmin": 0.5,
+      "xmax": 4.15,
+      "text": "what are some philosophical perspectives on the meaning of death?"
+    },
+    {
+      "xmin": 9.15,
+      "xmax": 13.700000000000001,
+      "text": "sorry, can you say that again? i missed the beginning."
+    },
+    {
+      "xmin": 18.700000000000003,
+      "xmax": 24.05,
+      "text": "i need to check the quarterly report progress with the team tomorrow."
+    }
+  ]
+}

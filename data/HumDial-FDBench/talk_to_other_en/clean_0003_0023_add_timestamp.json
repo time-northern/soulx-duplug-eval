@@ -1,0 +1,61 @@
+{
+    "text": "What basic tools do I need for orogeny?",
+    "chunks": [
+        {
+            "text": "What",
+            "timestamp": [
+                0.64,
+                0.88
+            ]
+        },
+        {
+            "text": "basic",
+            "timestamp": [
+                1.12,
+                1.68
+            ]
+        },
+        {
+            "text": "tools",
+            "timestamp": [
+                1.68,
+                2.16
+            ]
+        },
+        {
+            "text": "do",
+            "timestamp": [
+                2.16,
+                2.4
+            ]
+        },
+        {
+            "text": "I",
+            "timestamp": [
+                2.4,
+                2.64
+            ]
+        },
+        {
+            "text": "need",
+            "timestamp": [
+                2.64,
+                2.8000000000000003
+            ]
+        },
+        {
+            "text": "for",
+            "timestamp": [
+                2.8000000000000003,
+                3.04
+            ]
+        },
+        {
+            "text": "orogeny?",
+            "timestamp": [
+                3.04,
+                4.0
+            ]
+        }
+    ]
+}

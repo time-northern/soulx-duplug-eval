@@ -1,0 +1,236 @@
+{
+    "text": "What are the key elements that shaped a person's worldview? Sorry, could you see that again from the beginning? I wonder if we should have a barbecue at the family gathering next weekend",
+    "chunks": [
+        {
+            "text": "What",
+            "timestamp": [
+                0.64,
+                0.96
+            ]
+        },
+        {
+            "text": "are",
+            "timestamp": [
+                0.96,
+                1.12
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                1.12,
+                1.36
+            ]
+        },
+        {
+            "text": "key",
+            "timestamp": [
+                1.36,
+                1.68
+            ]
+        },
+        {
+            "text": "elements",
+            "timestamp": [
+                1.68,
+                2.24
+            ]
+        },
+        {
+            "text": "that",
+            "timestamp": [
+                2.24,
+                2.48
+            ]
+        },
+        {
+            "text": "shaped",
+            "timestamp": [
+                2.48,
+                2.96
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                2.96,
+                3.2
+            ]
+        },
+        {
+            "text": "person's",
+            "timestamp": [
+                3.2,
+                3.7600000000000002
+            ]
+        },
+        {
+            "text": "worldview?",
+            "timestamp": [
+                3.7600000000000002,
+                4.5600000000000005
+            ]
+        },
+        {
+            "text": "Sorry,",
+            "timestamp": [
+                9.28,
+                9.84
+            ]
+        },
+        {
+            "text": "could",
+            "timestamp": [
+                10.0,
+                10.24
+            ]
+        },
+        {
+            "text": "you",
+            "timestamp": [
+                10.24,
+                10.48
+            ]
+        },
+        {
+            "text": "see",
+            "timestamp": [
+                10.48,
+                10.72
+            ]
+        },
+        {
+            "text": "that",
+            "timestamp": [
+                10.72,
+                11.040000000000001
+            ]
+        },
+        {
+            "text": "again",
+            "timestamp": [
+                11.040000000000001,
+                11.36
+            ]
+        },
+        {
+            "text": "from",
+            "timestamp": [
+                11.36,
+                11.6
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                11.6,
+                11.92
+            ]
+        },
+        {
+            "text": "beginning?",
+            "timestamp": [
+                11.92,
+                13.040000000000001
+            ]
+        },
+        {
+            "text": "I",
+            "timestamp": [
+                17.2,
+                17.36
+            ]
+        },
+        {
+            "text": "wonder",
+            "timestamp": [
+                17.36,
+                17.92
+            ]
+        },
+        {
+            "text": "if",
+            "timestamp": [
+                17.92,
+                18.240000000000002
+            ]
+        },
+        {
+            "text": "we",
+            "timestamp": [
+                18.240000000000002,
+                18.48
+            ]
+        },
+        {
+            "text": "should",
+            "timestamp": [
+                18.48,
+                18.72
+            ]
+        },
+        {
+            "text": "have",
+            "timestamp": [
+                18.72,
+                18.96
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                18.96,
+                19.2
+            ]
+        },
+        {
+            "text": "barbecue",
+            "timestamp": [
+                19.2,
+                20.0
+            ]
+        },
+        {
+            "text": "at",
+            "timestamp": [
+                20.0,
+                20.240000000000002
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                20.240000000000002,
+                20.400000000000002
+            ]
+        },
+        {
+            "text": "family",
+            "timestamp": [
+                20.400000000000002,
+                20.88
+            ]
+        },
+        {
+            "text": "gathering",
+            "timestamp": [
+                20.88,
+                21.76
+            ]
+        },
+        {
+            "text": "next",
+            "timestamp": [
+                21.76,
+                22.080000000000002
+            ]
+        },
+        {
+            "text": "weekend",
+            "timestamp": [
+                22.080000000000002,
+                23.12
+            ]
+        }
+    ]
+}

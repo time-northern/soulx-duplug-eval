@@ -1,0 +1,75 @@
+{
+    "text": "What specific cloud types contribute most to positive feedback loops?",
+    "chunks": [
+        {
+            "text": "What",
+            "timestamp": [
+                0.64,
+                0.96
+            ]
+        },
+        {
+            "text": "specific",
+            "timestamp": [
+                0.96,
+                1.76
+            ]
+        },
+        {
+            "text": "cloud",
+            "timestamp": [
+                1.76,
+                2.24
+            ]
+        },
+        {
+            "text": "types",
+            "timestamp": [
+                2.4,
+                3.04
+            ]
+        },
+        {
+            "text": "contribute",
+            "timestamp": [
+                3.04,
+                4.16
+            ]
+        },
+        {
+            "text": "most",
+            "timestamp": [
+                4.16,
+                4.4
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                5.04,
+                5.36
+            ]
+        },
+        {
+            "text": "positive",
+            "timestamp": [
+                5.36,
+                6.32
+            ]
+        },
+        {
+            "text": "feedback",
+            "timestamp": [
+                6.32,
+                7.04
+            ]
+        },
+        {
+            "text": "loops?",
+            "timestamp": [
+                7.04,
+                7.92
+            ]
+        }
+    ]
+}

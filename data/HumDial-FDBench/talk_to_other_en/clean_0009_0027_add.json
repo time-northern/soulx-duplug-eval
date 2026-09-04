@@ -1,0 +1,15 @@
+{
+  "final_duration": 26.55,
+  "speech_segments": [
+    {
+      "xmin": 0.5999999999999996,
+      "xmax": 5.6,
+      "text": "how do colored overlays specifically assist with visual stress?"
+    },
+    {
+      "xmin": 10.600000000000003,
+      "xmax": 16.549999999999997,
+      "text": ""
+    }
+  ]
+}

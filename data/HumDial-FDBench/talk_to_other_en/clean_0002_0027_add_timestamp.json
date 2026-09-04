@@ -1,0 +1,75 @@
+{
+    "text": "What if I can't circle outdoors due to bad weather?",
+    "chunks": [
+        {
+            "text": "What",
+            "timestamp": [
+                0.32,
+                0.56
+            ]
+        },
+        {
+            "text": "if",
+            "timestamp": [
+                0.8,
+                0.96
+            ]
+        },
+        {
+            "text": "I",
+            "timestamp": [
+                0.96,
+                1.2
+            ]
+        },
+        {
+            "text": "can't",
+            "timestamp": [
+                1.2,
+                1.52
+            ]
+        },
+        {
+            "text": "circle",
+            "timestamp": [
+                1.52,
+                2.08
+            ]
+        },
+        {
+            "text": "outdoors",
+            "timestamp": [
+                2.08,
+                2.96
+            ]
+        },
+        {
+            "text": "due",
+            "timestamp": [
+                2.96,
+                3.36
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                3.36,
+                3.6
+            ]
+        },
+        {
+            "text": "bad",
+            "timestamp": [
+                3.6,
+                4.16
+            ]
+        },
+        {
+            "text": "weather?",
+            "timestamp": [
+                4.16,
+                4.8
+            ]
+        }
+    ]
+}

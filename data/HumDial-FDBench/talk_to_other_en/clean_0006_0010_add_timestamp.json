@@ -1,0 +1,68 @@
+{
+    "text": "Are those walking trails suitable for cycling as well?",
+    "chunks": [
+        {
+            "text": "Are",
+            "timestamp": [
+                0.32,
+                0.88
+            ]
+        },
+        {
+            "text": "those",
+            "timestamp": [
+                0.88,
+                1.12
+            ]
+        },
+        {
+            "text": "walking",
+            "timestamp": [
+                1.12,
+                1.68
+            ]
+        },
+        {
+            "text": "trails",
+            "timestamp": [
+                1.68,
+                2.32
+            ]
+        },
+        {
+            "text": "suitable",
+            "timestamp": [
+                2.32,
+                2.88
+            ]
+        },
+        {
+            "text": "for",
+            "timestamp": [
+                2.88,
+                3.12
+            ]
+        },
+        {
+            "text": "cycling",
+            "timestamp": [
+                3.12,
+                4.16
+            ]
+        },
+        {
+            "text": "as",
+            "timestamp": [
+                4.16,
+                4.48
+            ]
+        },
+        {
+            "text": "well?",
+            "timestamp": [
+                4.48,
+                4.8
+            ]
+        }
+    ]
+}

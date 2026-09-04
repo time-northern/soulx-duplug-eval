@@ -1,0 +1,20 @@
+{
+  "final_duration": 42.0,
+  "speech_segments": [
+    {
+      "xmin": 0.65,
+      "xmax": 9.55,
+      "text": "what are the most effective ways for developed countries to provide international aid to developing nations?"
+    },
+    {
+      "xmin": 14.55,
+      "xmax": 21.25,
+      "text": "what specific skills are usually included in these capacity building programs?"
+    },
+    {
+      "xmin": 26.25,
+      "xmax": 32.0,
+      "text": "i hope my driving test appointment isn't scheduled during rush hour traffic."
+    }
+  ]
+}

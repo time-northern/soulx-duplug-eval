@@ -1,0 +1,20 @@
+{
+  "final_duration": 31.049999999999997,
+  "speech_segments": [
+    {
+      "xmin": 0.6,
+      "xmax": 3.15,
+      "text": "can you tell me a short cold joke about winter?"
+    },
+    {
+      "xmin": 8.15,
+      "xmax": 10.85,
+      "text": "what happens if a snowman gets too warm?"
+    },
+    {
+      "xmin": 15.85,
+      "xmax": 21.049999999999997,
+      "text": "do you think we should pack extra snacks for our road trip to the mountains next weekend?"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+    "text": "How long does a typical virtual escape room activity last?",
+    "chunks": [
+        {
+            "text": "How",
+            "timestamp": [
+                0.32,
+                0.72
+            ]
+        },
+        {
+            "text": "long",
+            "timestamp": [
+                0.72,
+                0.96
+            ]
+        },
+        {
+            "text": "does",
+            "timestamp": [
+                0.96,
+                1.2
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                1.2,
+                1.44
+            ]
+        },
+        {
+            "text": "typical",
+            "timestamp": [
+                1.44,
+                1.92
+            ]
+        },
+        {
+            "text": "virtual",
+            "timestamp": [
+                1.92,
+                2.48
+            ]
+        },
+        {
+            "text": "escape",
+            "timestamp": [
+                2.64,
+                3.44
+            ]
+        },
+        {
+            "text": "room",
+            "timestamp": [
+                3.44,
+                3.7600000000000002
+            ]
+        },
+        {
+            "text": "activity",
+            "timestamp": [
+                4.0,
+                4.88
+            ]
+        },
+        {
+            "text": "last?",
+            "timestamp": [
+                4.88,
+                5.2
+            ]
+        }
+    ]
+}

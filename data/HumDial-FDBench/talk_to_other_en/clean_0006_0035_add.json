@@ -1,0 +1,15 @@
+{
+  "final_duration": 29.65,
+  "speech_segments": [
+    {
+      "xmin": 0.6999999999999993,
+      "xmax": 6.850000000000001,
+      "text": "are there any regional variations in the flavors of mooncakes across china?"
+    },
+    {
+      "xmin": 11.849999999999998,
+      "xmax": 19.650000000000006,
+      "text": ""
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "final_duration": 28.25,
+  "speech_segments": [
+    {
+      "xmin": 0.7999999999999989,
+      "xmax": 7.649999999999999,
+      "text": "how does secure boot specifically protect against malicious firmware?"
+    },
+    {
+      "xmin": 12.649999999999999,
+      "xmax": 18.249999999999996,
+      "text": ""
+    }
+  ]
+}

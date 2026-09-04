@@ -1,0 +1,20 @@
+{
+  "final_duration": 36.05,
+  "speech_segments": [
+    {
+      "xmin": 0.85,
+      "xmax": 6.75,
+      "text": "what are some traditional nursery rhymes from your hometown and what do they symbolize?"
+    },
+    {
+      "xmin": 11.75,
+      "xmax": 15.95,
+      "text": "how does the rhyme's imagery connect to local culture?"
+    },
+    {
+      "xmin": 20.950000000000003,
+      "xmax": 26.050000000000004,
+      "text": "i'm considering booking a spa massage this weekend to relax my muscles."
+    }
+  ]
+}

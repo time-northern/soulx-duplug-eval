@@ -1,0 +1,61 @@
+{
+    "text": "What specific weather conditions make fishing so dangerous",
+    "chunks": [
+        {
+            "text": "What",
+            "timestamp": [
+                0.64,
+                0.96
+            ]
+        },
+        {
+            "text": "specific",
+            "timestamp": [
+                1.2,
+                2.16
+            ]
+        },
+        {
+            "text": "weather",
+            "timestamp": [
+                2.16,
+                2.72
+            ]
+        },
+        {
+            "text": "conditions",
+            "timestamp": [
+                2.88,
+                3.7600000000000002
+            ]
+        },
+        {
+            "text": "make",
+            "timestamp": [
+                3.7600000000000002,
+                4.08
+            ]
+        },
+        {
+            "text": "fishing",
+            "timestamp": [
+                4.08,
+                4.64
+            ]
+        },
+        {
+            "text": "so",
+            "timestamp": [
+                4.64,
+                4.88
+            ]
+        },
+        {
+            "text": "dangerous",
+            "timestamp": [
+                4.88,
+                6.0
+            ]
+        }
+    ]
+}

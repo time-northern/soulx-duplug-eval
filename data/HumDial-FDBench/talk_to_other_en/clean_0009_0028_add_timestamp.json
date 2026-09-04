@@ -1,0 +1,96 @@
+{
+    "text": "I will give mere examples of how time may affect a drug's impact.",
+    "chunks": [
+        {
+            "text": "I",
+            "timestamp": [
+                0.32,
+                0.56
+            ]
+        },
+        {
+            "text": "will",
+            "timestamp": [
+                0.72,
+                0.96
+            ]
+        },
+        {
+            "text": "give",
+            "timestamp": [
+                0.96,
+                1.12
+            ]
+        },
+        {
+            "text": "mere",
+            "timestamp": [
+                1.12,
+                1.36
+            ]
+        },
+        {
+            "text": "examples",
+            "timestamp": [
+                1.68,
+                2.4
+            ]
+        },
+        {
+            "text": "of",
+            "timestamp": [
+                2.4,
+                2.64
+            ]
+        },
+        {
+            "text": "how",
+            "timestamp": [
+                2.64,
+                2.88
+            ]
+        },
+        {
+            "text": "time",
+            "timestamp": [
+                2.88,
+                3.04
+            ]
+        },
+        {
+            "text": "may",
+            "timestamp": [
+                3.36,
+                3.6
+            ]
+        },
+        {
+            "text": "affect",
+            "timestamp": [
+                3.6,
+                3.92
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                4.0,
+                4.24
+            ]
+        },
+        {
+            "text": "drug's",
+            "timestamp": [
+                4.24,
+                5.28
+            ]
+        },
+        {
+            "text": "impact.",
+            "timestamp": [
+                5.28,
+                5.92
+            ]
+        }
+    ]
+}

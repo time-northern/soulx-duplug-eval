@@ -1,0 +1,110 @@
+{
+    "text": "So does that mean I should expect good luck after a long period of difficulties?",
+    "chunks": [
+        {
+            "text": "So",
+            "timestamp": [
+                0.32,
+                0.64
+            ]
+        },
+        {
+            "text": "does",
+            "timestamp": [
+                0.96,
+                1.28
+            ]
+        },
+        {
+            "text": "that",
+            "timestamp": [
+                1.28,
+                1.52
+            ]
+        },
+        {
+            "text": "mean",
+            "timestamp": [
+                1.52,
+                1.76
+            ]
+        },
+        {
+            "text": "I",
+            "timestamp": [
+                1.76,
+                2.0
+            ]
+        },
+        {
+            "text": "should",
+            "timestamp": [
+                2.0,
+                2.32
+            ]
+        },
+        {
+            "text": "expect",
+            "timestamp": [
+                2.32,
+                2.88
+            ]
+        },
+        {
+            "text": "good",
+            "timestamp": [
+                2.88,
+                3.12
+            ]
+        },
+        {
+            "text": "luck",
+            "timestamp": [
+                3.12,
+                3.7600000000000002
+            ]
+        },
+        {
+            "text": "after",
+            "timestamp": [
+                3.7600000000000002,
+                4.08
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                4.08,
+                4.4
+            ]
+        },
+        {
+            "text": "long",
+            "timestamp": [
+                4.4,
+                4.72
+            ]
+        },
+        {
+            "text": "period",
+            "timestamp": [
+                4.72,
+                5.44
+            ]
+        },
+        {
+            "text": "of",
+            "timestamp": [
+                5.44,
+                5.76
+            ]
+        },
+        {
+            "text": "difficulties?",
+            "timestamp": [
+                5.76,
+                7.04
+            ]
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "text": "Does that mean they take forever to order their main course too?",
+    "chunks": [
+        {
+            "text": "Does",
+            "timestamp": [
+                0.48,
+                0.96
+            ]
+        },
+        {
+            "text": "that",
+            "timestamp": [
+                0.96,
+                1.28
+            ]
+        },
+        {
+            "text": "mean",
+            "timestamp": [
+                1.28,
+                1.52
+            ]
+        },
+        {
+            "text": "they",
+            "timestamp": [
+                1.84,
+                2.16
+            ]
+        },
+        {
+            "text": "take",
+            "timestamp": [
+                2.16,
+                2.4
+            ]
+        },
+        {
+            "text": "forever",
+            "timestamp": [
+                2.64,
+                3.36
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                3.36,
+                3.68
+            ]
+        },
+        {
+            "text": "order",
+            "timestamp": [
+                3.68,
+                4.24
+            ]
+        },
+        {
+            "text": "their",
+            "timestamp": [
+                4.24,
+                4.5600000000000005
+            ]
+        },
+        {
+            "text": "main",
+            "timestamp": [
+                4.5600000000000005,
+                4.88
+            ]
+        },
+        {
+            "text": "course",
+            "timestamp": [
+                5.12,
+                5.36
+            ]
+        },
+        {
+            "text": "too?",
+            "timestamp": [
+                5.68,
+                6.0
+            ]
+        }
+    ]
+}

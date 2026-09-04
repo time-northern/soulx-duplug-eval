@@ -1,0 +1,15 @@
+{
+  "final_duration": 25.4,
+  "speech_segments": [
+    {
+      "xmin": 0.5,
+      "xmax": 5.050000000000001,
+      "text": "sorry, can you say that again? i missed the beginning."
+    },
+    {
+      "xmin": 10.050000000000002,
+      "xmax": 15.4,
+      "text": ""
+    }
+  ]
+}

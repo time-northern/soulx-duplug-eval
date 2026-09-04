@@ -1,0 +1,271 @@
+{
+    "text": "What's a simple recipe for a beginner to make fluffy pancakes from scratch? Can I use oil instead of melted butter in the recipe? I should really sort through my winter sweater this weekend and organize the closest.",
+    "chunks": [
+        {
+            "text": "What's",
+            "timestamp": [
+                0.48,
+                0.88
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                0.88,
+                1.04
+            ]
+        },
+        {
+            "text": "simple",
+            "timestamp": [
+                1.04,
+                1.44
+            ]
+        },
+        {
+            "text": "recipe",
+            "timestamp": [
+                1.44,
+                1.92
+            ]
+        },
+        {
+            "text": "for",
+            "timestamp": [
+                1.92,
+                2.08
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                2.08,
+                2.16
+            ]
+        },
+        {
+            "text": "beginner",
+            "timestamp": [
+                2.16,
+                2.72
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                2.88,
+                3.12
+            ]
+        },
+        {
+            "text": "make",
+            "timestamp": [
+                3.12,
+                3.44
+            ]
+        },
+        {
+            "text": "fluffy",
+            "timestamp": [
+                3.44,
+                4.08
+            ]
+        },
+        {
+            "text": "pancakes",
+            "timestamp": [
+                4.08,
+                4.96
+            ]
+        },
+        {
+            "text": "from",
+            "timestamp": [
+                4.96,
+                5.28
+            ]
+        },
+        {
+            "text": "scratch?",
+            "timestamp": [
+                5.28,
+                6.16
+            ]
+        },
+        {
+            "text": "Can",
+            "timestamp": [
+                10.64,
+                11.040000000000001
+            ]
+        },
+        {
+            "text": "I",
+            "timestamp": [
+                11.040000000000001,
+                11.36
+            ]
+        },
+        {
+            "text": "use",
+            "timestamp": [
+                11.36,
+                11.68
+            ]
+        },
+        {
+            "text": "oil",
+            "timestamp": [
+                11.68,
+                12.32
+            ]
+        },
+        {
+            "text": "instead",
+            "timestamp": [
+                12.56,
+                13.36
+            ]
+        },
+        {
+            "text": "of",
+            "timestamp": [
+                13.36,
+                13.68
+            ]
+        },
+        {
+            "text": "melted",
+            "timestamp": [
+                13.68,
+                14.56
+            ]
+        },
+        {
+            "text": "butter",
+            "timestamp": [
+                14.56,
+                15.040000000000001
+            ]
+        },
+        {
+            "text": "in",
+            "timestamp": [
+                15.120000000000001,
+                15.36
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                15.36,
+                15.6
+            ]
+        },
+        {
+            "text": "recipe?",
+            "timestamp": [
+                15.6,
+                16.4
+            ]
+        },
+        {
+            "text": "I",
+            "timestamp": [
+                20.88,
+                21.2
+            ]
+        },
+        {
+            "text": "should",
+            "timestamp": [
+                21.2,
+                21.52
+            ]
+        },
+        {
+            "text": "really",
+            "timestamp": [
+                21.52,
+                21.84
+            ]
+        },
+        {
+            "text": "sort",
+            "timestamp": [
+                21.84,
+                22.080000000000002
+            ]
+        },
+        {
+            "text": "through",
+            "timestamp": [
+                22.72,
+                22.96
+            ]
+        },
+        {
+            "text": "my",
+            "timestamp": [
+                22.96,
+                23.2
+            ]
+        },
+        {
+            "text": "winter",
+            "timestamp": [
+                23.2,
+                23.6
+            ]
+        },
+        {
+            "text": "sweater",
+            "timestamp": [
+                23.6,
+                24.16
+            ]
+        },
+        {
+            "text": "this",
+            "timestamp": [
+                24.32,
+                24.48
+            ]
+        },
+        {
+            "text": "weekend",
+            "timestamp": [
+                24.48,
+                24.96
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                24.96,
+                25.2
+            ]
+        },
+        {
+            "text": "organize",
+            "timestamp": [
+                25.2,
+                25.76
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                25.76,
+                26.0
+            ]
+        },
+        {
+            "text": "closest.",
+            "timestamp": [
+                26.0,
+                26.88
+            ]
+        }
+    ]
+}

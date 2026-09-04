@@ -1,0 +1,15 @@
+{
+  "final_duration": 28.3,
+  "speech_segments": [
+    {
+      "xmin": 1.8499999999999996,
+      "xmax": 8.400000000000002,
+      "text": "how does currency volatility specifically impact user investments?"
+    },
+    {
+      "xmin": 13.400000000000002,
+      "xmax": 18.3,
+      "text": ""
+    }
+  ]
+}

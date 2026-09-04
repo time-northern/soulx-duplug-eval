@@ -1,0 +1,75 @@
+{
+    "text": "What kind of fabric is best for those reusable ribbons?",
+    "chunks": [
+        {
+            "text": "What",
+            "timestamp": [
+                0.56,
+                0.88
+            ]
+        },
+        {
+            "text": "kind",
+            "timestamp": [
+                0.88,
+                1.2
+            ]
+        },
+        {
+            "text": "of",
+            "timestamp": [
+                1.2,
+                1.36
+            ]
+        },
+        {
+            "text": "fabric",
+            "timestamp": [
+                1.52,
+                2.24
+            ]
+        },
+        {
+            "text": "is",
+            "timestamp": [
+                2.24,
+                2.56
+            ]
+        },
+        {
+            "text": "best",
+            "timestamp": [
+                2.56,
+                2.96
+            ]
+        },
+        {
+            "text": "for",
+            "timestamp": [
+                2.96,
+                3.2
+            ]
+        },
+        {
+            "text": "those",
+            "timestamp": [
+                3.2,
+                3.44
+            ]
+        },
+        {
+            "text": "reusable",
+            "timestamp": [
+                3.44,
+                4.4
+            ]
+        },
+        {
+            "text": "ribbons?",
+            "timestamp": [
+                4.4,
+                5.44
+            ]
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+  "final_duration": 26.4,
+  "speech_segments": [
+    {
+      "xmin": 1.5,
+      "xmax": 6.200000000000003,
+      "text": "sorry, could you repeat the benefits of acupuncture for chronic pain?"
+    },
+    {
+      "xmin": 11.2,
+      "xmax": 16.400000000000002,
+      "text": ""
+    }
+  ]
+}

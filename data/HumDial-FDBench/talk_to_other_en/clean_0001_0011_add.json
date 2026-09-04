@@ -1,0 +1,15 @@
+{
+  "final_duration": 27.15,
+  "speech_segments": [
+    {
+      "xmin": 1.0999999999999996,
+      "xmax": 5.149999999999999,
+      "text": "sorry, i missed that. could you say the breathing techniques again?"
+    },
+    {
+      "xmin": 10.149999999999999,
+      "xmax": 17.15,
+      "text": ""
+    }
+  ]
+}

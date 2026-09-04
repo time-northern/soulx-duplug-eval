@@ -1,0 +1,271 @@
+{
+    "text": "Why do I keep experiencing small misfortunes like spilling coffee and missing bases lately? How does stress specifically lead to these minor accidents? The temperature dropped so much last night, I had to dig out my winter coat.",
+    "chunks": [
+        {
+            "text": "Why",
+            "timestamp": [
+                0.64,
+                1.28
+            ]
+        },
+        {
+            "text": "do",
+            "timestamp": [
+                1.28,
+                1.6
+            ]
+        },
+        {
+            "text": "I",
+            "timestamp": [
+                1.6,
+                1.92
+            ]
+        },
+        {
+            "text": "keep",
+            "timestamp": [
+                1.92,
+                2.24
+            ]
+        },
+        {
+            "text": "experiencing",
+            "timestamp": [
+                2.24,
+                3.44
+            ]
+        },
+        {
+            "text": "small",
+            "timestamp": [
+                3.44,
+                4.08
+            ]
+        },
+        {
+            "text": "misfortunes",
+            "timestamp": [
+                4.08,
+                5.36
+            ]
+        },
+        {
+            "text": "like",
+            "timestamp": [
+                5.6000000000000005,
+                5.84
+            ]
+        },
+        {
+            "text": "spilling",
+            "timestamp": [
+                5.84,
+                6.48
+            ]
+        },
+        {
+            "text": "coffee",
+            "timestamp": [
+                6.48,
+                7.2
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                7.2,
+                7.5200000000000005
+            ]
+        },
+        {
+            "text": "missing",
+            "timestamp": [
+                7.5200000000000005,
+                8.0
+            ]
+        },
+        {
+            "text": "bases",
+            "timestamp": [
+                8.0,
+                8.72
+            ]
+        },
+        {
+            "text": "lately?",
+            "timestamp": [
+                8.72,
+                9.36
+            ]
+        },
+        {
+            "text": "How",
+            "timestamp": [
+                14.08,
+                14.32
+            ]
+        },
+        {
+            "text": "does",
+            "timestamp": [
+                14.32,
+                14.64
+            ]
+        },
+        {
+            "text": "stress",
+            "timestamp": [
+                14.64,
+                15.040000000000001
+            ]
+        },
+        {
+            "text": "specifically",
+            "timestamp": [
+                15.280000000000001,
+                16.16
+            ]
+        },
+        {
+            "text": "lead",
+            "timestamp": [
+                16.4,
+                16.72
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                16.72,
+                16.96
+            ]
+        },
+        {
+            "text": "these",
+            "timestamp": [
+                16.96,
+                17.2
+            ]
+        },
+        {
+            "text": "minor",
+            "timestamp": [
+                17.2,
+                17.68
+            ]
+        },
+        {
+            "text": "accidents?",
+            "timestamp": [
+                17.84,
+                18.8
+            ]
+        },
+        {
+            "text": "The",
+            "timestamp": [
+                23.28,
+                23.44
+            ]
+        },
+        {
+            "text": "temperature",
+            "timestamp": [
+                23.44,
+                24.240000000000002
+            ]
+        },
+        {
+            "text": "dropped",
+            "timestamp": [
+                24.240000000000002,
+                24.72
+            ]
+        },
+        {
+            "text": "so",
+            "timestamp": [
+                24.72,
+                25.04
+            ]
+        },
+        {
+            "text": "much",
+            "timestamp": [
+                25.04,
+                25.36
+            ]
+        },
+        {
+            "text": "last",
+            "timestamp": [
+                25.36,
+                25.6
+            ]
+        },
+        {
+            "text": "night,",
+            "timestamp": [
+                25.6,
+                25.92
+            ]
+        },
+        {
+            "text": "I",
+            "timestamp": [
+                26.240000000000002,
+                26.48
+            ]
+        },
+        {
+            "text": "had",
+            "timestamp": [
+                26.48,
+                26.64
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                26.64,
+                26.88
+            ]
+        },
+        {
+            "text": "dig",
+            "timestamp": [
+                26.88,
+                27.2
+            ]
+        },
+        {
+            "text": "out",
+            "timestamp": [
+                27.2,
+                27.36
+            ]
+        },
+        {
+            "text": "my",
+            "timestamp": [
+                27.36,
+                27.52
+            ]
+        },
+        {
+            "text": "winter",
+            "timestamp": [
+                27.52,
+                27.92
+            ]
+        },
+        {
+            "text": "coat.",
+            "timestamp": [
+                27.92,
+                28.560000000000002
+            ]
+        }
+    ]
+}

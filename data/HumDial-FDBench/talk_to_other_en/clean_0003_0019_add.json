@@ -1,0 +1,15 @@
+{
+  "final_duration": 26.65,
+  "speech_segments": [
+    {
+      "xmin": 0.6499999999999986,
+      "xmax": 5.899999999999999,
+      "text": "can i use oil instead of melted butter in the recipe?"
+    },
+    {
+      "xmin": 10.899999999999999,
+      "xmax": 16.65,
+      "text": ""
+    }
+  ]
+}

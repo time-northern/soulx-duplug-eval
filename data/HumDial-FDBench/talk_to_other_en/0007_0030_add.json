@@ -1,0 +1,20 @@
+{
+  "final_duration": 40.300000000000004,
+  "speech_segments": [
+    {
+      "xmin": 0.5,
+      "xmax": 7.45,
+      "text": "why do libras always make the worst decisions at restaurants?"
+    },
+    {
+      "xmin": 12.45,
+      "xmax": 17.75,
+      "text": "does that mean they take forever to order their main course too?"
+    },
+    {
+      "xmin": 22.75,
+      "xmax": 30.3,
+      "text": "i wonder if the museum has any special exhibits on ancient egyptian artifacts this month."
+    }
+  ]
+}

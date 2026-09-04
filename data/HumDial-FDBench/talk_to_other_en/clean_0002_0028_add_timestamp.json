@@ -1,0 +1,68 @@
+{
+    "text": "What specific songs should I focus on miniking first?",
+    "chunks": [
+        {
+            "text": "What",
+            "timestamp": [
+                0.56,
+                0.88
+            ]
+        },
+        {
+            "text": "specific",
+            "timestamp": [
+                0.88,
+                1.84
+            ]
+        },
+        {
+            "text": "songs",
+            "timestamp": [
+                1.84,
+                2.56
+            ]
+        },
+        {
+            "text": "should",
+            "timestamp": [
+                2.56,
+                2.8000000000000003
+            ]
+        },
+        {
+            "text": "I",
+            "timestamp": [
+                2.8000000000000003,
+                3.04
+            ]
+        },
+        {
+            "text": "focus",
+            "timestamp": [
+                3.04,
+                3.68
+            ]
+        },
+        {
+            "text": "on",
+            "timestamp": [
+                3.68,
+                4.0
+            ]
+        },
+        {
+            "text": "miniking",
+            "timestamp": [
+                4.32,
+                5.5200000000000005
+            ]
+        },
+        {
+            "text": "first?",
+            "timestamp": [
+                5.5200000000000005,
+                5.84
+            ]
+        }
+    ]
+}

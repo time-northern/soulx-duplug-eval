@@ -1,0 +1,15 @@
+{
+  "final_duration": 24.95,
+  "speech_segments": [
+    {
+      "xmin": 0.6000000000000014,
+      "xmax": 4.899999999999999,
+      "text": "how small should these steps be to stay motivated?"
+    },
+    {
+      "xmin": 9.899999999999999,
+      "xmax": 14.95,
+      "text": ""
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+    "text": "Which specific watch brands are known for their heritage?",
+    "chunks": [
+        {
+            "text": "Which",
+            "timestamp": [
+                0.32,
+                0.88
+            ]
+        },
+        {
+            "text": "specific",
+            "timestamp": [
+                0.88,
+                1.84
+            ]
+        },
+        {
+            "text": "watch",
+            "timestamp": [
+                1.84,
+                2.48
+            ]
+        },
+        {
+            "text": "brands",
+            "timestamp": [
+                2.8000000000000003,
+                3.68
+            ]
+        },
+        {
+            "text": "are",
+            "timestamp": [
+                3.68,
+                4.0
+            ]
+        },
+        {
+            "text": "known",
+            "timestamp": [
+                4.0,
+                4.64
+            ]
+        },
+        {
+            "text": "for",
+            "timestamp": [
+                4.64,
+                4.96
+            ]
+        },
+        {
+            "text": "their",
+            "timestamp": [
+                4.96,
+                5.28
+            ]
+        },
+        {
+            "text": "heritage?",
+            "timestamp": [
+                5.28,
+                6.5600000000000005
+            ]
+        }
+    ]
+}

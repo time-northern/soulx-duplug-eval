@@ -1,0 +1,15 @@
+{
+  "final_duration": 25.75,
+  "speech_segments": [
+    {
+      "xmin": 0.40000000000000036,
+      "xmax": 6.400000000000002,
+      "text": "how do these laws specifically address veterinary care requirements?"
+    },
+    {
+      "xmin": 11.400000000000002,
+      "xmax": 15.750000000000004,
+      "text": ""
+    }
+  ]
+}

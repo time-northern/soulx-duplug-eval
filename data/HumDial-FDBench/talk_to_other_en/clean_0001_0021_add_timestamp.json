@@ -1,0 +1,82 @@
+{
+    "text": "Sorry, could you repeat the benefits of acupuncture for chronic pain?",
+    "chunks": [
+        {
+            "text": "Sorry,",
+            "timestamp": [
+                1.28,
+                1.92
+            ]
+        },
+        {
+            "text": "could",
+            "timestamp": [
+                2.08,
+                2.24
+            ]
+        },
+        {
+            "text": "you",
+            "timestamp": [
+                2.24,
+                2.4
+            ]
+        },
+        {
+            "text": "repeat",
+            "timestamp": [
+                2.4,
+                2.72
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                2.72,
+                2.88
+            ]
+        },
+        {
+            "text": "benefits",
+            "timestamp": [
+                2.88,
+                3.44
+            ]
+        },
+        {
+            "text": "of",
+            "timestamp": [
+                3.44,
+                3.6
+            ]
+        },
+        {
+            "text": "acupuncture",
+            "timestamp": [
+                3.6,
+                4.88
+            ]
+        },
+        {
+            "text": "for",
+            "timestamp": [
+                4.88,
+                5.2
+            ]
+        },
+        {
+            "text": "chronic",
+            "timestamp": [
+                5.2,
+                6.16
+            ]
+        },
+        {
+            "text": "pain?",
+            "timestamp": [
+                6.16,
+                6.8
+            ]
+        }
+    ]
+}

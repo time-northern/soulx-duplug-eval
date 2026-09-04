@@ -1,0 +1,15 @@
+{
+  "final_duration": 29.4,
+  "speech_segments": [
+    {
+      "xmin": 1.25,
+      "xmax": 7.650000000000004,
+      "text": "what font styles are typically recommended for engraving to ensure clarity?"
+    },
+    {
+      "xmin": 12.65,
+      "xmax": 19.4,
+      "text": ""
+    }
+  ]
+}

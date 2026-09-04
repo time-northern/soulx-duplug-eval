@@ -1,0 +1,20 @@
+{
+  "final_duration": 32.05,
+  "speech_segments": [
+    {
+      "xmin": 0.3,
+      "xmax": 5.45,
+      "text": "do people with different blood types tend to prefer specific game genres?"
+    },
+    {
+      "xmin": 10.45,
+      "xmax": 13.25,
+      "text": "sorry, i missed that. could you say it again?"
+    },
+    {
+      "xmin": 18.25,
+      "xmax": 22.05,
+      "text": "i'm thinking of going hiking this weekend if the weather stays clear."
+    }
+  ]
+}

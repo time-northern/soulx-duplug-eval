@@ -1,0 +1,89 @@
+{
+    "text": "Sorry, I missed that, could you repeat the key benefits of apps?",
+    "chunks": [
+        {
+            "text": "Sorry,",
+            "timestamp": [
+                0.32,
+                1.12
+            ]
+        },
+        {
+            "text": "I",
+            "timestamp": [
+                1.36,
+                1.52
+            ]
+        },
+        {
+            "text": "missed",
+            "timestamp": [
+                1.52,
+                1.92
+            ]
+        },
+        {
+            "text": "that,",
+            "timestamp": [
+                2.16,
+                2.48
+            ]
+        },
+        {
+            "text": "could",
+            "timestamp": [
+                2.8000000000000003,
+                2.88
+            ]
+        },
+        {
+            "text": "you",
+            "timestamp": [
+                3.04,
+                3.2
+            ]
+        },
+        {
+            "text": "repeat",
+            "timestamp": [
+                3.2,
+                3.68
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                3.68,
+                3.92
+            ]
+        },
+        {
+            "text": "key",
+            "timestamp": [
+                3.92,
+                4.24
+            ]
+        },
+        {
+            "text": "benefits",
+            "timestamp": [
+                4.24,
+                4.88
+            ]
+        },
+        {
+            "text": "of",
+            "timestamp": [
+                4.88,
+                5.04
+            ]
+        },
+        {
+            "text": "apps?",
+            "timestamp": [
+                5.2,
+                6.16
+            ]
+        }
+    ]
+}

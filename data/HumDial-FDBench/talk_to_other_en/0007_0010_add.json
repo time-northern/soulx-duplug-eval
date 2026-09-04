@@ -1,0 +1,20 @@
+{
+  "final_duration": 38.050000000000004,
+  "speech_segments": [
+    {
+      "xmin": 0.55,
+      "xmax": 7.1,
+      "text": "what's the best way to maintain battery health for my smartphone over the long term?"
+    },
+    {
+      "xmin": 12.1,
+      "xmax": 16.65,
+      "text": "does fast charging harm the battery more than regular charging?"
+    },
+    {
+      "xmin": 21.65,
+      "xmax": 28.050000000000004,
+      "text": "do you think we should bring a portable grill for our camping trip next week?"
+    }
+  ]
+}

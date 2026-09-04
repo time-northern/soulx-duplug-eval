@@ -1,0 +1,20 @@
+{
+  "final_duration": 37.349999999999994,
+  "speech_segments": [
+    {
+      "xmin": 0.65,
+      "xmax": 6.6,
+      "text": "how can i practice contentment in my daily life when facing constant pressure?"
+    },
+    {
+      "xmin": 11.6,
+      "xmax": 17.2,
+      "text": "what if i struggle to find those small moments during a busy day?"
+    },
+    {
+      "xmin": 22.2,
+      "xmax": 27.349999999999998,
+      "text": "i need to buy new sneakers for my morning jog, maybe check the mall this weekend."
+    }
+  ]
+}

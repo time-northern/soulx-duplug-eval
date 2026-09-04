@@ -1,0 +1,15 @@
+{
+  "final_duration": 29.25,
+  "speech_segments": [
+    {
+      "xmin": 0.75,
+      "xmax": 7.700000000000001,
+      "text": "what specific projects has the dicaprio foundation supported recently?"
+    },
+    {
+      "xmin": 12.699999999999998,
+      "xmax": 19.250000000000007,
+      "text": ""
+    }
+  ]
+}

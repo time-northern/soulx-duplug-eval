@@ -1,0 +1,257 @@
+{
+    "text": "What are the main categories of stomach medications and their primary uses? How quickly do anteses typically start working after taking them? When does a central heating supply usually start operating in our building during winter?",
+    "chunks": [
+        {
+            "text": "What",
+            "timestamp": [
+                0.32,
+                0.64
+            ]
+        },
+        {
+            "text": "are",
+            "timestamp": [
+                0.64,
+                0.8
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                0.8,
+                0.96
+            ]
+        },
+        {
+            "text": "main",
+            "timestamp": [
+                0.96,
+                1.28
+            ]
+        },
+        {
+            "text": "categories",
+            "timestamp": [
+                1.28,
+                2.0
+            ]
+        },
+        {
+            "text": "of",
+            "timestamp": [
+                2.0,
+                2.16
+            ]
+        },
+        {
+            "text": "stomach",
+            "timestamp": [
+                2.16,
+                2.8000000000000003
+            ]
+        },
+        {
+            "text": "medications",
+            "timestamp": [
+                2.96,
+                4.0
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                4.24,
+                4.5600000000000005
+            ]
+        },
+        {
+            "text": "their",
+            "timestamp": [
+                4.5600000000000005,
+                4.88
+            ]
+        },
+        {
+            "text": "primary",
+            "timestamp": [
+                4.88,
+                5.68
+            ]
+        },
+        {
+            "text": "uses?",
+            "timestamp": [
+                5.68,
+                6.24
+            ]
+        },
+        {
+            "text": "How",
+            "timestamp": [
+                10.96,
+                11.200000000000001
+            ]
+        },
+        {
+            "text": "quickly",
+            "timestamp": [
+                11.200000000000001,
+                11.68
+            ]
+        },
+        {
+            "text": "do",
+            "timestamp": [
+                11.68,
+                11.92
+            ]
+        },
+        {
+            "text": "anteses",
+            "timestamp": [
+                11.92,
+                12.72
+            ]
+        },
+        {
+            "text": "typically",
+            "timestamp": [
+                12.96,
+                13.84
+            ]
+        },
+        {
+            "text": "start",
+            "timestamp": [
+                14.16,
+                14.48
+            ]
+        },
+        {
+            "text": "working",
+            "timestamp": [
+                14.8,
+                15.44
+            ]
+        },
+        {
+            "text": "after",
+            "timestamp": [
+                15.44,
+                15.68
+            ]
+        },
+        {
+            "text": "taking",
+            "timestamp": [
+                16.0,
+                16.64
+            ]
+        },
+        {
+            "text": "them?",
+            "timestamp": [
+                16.64,
+                16.88
+            ]
+        },
+        {
+            "text": "When",
+            "timestamp": [
+                21.36,
+                21.68
+            ]
+        },
+        {
+            "text": "does",
+            "timestamp": [
+                21.68,
+                21.92
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                21.92,
+                22.080000000000002
+            ]
+        },
+        {
+            "text": "central",
+            "timestamp": [
+                22.080000000000002,
+                22.64
+            ]
+        },
+        {
+            "text": "heating",
+            "timestamp": [
+                22.64,
+                23.12
+            ]
+        },
+        {
+            "text": "supply",
+            "timestamp": [
+                23.12,
+                23.76
+            ]
+        },
+        {
+            "text": "usually",
+            "timestamp": [
+                23.76,
+                24.400000000000002
+            ]
+        },
+        {
+            "text": "start",
+            "timestamp": [
+                24.400000000000002,
+                24.72
+            ]
+        },
+        {
+            "text": "operating",
+            "timestamp": [
+                24.72,
+                25.68
+            ]
+        },
+        {
+            "text": "in",
+            "timestamp": [
+                25.68,
+                25.92
+            ]
+        },
+        {
+            "text": "our",
+            "timestamp": [
+                25.92,
+                26.16
+            ]
+        },
+        {
+            "text": "building",
+            "timestamp": [
+                26.16,
+                26.72
+            ]
+        },
+        {
+            "text": "during",
+            "timestamp": [
+                26.72,
+                27.12
+            ]
+        },
+        {
+            "text": "winter?",
+            "timestamp": [
+                27.12,
+                27.92
+            ]
+        }
+    ]
+}

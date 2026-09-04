@@ -1,0 +1,20 @@
+{
+  "final_duration": 35.2,
+  "speech_segments": [
+    {
+      "xmin": 0.65,
+      "xmax": 5.1,
+      "text": "what are the key characteristics of traditional chinese paper-cutting art?"
+    },
+    {
+      "xmin": 10.1,
+      "xmax": 14.200000000000001,
+      "text": "why is red paper specifically chosen for these cuttings?"
+    },
+    {
+      "xmin": 19.200000000000003,
+      "xmax": 25.2,
+      "text": "do you think we'll have good powder conditions for skiing in aspen next week?"
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+    "text": "What are some traditional nursery rhymes from your hometown and what do they symbolize? How does the rhymes imagery connect to local culture? I'm considering booking a spa massage this weekend to relax my muscles.",
+    "chunks": [
+        {
+            "text": "What",
+            "timestamp": [
+                0.64,
+                0.96
+            ]
+        },
+        {
+            "text": "are",
+            "timestamp": [
+                1.12,
+                1.36
+            ]
+        },
+        {
+            "text": "some",
+            "timestamp": [
+                1.36,
+                1.6
+            ]
+        },
+        {
+            "text": "traditional",
+            "timestamp": [
+                1.6,
+                2.32
+            ]
+        },
+        {
+            "text": "nursery",
+            "timestamp": [
+                2.32,
+                2.96
+            ]
+        },
+        {
+            "text": "rhymes",
+            "timestamp": [
+                2.96,
+                3.68
+            ]
+        },
+        {
+            "text": "from",
+            "timestamp": [
+                3.68,
+                3.92
+            ]
+        },
+        {
+            "text": "your",
+            "timestamp": [
+                3.92,
+                4.16
+            ]
+        },
+        {
+            "text": "hometown",
+            "timestamp": [
+                4.16,
+                4.8
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                5.04,
+                5.28
+            ]
+        },
+        {
+            "text": "what",
+            "timestamp": [
+                5.28,
+                5.6000000000000005
+            ]
+        },
+        {
+            "text": "do",
+            "timestamp": [
+                5.6000000000000005,
+                5.76
+            ]
+        },
+        {
+            "text": "they",
+            "timestamp": [
+                5.76,
+                6.0
+            ]
+        },
+        {
+            "text": "symbolize?",
+            "timestamp": [
+                6.0,
+                7.04
+            ]
+        },
+        {
+            "text": "How",
+            "timestamp": [
+                11.76,
+                12.08
+            ]
+        },
+        {
+            "text": "does",
+            "timestamp": [
+                12.08,
+                12.4
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                12.4,
+                12.72
+            ]
+        },
+        {
+            "text": "rhymes",
+            "timestamp": [
+                12.72,
+                13.36
+            ]
+        },
+        {
+            "text": "imagery",
+            "timestamp": [
+                13.68,
+                14.4
+            ]
+        },
+        {
+            "text": "connect",
+            "timestamp": [
+                14.4,
+                14.8
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                14.8,
+                15.040000000000001
+            ]
+        },
+        {
+            "text": "local",
+            "timestamp": [
+                15.040000000000001,
+                15.6
+            ]
+        },
+        {
+            "text": "culture?",
+            "timestamp": [
+                15.6,
+                16.48
+            ]
+        },
+        {
+            "text": "I'm",
+            "timestamp": [
+                20.8,
+                21.2
+            ]
+        },
+        {
+            "text": "considering",
+            "timestamp": [
+                21.2,
+                21.84
+            ]
+        },
+        {
+            "text": "booking",
+            "timestamp": [
+                21.84,
+                22.240000000000002
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                22.240000000000002,
+                22.400000000000002
+            ]
+        },
+        {
+            "text": "spa",
+            "timestamp": [
+                22.400000000000002,
+                22.8
+            ]
+        },
+        {
+            "text": "massage",
+            "timestamp": [
+                22.8,
+                23.52
+            ]
+        },
+        {
+            "text": "this",
+            "timestamp": [
+                23.52,
+                23.76
+            ]
+        },
+        {
+            "text": "weekend",
+            "timestamp": [
+                23.76,
+                24.32
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                24.400000000000002,
+                24.64
+            ]
+        },
+        {
+            "text": "relax",
+            "timestamp": [
+                24.64,
+                25.12
+            ]
+        },
+        {
+            "text": "my",
+            "timestamp": [
+                25.12,
+                25.36
+            ]
+        },
+        {
+            "text": "muscles.",
+            "timestamp": [
+                25.36,
+                26.560000000000002
+            ]
+        }
+    ]
+}

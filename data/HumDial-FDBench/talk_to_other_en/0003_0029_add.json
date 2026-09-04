@@ -1,0 +1,20 @@
+{
+  "final_duration": 42.05,
+  "speech_segments": [
+    {
+      "xmin": 0.95,
+      "xmax": 9.1,
+      "text": "what are some easily accessible foods that can help improve blood circulation and increase hemoglobin levels?"
+    },
+    {
+      "xmin": 14.1,
+      "xmax": 19.85,
+      "text": "how much spinach should i eat daily to see a noticeable improvement?"
+    },
+    {
+      "xmin": 24.85,
+      "xmax": 32.05,
+      "text": "i wonder if walking on icy sidewalks increases the risk of frostbite on toes."
+    }
+  ]
+}

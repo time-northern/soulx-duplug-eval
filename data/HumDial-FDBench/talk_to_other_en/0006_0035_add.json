@@ -1,0 +1,20 @@
+{
+  "final_duration": 42.400000000000006,
+  "speech_segments": [
+    {
+      "xmin": 0.7,
+      "xmax": 8.45,
+      "text": "what are some unique traditional foods eaten during the mid-autumn festival in different asian cultures?"
+    },
+    {
+      "xmin": 13.45,
+      "xmax": 19.6,
+      "text": "are there any regional variations in the flavors of mooncakes across china?"
+    },
+    {
+      "xmin": 24.599999999999998,
+      "xmax": 32.400000000000006,
+      "text": "i wonder if the temperature will drop significantly after the start of winter solar term this year."
+    }
+  ]
+}

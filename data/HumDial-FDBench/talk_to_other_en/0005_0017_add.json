@@ -1,0 +1,20 @@
+{
+  "final_duration": 32.95,
+  "speech_segments": [
+    {
+      "xmin": 0.75,
+      "xmax": 4.6,
+      "text": "what's the most embarrassing food story you've heard?"
+    },
+    {
+      "xmin": 9.6,
+      "xmax": 13.05,
+      "text": "could you say that again? i missed the beginning."
+    },
+    {
+      "xmin": 18.05,
+      "xmax": 22.95,
+      "text": "i think i need to start doing more squats during my workouts."
+    }
+  ]
+}

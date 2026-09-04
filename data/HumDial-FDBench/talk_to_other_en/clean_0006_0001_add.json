@@ -1,0 +1,15 @@
+{
+  "final_duration": 27.8,
+  "speech_segments": [
+    {
+      "xmin": 0.6500000000000004,
+      "xmax": 5.600000000000001,
+      "text": "how do i use the inside of my foot properly for control?"
+    },
+    {
+      "xmin": 10.600000000000001,
+      "xmax": 17.8,
+      "text": ""
+    }
+  ]
+}

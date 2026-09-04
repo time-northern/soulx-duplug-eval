@@ -1,0 +1,20 @@
+{
+  "final_duration": 37.0,
+  "speech_segments": [
+    {
+      "xmin": 0.95,
+      "xmax": 7.0,
+      "text": "what factors typically influence the pricing of prescription medications in the united states?"
+    },
+    {
+      "xmin": 12.0,
+      "xmax": 16.35,
+      "text": "how long does that patent protection usually last for a new drug?"
+    },
+    {
+      "xmin": 21.35,
+      "xmax": 27.0,
+      "text": "i need to check the schedule for the park cleanup volunteer event this weekend."
+    }
+  ]
+}

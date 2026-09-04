@@ -1,0 +1,68 @@
+{
+    "text": "Which eco-friendly materials are most cost effective for startups",
+    "chunks": [
+        {
+            "text": "Which",
+            "timestamp": [
+                0.64,
+                1.28
+            ]
+        },
+        {
+            "text": "eco-friendly",
+            "timestamp": [
+                1.52,
+                2.88
+            ]
+        },
+        {
+            "text": "materials",
+            "timestamp": [
+                2.88,
+                3.84
+            ]
+        },
+        {
+            "text": "are",
+            "timestamp": [
+                3.84,
+                4.16
+            ]
+        },
+        {
+            "text": "most",
+            "timestamp": [
+                4.16,
+                4.48
+            ]
+        },
+        {
+            "text": "cost",
+            "timestamp": [
+                4.48,
+                4.88
+            ]
+        },
+        {
+            "text": "effective",
+            "timestamp": [
+                5.04,
+                6.0
+            ]
+        },
+        {
+            "text": "for",
+            "timestamp": [
+                6.32,
+                6.640000000000001
+            ]
+        },
+        {
+            "text": "startups",
+            "timestamp": [
+                6.640000000000001,
+                7.84
+            ]
+        }
+    ]
+}

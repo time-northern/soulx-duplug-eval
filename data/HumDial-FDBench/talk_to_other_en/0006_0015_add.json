@@ -1,0 +1,20 @@
+{
+  "final_duration": 40.85,
+  "speech_segments": [
+    {
+      "xmin": 0.85,
+      "xmax": 7.15,
+      "text": "what are some key characteristics of film noir lighting in classic movies?"
+    },
+    {
+      "xmin": 12.15,
+      "xmax": 20.05,
+      "text": "how did they achieve those sharp shadow effects with the equipment available in the 1940s?"
+    },
+    {
+      "xmin": 25.05,
+      "xmax": 30.85,
+      "text": "the constellation orion is particularly bright when observing the night sky this month."
+    }
+  ]
+}

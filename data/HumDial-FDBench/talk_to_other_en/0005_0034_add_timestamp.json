@@ -1,0 +1,243 @@
+{
+    "text": "What's the ideal time to visit Japan for cherry blossom viewing? Does this timing vary significantly between northern and southern regions? The recent report shows global warming is accelerating faster than previous models predicted.",
+    "chunks": [
+        {
+            "text": "What's",
+            "timestamp": [
+                0.64,
+                1.2
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                1.2,
+                1.52
+            ]
+        },
+        {
+            "text": "ideal",
+            "timestamp": [
+                1.52,
+                2.24
+            ]
+        },
+        {
+            "text": "time",
+            "timestamp": [
+                2.24,
+                2.48
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                2.48,
+                2.72
+            ]
+        },
+        {
+            "text": "visit",
+            "timestamp": [
+                2.72,
+                3.2
+            ]
+        },
+        {
+            "text": "Japan",
+            "timestamp": [
+                3.2,
+                3.92
+            ]
+        },
+        {
+            "text": "for",
+            "timestamp": [
+                3.92,
+                4.16
+            ]
+        },
+        {
+            "text": "cherry",
+            "timestamp": [
+                4.16,
+                4.72
+            ]
+        },
+        {
+            "text": "blossom",
+            "timestamp": [
+                4.72,
+                5.28
+            ]
+        },
+        {
+            "text": "viewing?",
+            "timestamp": [
+                5.28,
+                6.16
+            ]
+        },
+        {
+            "text": "Does",
+            "timestamp": [
+                10.56,
+                10.96
+            ]
+        },
+        {
+            "text": "this",
+            "timestamp": [
+                10.96,
+                11.28
+            ]
+        },
+        {
+            "text": "timing",
+            "timestamp": [
+                11.28,
+                11.92
+            ]
+        },
+        {
+            "text": "vary",
+            "timestamp": [
+                11.92,
+                12.4
+            ]
+        },
+        {
+            "text": "significantly",
+            "timestamp": [
+                12.4,
+                13.92
+            ]
+        },
+        {
+            "text": "between",
+            "timestamp": [
+                13.92,
+                14.24
+            ]
+        },
+        {
+            "text": "northern",
+            "timestamp": [
+                14.24,
+                15.040000000000001
+            ]
+        },
+        {
+            "text": "and",
+            "timestamp": [
+                15.040000000000001,
+                15.36
+            ]
+        },
+        {
+            "text": "southern",
+            "timestamp": [
+                15.36,
+                16.4
+            ]
+        },
+        {
+            "text": "regions?",
+            "timestamp": [
+                16.4,
+                17.04
+            ]
+        },
+        {
+            "text": "The",
+            "timestamp": [
+                21.92,
+                22.240000000000002
+            ]
+        },
+        {
+            "text": "recent",
+            "timestamp": [
+                22.240000000000002,
+                22.88
+            ]
+        },
+        {
+            "text": "report",
+            "timestamp": [
+                22.88,
+                23.52
+            ]
+        },
+        {
+            "text": "shows",
+            "timestamp": [
+                23.68,
+                24.240000000000002
+            ]
+        },
+        {
+            "text": "global",
+            "timestamp": [
+                24.240000000000002,
+                24.8
+            ]
+        },
+        {
+            "text": "warming",
+            "timestamp": [
+                24.8,
+                25.84
+            ]
+        },
+        {
+            "text": "is",
+            "timestamp": [
+                25.84,
+                26.16
+            ]
+        },
+        {
+            "text": "accelerating",
+            "timestamp": [
+                26.16,
+                27.6
+            ]
+        },
+        {
+            "text": "faster",
+            "timestamp": [
+                27.6,
+                28.560000000000002
+            ]
+        },
+        {
+            "text": "than",
+            "timestamp": [
+                28.560000000000002,
+                28.88
+            ]
+        },
+        {
+            "text": "previous",
+            "timestamp": [
+                28.88,
+                29.76
+            ]
+        },
+        {
+            "text": "models",
+            "timestamp": [
+                30.080000000000002,
+                31.04
+            ]
+        },
+        {
+            "text": "predicted.",
+            "timestamp": [
+                31.04,
+                32.32
+            ]
+        }
+    ]
+}

@@ -1,4 +1,7 @@
-/data/
+/data/*
+!/data/HumDial-FDBench/
+!/data/SID-bench/
+/data/**/*.zip
 /output/
 
 __pycache__/

@@ -1,0 +1,68 @@
+{
+    "text": "Why are their waters particularly calm during that month?",
+    "chunks": [
+        {
+            "text": "Why",
+            "timestamp": [
+                0.32,
+                0.72
+            ]
+        },
+        {
+            "text": "are",
+            "timestamp": [
+                0.72,
+                0.96
+            ]
+        },
+        {
+            "text": "their",
+            "timestamp": [
+                0.96,
+                1.28
+            ]
+        },
+        {
+            "text": "waters",
+            "timestamp": [
+                1.28,
+                1.92
+            ]
+        },
+        {
+            "text": "particularly",
+            "timestamp": [
+                1.92,
+                2.72
+            ]
+        },
+        {
+            "text": "calm",
+            "timestamp": [
+                2.72,
+                3.2800000000000002
+            ]
+        },
+        {
+            "text": "during",
+            "timestamp": [
+                3.2800000000000002,
+                3.6
+            ]
+        },
+        {
+            "text": "that",
+            "timestamp": [
+                3.6,
+                3.7600000000000002
+            ]
+        },
+        {
+            "text": "month?",
+            "timestamp": [
+                4.08,
+                4.72
+            ]
+        }
+    ]
+}

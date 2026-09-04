@@ -1,0 +1,15 @@
+{
+  "final_duration": 25.25,
+  "speech_segments": [
+    {
+      "xmin": 0.8000000000000007,
+      "xmax": 5.449999999999999,
+      "text": "what specific weather conditions make fishing so dangerous?"
+    },
+    {
+      "xmin": 10.45,
+      "xmax": 15.250000000000004,
+      "text": ""
+    }
+  ]
+}

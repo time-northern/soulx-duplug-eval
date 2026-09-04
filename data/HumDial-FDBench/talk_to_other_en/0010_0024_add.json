@@ -1,0 +1,20 @@
+{
+  "final_duration": 34.0,
+  "speech_segments": [
+    {
+      "xmin": 0.3,
+      "xmax": 6.45,
+      "text": "what are some trendy hairstyles for medium-length hair this season?"
+    },
+    {
+      "xmin": 11.45,
+      "xmax": 14.5,
+      "text": "how do curtain bangs work with different face shapes?"
+    },
+    {
+      "xmin": 19.5,
+      "xmax": 24.000000000000004,
+      "text": "the barometric pressure is dropping rapidly, do you think it will rain soon?"
+    }
+  ]
+}

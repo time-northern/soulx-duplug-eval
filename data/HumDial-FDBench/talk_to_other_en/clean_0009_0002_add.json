@@ -1,0 +1,15 @@
+{
+  "final_duration": 25.95,
+  "speech_segments": [
+    {
+      "xmin": 0.9499999999999993,
+      "xmax": 5.300000000000001,
+      "text": "how long does that patent protection usually last for a new drug?"
+    },
+    {
+      "xmin": 10.3,
+      "xmax": 15.95,
+      "text": ""
+    }
+  ]
+}

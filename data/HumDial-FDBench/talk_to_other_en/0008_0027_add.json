@@ -1,0 +1,20 @@
+{
+  "final_duration": 41.14999999999999,
+  "speech_segments": [
+    {
+      "xmin": 1.0,
+      "xmax": 8.2,
+      "text": "what are some effective ways to give genuine compliments in a professional setting?"
+    },
+    {
+      "xmin": 13.2,
+      "xmax": 19.85,
+      "text": "how do i make sure my compliment doesn't sound like empty flattery?"
+    },
+    {
+      "xmin": 24.85,
+      "xmax": 31.15,
+      "text": "the cold index is quite high today, so i should probably wear a warmer coat."
+    }
+  ]
+}

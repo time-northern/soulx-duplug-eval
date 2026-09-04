@@ -1,0 +1,15 @@
+{
+  "final_duration": 26.45,
+  "speech_segments": [
+    {
+      "xmin": 0.5500000000000007,
+      "xmax": 5.449999999999999,
+      "text": "sorry, i missed that. could you repeat the key benefits of abs?"
+    },
+    {
+      "xmin": 10.45,
+      "xmax": 16.45,
+      "text": ""
+    }
+  ]
+}

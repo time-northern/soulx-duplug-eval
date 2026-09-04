@@ -1,0 +1,15 @@
+{
+  "final_duration": 27.95,
+  "speech_segments": [
+    {
+      "xmin": 0.9499999999999993,
+      "xmax": 6.25,
+      "text": "sorry, i missed that. could you repeat the mid-autumn customs you mentioned?"
+    },
+    {
+      "xmin": 11.25,
+      "xmax": 17.950000000000003,
+      "text": ""
+    }
+  ]
+}

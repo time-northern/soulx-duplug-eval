@@ -1,0 +1,15 @@
+{
+  "final_duration": 28.9,
+  "speech_segments": [
+    {
+      "xmin": 0.9499999999999993,
+      "xmax": 6.700000000000001,
+      "text": "how much spinach should i eat daily to see a noticeable improvement?"
+    },
+    {
+      "xmin": 11.700000000000001,
+      "xmax": 18.9,
+      "text": ""
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "final_duration": 28.9,
+  "speech_segments": [
+    {
+      "xmin": 0.75,
+      "xmax": 7.5,
+      "text": "what specific features make digital wallets more accessible than traditional banking?"
+    },
+    {
+      "xmin": 12.5,
+      "xmax": 18.900000000000002,
+      "text": ""
+    }
+  ]
+}

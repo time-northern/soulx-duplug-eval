@@ -1,0 +1,20 @@
+{
+  "final_duration": 34.849999999999994,
+  "speech_segments": [
+    {
+      "xmin": 0.6,
+      "xmax": 5.4,
+      "text": "what are some eco-friendly ways to celebrate christmas while reducing waste?"
+    },
+    {
+      "xmin": 10.4,
+      "xmax": 14.7,
+      "text": "what kind of fabric is best for those reusable ribbons?"
+    },
+    {
+      "xmin": 19.700000000000003,
+      "xmax": 24.85,
+      "text": "do you think the air purifier in the living room needs its filter replaced soon?"
+    }
+  ]
+}

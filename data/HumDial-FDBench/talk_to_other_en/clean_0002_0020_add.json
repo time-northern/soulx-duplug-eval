@@ -1,0 +1,15 @@
+{
+  "final_duration": 24.8,
+  "speech_segments": [
+    {
+      "xmin": 0.9000000000000004,
+      "xmax": 5.149999999999999,
+      "text": "how does stress specifically lead to these minor accidents?"
+    },
+    {
+      "xmin": 10.149999999999999,
+      "xmax": 14.799999999999997,
+      "text": ""
+    }
+  ]
+}

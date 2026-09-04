@@ -1,0 +1,20 @@
+{
+  "final_duration": 35.8,
+  "speech_segments": [
+    {
+      "xmin": 0.7,
+      "xmax": 5.75,
+      "text": "what are some creative gift ideas for a friend who loves gardening?"
+    },
+    {
+      "xmin": 10.75,
+      "xmax": 15.8,
+      "text": "sorry, could you repeat those gift ideas for gardening lovers?"
+    },
+    {
+      "xmin": 20.8,
+      "xmax": 25.8,
+      "text": "the drying index is quite high today, so i'll hang the laundry outside."
+    }
+  ]
+}

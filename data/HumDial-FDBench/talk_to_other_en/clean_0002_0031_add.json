@@ -1,0 +1,15 @@
+{
+  "final_duration": 30.5,
+  "speech_segments": [
+    {
+      "xmin": 0.75,
+      "xmax": 7.4,
+      "text": "what mindfulness practices are most effective for reducing stress while dieting?"
+    },
+    {
+      "xmin": 12.4,
+      "xmax": 20.5,
+      "text": ""
+    }
+  ]
+}

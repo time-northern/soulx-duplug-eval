@@ -1,0 +1,20 @@
+{
+  "final_duration": 38.39999999999999,
+  "speech_segments": [
+    {
+      "xmin": 1.2,
+      "xmax": 7.0,
+      "text": "what are the key features to look for when collecting commemorative stamps?"
+    },
+    {
+      "xmin": 12.0,
+      "xmax": 18.65,
+      "text": "sorry, i missed that. could you repeat the key features for collecting commemorative stamps?"
+    },
+    {
+      "xmin": 23.65,
+      "xmax": 28.4,
+      "text": "i think i'll go for a run later to work on my cardio."
+    }
+  ]
+}

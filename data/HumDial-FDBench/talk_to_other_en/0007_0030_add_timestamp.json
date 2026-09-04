@@ -1,0 +1,264 @@
+{
+    "text": "Why don't libraries always make the worst decisions at restaurants? Does that mean they take forever to order their main course too? I wonder if the museum has any special exhibits on ancient Egyptian artifacts these months?",
+    "chunks": [
+        {
+            "text": "Why",
+            "timestamp": [
+                0.32,
+                0.72
+            ]
+        },
+        {
+            "text": "don't",
+            "timestamp": [
+                0.72,
+                0.96
+            ]
+        },
+        {
+            "text": "libraries",
+            "timestamp": [
+                0.96,
+                1.84
+            ]
+        },
+        {
+            "text": "always",
+            "timestamp": [
+                2.16,
+                2.48
+            ]
+        },
+        {
+            "text": "make",
+            "timestamp": [
+                2.48,
+                2.8000000000000003
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                3.12,
+                3.44
+            ]
+        },
+        {
+            "text": "worst",
+            "timestamp": [
+                4.4,
+                4.96
+            ]
+        },
+        {
+            "text": "decisions",
+            "timestamp": [
+                5.2,
+                6.16
+            ]
+        },
+        {
+            "text": "at",
+            "timestamp": [
+                6.16,
+                6.48
+            ]
+        },
+        {
+            "text": "restaurants?",
+            "timestamp": [
+                6.48,
+                7.92
+            ]
+        },
+        {
+            "text": "Does",
+            "timestamp": [
+                12.4,
+                12.88
+            ]
+        },
+        {
+            "text": "that",
+            "timestamp": [
+                12.88,
+                13.200000000000001
+            ]
+        },
+        {
+            "text": "mean",
+            "timestamp": [
+                13.200000000000001,
+                13.52
+            ]
+        },
+        {
+            "text": "they",
+            "timestamp": [
+                13.84,
+                14.16
+            ]
+        },
+        {
+            "text": "take",
+            "timestamp": [
+                14.16,
+                14.48
+            ]
+        },
+        {
+            "text": "forever",
+            "timestamp": [
+                14.48,
+                15.36
+            ]
+        },
+        {
+            "text": "to",
+            "timestamp": [
+                15.36,
+                15.68
+            ]
+        },
+        {
+            "text": "order",
+            "timestamp": [
+                15.68,
+                16.16
+            ]
+        },
+        {
+            "text": "their",
+            "timestamp": [
+                16.16,
+                16.48
+            ]
+        },
+        {
+            "text": "main",
+            "timestamp": [
+                16.48,
+                16.8
+            ]
+        },
+        {
+            "text": "course",
+            "timestamp": [
+                16.96,
+                17.2
+            ]
+        },
+        {
+            "text": "too?",
+            "timestamp": [
+                17.68,
+                18.0
+            ]
+        },
+        {
+            "text": "I",
+            "timestamp": [
+                22.72,
+                22.88
+            ]
+        },
+        {
+            "text": "wonder",
+            "timestamp": [
+                22.88,
+                23.36
+            ]
+        },
+        {
+            "text": "if",
+            "timestamp": [
+                23.36,
+                23.6
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                23.6,
+                23.84
+            ]
+        },
+        {
+            "text": "museum",
+            "timestamp": [
+                23.84,
+                24.560000000000002
+            ]
+        },
+        {
+            "text": "has",
+            "timestamp": [
+                24.560000000000002,
+                24.8
+            ]
+        },
+        {
+            "text": "any",
+            "timestamp": [
+                24.8,
+                25.12
+            ]
+        },
+        {
+            "text": "special",
+            "timestamp": [
+                25.12,
+                25.6
+            ]
+        },
+        {
+            "text": "exhibits",
+            "timestamp": [
+                25.6,
+                26.400000000000002
+            ]
+        },
+        {
+            "text": "on",
+            "timestamp": [
+                26.400000000000002,
+                26.72
+            ]
+        },
+        {
+            "text": "ancient",
+            "timestamp": [
+                26.72,
+                27.44
+            ]
+        },
+        {
+            "text": "Egyptian",
+            "timestamp": [
+                27.44,
+                28.400000000000002
+            ]
+        },
+        {
+            "text": "artifacts",
+            "timestamp": [
+                28.400000000000002,
+                29.44
+            ]
+        },
+        {
+            "text": "these",
+            "timestamp": [
+                29.44,
+                29.76
+            ]
+        },
+        {
+            "text": "months?",
+            "timestamp": [
+                29.76,
+                30.64
+            ]
+        }
+    ]
+}

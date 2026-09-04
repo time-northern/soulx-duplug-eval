@@ -1,0 +1,15 @@
+{
+  "final_duration": 24.6,
+  "speech_segments": [
+    {
+      "xmin": 0.5499999999999989,
+      "xmax": 4.149999999999999,
+      "text": "how much l-theanine is typically in a cup of green tea?"
+    },
+    {
+      "xmin": 9.149999999999999,
+      "xmax": 14.599999999999998,
+      "text": ""
+    }
+  ]
+}

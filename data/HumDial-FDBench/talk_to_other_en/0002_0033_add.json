@@ -1,0 +1,20 @@
+{
+  "final_duration": 35.5,
+  "speech_segments": [
+    {
+      "xmin": 0.5,
+      "xmax": 5.15,
+      "text": "what are some creative team building activities for a small remote team?"
+    },
+    {
+      "xmin": 10.15,
+      "xmax": 14.55,
+      "text": "how long does a typical virtual escape room activity last?"
+    },
+    {
+      "xmin": 19.55,
+      "xmax": 25.5,
+      "text": "i found this amazing leather jacket on sale yesterday, it was 50% off."
+    }
+  ]
+}

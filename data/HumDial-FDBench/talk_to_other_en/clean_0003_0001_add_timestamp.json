@@ -1,0 +1,75 @@
+{
+    "text": "What kind of natural pigments workby is the format painting",
+    "chunks": [
+        {
+            "text": "What",
+            "timestamp": [
+                0.64,
+                0.96
+            ]
+        },
+        {
+            "text": "kind",
+            "timestamp": [
+                0.96,
+                1.12
+            ]
+        },
+        {
+            "text": "of",
+            "timestamp": [
+                1.44,
+                1.6
+            ]
+        },
+        {
+            "text": "natural",
+            "timestamp": [
+                1.6,
+                2.16
+            ]
+        },
+        {
+            "text": "pigments",
+            "timestamp": [
+                2.16,
+                2.88
+            ]
+        },
+        {
+            "text": "workby",
+            "timestamp": [
+                3.04,
+                3.68
+            ]
+        },
+        {
+            "text": "is",
+            "timestamp": [
+                3.68,
+                3.7600000000000002
+            ]
+        },
+        {
+            "text": "the",
+            "timestamp": [
+                3.84,
+                4.0
+            ]
+        },
+        {
+            "text": "format",
+            "timestamp": [
+                4.0,
+                4.48
+            ]
+        },
+        {
+            "text": "painting",
+            "timestamp": [
+                4.48,
+                5.12
+            ]
+        }
+    ]
+}

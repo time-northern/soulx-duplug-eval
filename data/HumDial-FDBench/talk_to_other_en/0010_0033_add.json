@@ -1,0 +1,20 @@
+{
+  "final_duration": 42.35,
+  "speech_segments": [
+    {
+      "xmin": 0.4,
+      "xmax": 10.8,
+      "text": "my package was supposed to arrive yesterday but it's still showing 'in transit'. what could be the reason for this delay?"
+    },
+    {
+      "xmin": 15.8,
+      "xmax": 19.950000000000003,
+      "text": "how can i check if weather is the specific cause for my shipment?"
+    },
+    {
+      "xmin": 24.950000000000003,
+      "xmax": 32.35,
+      "text": "do you think the new smartphone's battery life is better than the previous model?"
+    }
+  ]
+}

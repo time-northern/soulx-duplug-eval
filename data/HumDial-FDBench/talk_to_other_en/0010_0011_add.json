@@ -1,0 +1,20 @@
+{
+  "final_duration": 34.35,
+  "speech_segments": [
+    {
+      "xmin": 0.7,
+      "xmax": 5.9,
+      "text": "what's a good post-workout meal for muscle recovery?"
+    },
+    {
+      "xmin": 10.9,
+      "xmax": 14.0,
+      "text": "how soon after my workout should i have this meal?"
+    },
+    {
+      "xmin": 19.0,
+      "xmax": 24.35,
+      "text": "i heard there's a high wind warning for tomorrow, should i secure my patio furniture?"
+    }
+  ]
+}

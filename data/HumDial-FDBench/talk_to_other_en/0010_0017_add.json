@@ -1,0 +1,20 @@
+{
+  "final_duration": 35.65,
+  "speech_segments": [
+    {
+      "xmin": 0.55,
+      "xmax": 6.6,
+      "text": "what are the best types of tea to help with mindfulness and relaxation?"
+    },
+    {
+      "xmin": 11.6,
+      "xmax": 15.2,
+      "text": "how much l-theanine is typically in a cup of green tea?"
+    },
+    {
+      "xmin": 20.2,
+      "xmax": 25.65,
+      "text": "what spf level should i look for in a daily sunscreen for sensitive skin?"
+    }
+  ]
+}

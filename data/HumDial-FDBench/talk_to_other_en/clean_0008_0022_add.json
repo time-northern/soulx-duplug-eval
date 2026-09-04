@@ -1,0 +1,15 @@
+{
+  "final_duration": 24.55,
+  "speech_segments": [
+    {
+      "xmin": 0.5,
+      "xmax": 4.800000000000001,
+      "text": "what personality is usually associated with type a blood?"
+    },
+    {
+      "xmin": 9.8,
+      "xmax": 14.55,
+      "text": ""
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "final_duration": 25.75,
+  "speech_segments": [
+    {
+      "xmin": 0.6500000000000004,
+      "xmax": 4.750000000000002,
+      "text": "why is red paper specifically chosen for these cuttings?"
+    },
+    {
+      "xmin": 9.750000000000004,
+      "xmax": 15.75,
+      "text": ""
+    }
+  ]
+}

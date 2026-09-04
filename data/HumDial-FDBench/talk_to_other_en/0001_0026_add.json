@@ -1,0 +1,20 @@
+{
+  "final_duration": 34.8,
+  "speech_segments": [
+    {
+      "xmin": 0.6,
+      "xmax": 6.25,
+      "text": "what is the best way to measure flour for baking cakes to ensure accuracy?"
+    },
+    {
+      "xmin": 11.25,
+      "xmax": 15.1,
+      "text": "sorry, could you repeat the best way to measure flour for cakes?"
+    },
+    {
+      "xmin": 20.1,
+      "xmax": 24.8,
+      "text": "i wonder if it's going to rain later today; i should probably take an umbrella."
+    }
+  ]
+}

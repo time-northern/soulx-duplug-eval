@@ -1,0 +1,20 @@
+{
+  "final_duration": 32.6,
+  "speech_segments": [
+    {
+      "xmin": 0.85,
+      "xmax": 4.4,
+      "text": "what are the key elements that shape a person's worldview?"
+    },
+    {
+      "xmin": 9.4,
+      "xmax": 12.25,
+      "text": "sorry, could you say that again from the beginning?"
+    },
+    {
+      "xmin": 17.25,
+      "xmax": 22.599999999999998,
+      "text": "i wonder if we should have a barbecue at the family gathering next weekend."
+    }
+  ]
+}

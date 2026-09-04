@@ -1,0 +1,20 @@
+{
+  "final_duration": 33.6,
+  "speech_segments": [
+    {
+      "xmin": 0.8,
+      "xmax": 4.65,
+      "text": "how can i find local friends who share my interest in hiking?"
+    },
+    {
+      "xmin": 9.65,
+      "xmax": 13.55,
+      "text": "which apps have the most active hiking groups in my area?"
+    },
+    {
+      "xmin": 18.55,
+      "xmax": 23.6,
+      "text": "i'm thinking of visiting the modern art exhibition downtown this weekend."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "final_duration": 42.15,
+  "speech_segments": [
+    {
+      "xmin": 0.75,
+      "xmax": 8.65,
+      "text": "who are some influential celebrities actively involved in wildlife conservation efforts?"
+    },
+    {
+      "xmin": 13.65,
+      "xmax": 20.6,
+      "text": "what specific projects has the dicaprio foundation supported recently?"
+    },
+    {
+      "xmin": 25.599999999999998,
+      "xmax": 32.150000000000006,
+      "text": "i've been practicing deep breathing exercises to manage my stress levels lately."
+    }
+  ]
+}

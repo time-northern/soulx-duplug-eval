@@ -1,0 +1,15 @@
+{
+  "final_duration": 26.95,
+  "speech_segments": [
+    {
+      "xmin": 0.40000000000000036,
+      "xmax": 4.5500000000000025,
+      "text": "how can i check if weather is the specific cause for my shipment?"
+    },
+    {
+      "xmin": 9.550000000000002,
+      "xmax": 16.950000000000003,
+      "text": ""
+    }
+  ]
+}

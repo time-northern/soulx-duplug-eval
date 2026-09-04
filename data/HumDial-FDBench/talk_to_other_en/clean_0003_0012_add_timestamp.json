@@ -1,0 +1,61 @@
+{
+    "text": "What happens if a snowman gets too warm?",
+    "chunks": [
+        {
+            "text": "What",
+            "timestamp": [
+                0.48,
+                0.8
+            ]
+        },
+        {
+            "text": "happens",
+            "timestamp": [
+                0.8,
+                1.36
+            ]
+        },
+        {
+            "text": "if",
+            "timestamp": [
+                1.36,
+                1.6
+            ]
+        },
+        {
+            "text": "a",
+            "timestamp": [
+                1.6,
+                1.76
+            ]
+        },
+        {
+            "text": "snowman",
+            "timestamp": [
+                1.76,
+                2.48
+            ]
+        },
+        {
+            "text": "gets",
+            "timestamp": [
+                2.48,
+                2.88
+            ]
+        },
+        {
+            "text": "too",
+            "timestamp": [
+                2.88,
+                3.12
+            ]
+        },
+        {
+            "text": "warm?",
+            "timestamp": [
+                3.12,
+                4.0
+            ]
+        }
+    ]
+}
